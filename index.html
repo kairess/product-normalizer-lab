@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>중고폰 매물 정규화</title>
+<meta name="description" content="브라우저 안에서 도는 0.8B 모델이 중고폰 매물 글에서 글 유형, 모델명, 용량, 색상, 상태를 뽑습니다.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='8' y='3' width='16' height='26' rx='4' fill='%230f6e5a'/%3E%3Crect x='13' y='24' width='6' height='2' rx='1' fill='%23fff'/%3E%3C/svg%3E">
+<!-- GitHub Pages 는 COOP/COEP 헤더를 못 붙인다. 서비스 워커가 대신 붙여 멀티스레드(SharedArrayBuffer)를 켠다 -->
+<script src="coi-serviceworker.js"></script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-in">
+    <span class="mark">product-normalizer-lab</span>
+    <nav>
+      <a href="https://github.com/kairess/product-normalizer-lab">GitHub</a>
+      <a href="https://huggingface.co/kairess/used-phone-normalizer-0.8b-gguf">Hugging Face</a>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <div class="hero-text">
+      <p class="eyebrow">브라우저 안에서 도는 0.8B 모델</p>
+      <h1>대충 쓴 중고폰 매물 글을<br>정식 제품명으로</h1>
+      <p class="lede">글 유형, 모델명, 용량, 색상, 상태를 한 번에 뽑습니다. 모델이 이 탭 안에서 돌아가서 입력한 글은 어디로도 보내지 않습니다.</p>
+    </div>
+    <figure class="bench">
+      <figcaption>판매 폰 글 708건 중 모델·용량·상태를 모두 맞힌 비율</figcaption>
+      <div class="bar me"><span class="bar-label">이 모델</span><span class="bar-track"><span class="bar-fill" style="--v:95.4"></span></span><span class="bar-val">95.4%</span></div>
+      <div class="bar"><span class="bar-label">Claude Haiku</span><span class="bar-track"><span class="bar-fill" style="--v:88.2"></span></span><span class="bar-val">88.2%</span></div>
+      <div class="bar"><span class="bar-label">규칙·사전</span><span class="bar-track"><span class="bar-fill" style="--v:78.2"></span></span><span class="bar-val">78.2%</span></div>
+    </figure>
+  </section>
+
+  <section class="loader" id="loader" data-state="idle">
+    <div class="loader-text">
+      <strong id="loader-title">모델을 불러오면 직접 돌려 볼 수 있습니다</strong>
+      <span id="loader-sub">처음 한 번 <span class="mb"></span>MB를 받습니다. 받은 모델은 이 브라우저에 저장됩니다.</span>
+    </div>
+    <div class="progress" aria-hidden="true"><span id="progress-fill"></span></div>
+    <button type="button" id="load" class="primary">모델 불러오기 · <span class="mb"></span>MB</button>
+  </section>
+
+  <div class="grid">
+    <section class="examples" aria-labelledby="ex-h">
+      <div class="sec-head">
+        <h2 id="ex-h">어려운 예시</h2>
+        <span class="sec-sub">사람도 두 번 읽게 되는 글</span>
+      </div>
+      <ol id="ex-list" class="ex-list"></ol>
+    </section>
+
+    <section class="work" aria-label="입력과 결과">
+      <form id="form" class="card input" autocomplete="off">
+        <div class="field">
+          <label for="title">제목</label>
+          <input id="title" placeholder="예: 15프맥 256 블티 S급">
+        </div>
+        <div class="field">
+          <label for="body">본문</label>
+          <textarea id="body" rows="6" placeholder="매물 글 본문을 붙여 넣으세요"></textarea>
+        </div>
+        <div class="actions">
+          <button type="button" id="clear" class="ghost">지우기</button>
+          <button type="submit" id="run" class="primary">정규화</button>
+        </div>
+      </form>
+
+      <aside id="trap" class="trap" hidden>
+        <span class="trap-label">함정</span>
+        <p id="trap-text"></p>
+      </aside>
+
+      <section id="result" class="card result" aria-live="polite"></section>
+    </section>
+  </div>
+</main>
+
+<footer class="foot">
+  <div class="wrap foot-in">
+    <p>Qwen3.5-0.8B를 LoRA로 미세조정하고 4비트(GGUF Q4_K_M)로 줄였습니다. <a href="https://github.com/ngxson/wllama">wllama</a>(llama.cpp WebAssembly)로 CPU에서 돌리고, 원문에 근거 없는 값은 규칙으로 바로잡은 뒤 카탈로그의 정식명으로 맞춥니다.</p>
+    <p>2026년 10월 기준 아이폰·갤럭시를 다룹니다. 모델과 코드는 <a href="https://github.com/kairess/product-normalizer-lab/blob/main/LICENSE">PolyForm Strict 1.0.0</a>으로 비상업 목적에만 쓸 수 있습니다.</p>
+  </div>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>

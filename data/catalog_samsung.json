@@ -1,0 +1,8009 @@
+{
+  "brand": "Samsung",
+  "sources": [
+    "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ea%b0%a4%eb%9f%ad%ec%8b%9c-s10-25%ec%9d%bc%eb%b6%80%ed%84%b0-%ec%82%ac%ec%a0%84-%ed%8c%90%eb%a7%a4-%ec%8b%a4%ec%8b%9c",
+    "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ea%b0%a4%eb%9f%ad%ec%8b%9c-s10%c2%b7%ea%b0%a4%eb%9f%ad%ec%8b%9c-s10-%ed%94%8c%eb%9d%bc%eb%b0%8d%ea%b3%a0-%ed%95%91%ed%81%ac",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%B5%9C%EC%B4%88-5g-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s10-5g-%EC%B6%9C%EC%8B%9C",
+    "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ea%b0%a4%eb%9f%ad%ec%8b%9c-s20-%ec%82%ac%ec%a0%84-%ed%8c%90%eb%a7%a4-%ec%8b%a4%ec%8b%9c",
+    "https://www.dailian.co.kr/news/view/869860/",
+    "https://kpinews.kr/newsView/179546102869024",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8bts-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s20-bts-%EC%97%90%EB%94%94%EC%85%98-%EA%B3%B5%EA%B0%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s20-fe-6%EC%9D%BC%EB%B6%80%ED%84%B0-%EC%82%AC%EC%A0%84-%EC%98%88%EC%95%BD-%EC%8B%A4%EC%8B%9C",
+    "https://www.gsmarena.com/samsung_quietly_launches_galaxy_s20_fe_2022_with_a_lower_price-news-53837.php",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-s21-%EC%82%AC%EC%A0%84-%EC%98%88%EC%95%BD-%EC%8B%A4%EC%8B%9C",
+    "https://www.inews24.com/view/1659958",
+    "https://news.bizwatch.co.kr/article/industry/2022/01/12/0018",
+    "https://www.dailian.co.kr/news/view/1070222/",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%97%AD%EB%8C%80-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EB%85%B8%ED%8A%B8-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EB%85%B8%ED%8A%B88-%EA%B5%AD%EB%82%B4-%EC%B6%9C",
+    "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%eb%85%b8%ed%8a%b88-%eb%a9%94%ec%9d%b4%ed%94%8c-%ea%b3%a8%eb%93%9c-%ec%b6%9c%ec%8b%9c-4%ea%b0%80%ec%a7%80-%ec%83%89%ec%83%81",
+    "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%eb%85%b8%ed%8a%b89-%ec%a0%84-%ec%84%b8%ea%b3%84-%eb%b3%b8%ea%b2%a9-%ec%b6%9c%ec%8b%9c",
+    "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%eb%8f%84%ed%9a%8c%ec%a0%81-%ea%b0%90%ec%84%b1%ec%9d%98-%ea%b0%a4%eb%9f%ad%ec%8b%9c-%eb%85%b8%ed%8a%b89-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EB%85%B8%ED%8A%B89-%EC%95%8C%ED%8C%8C%EC%9D%B8-%ED%99%94%EC%9D%B4%ED%8A%B8-%EC%B6%9C%EC%8B%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%B0%A8%EC%9B%90%EC%9D%B4-%EB%8B%A4%EB%A5%B8-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EB%85%B8%ED%8A%B810-9%EC%9D%BC%EB%B6%80%ED%84%B0-%EC%82%AC%EC%A0%84",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EB%85%B8%ED%8A%B810-5g-%EC%95%84%EC%9A%B0%EB%9D%BC-%ED%99%94%EC%9D%B4%ED%8A%B8-%EC%83%89%EC%83%81-%EC%8B%A0%EA%B7%9C-%EC%B6%9C",
+    "https://news.samsung.com/kr/%ED%8F%AC%EC%8A%A4-%EC%9E%85%EC%9D%80-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EB%85%B8%ED%8A%B810-5g%EC%8A%A4%ED%83%80%EC%9B%8C%EC%A6%88-%EC%8A%A4%ED%8E%98%EC%85%9C",
+    "https://www.newsis.com/view/NISX20190808_0000735443",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EB%85%B8%ED%8A%B8-20%E2%88%99%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EB%85%B8%ED%8A%B8-20-%EC%9A%B8%ED%8A%B8%EB%9D%BC",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-%EB%85%B8%ED%8A%B820-%EB%AF%B8%EC%8A%A4%ED%8B%B1-%EA%B7%B8%EB%A6%B0-%EC%83%89%EC%83%81-%EC%B6%9C%EC%8B%9C",
+    "https://ko.wikipedia.org/wiki/삼성_갤럭시_S10",
+    "https://ko.wikipedia.org/wiki/삼성_갤럭시_S20",
+    "https://www.samsung.com/sec/support/model/SM-G970NZKAKOO/",
+    "https://www.samsung.com/sec/support/model/SM-G973NZKAKOO/",
+    "https://www.samsung.com/sec/support/model/SM-G975NZKAKOO/",
+    "https://www.samsung.com/sec/support/model/SM-G977NZSAKOO/",
+    "https://www.samsung.com/sec/support/model/SM-G981NZAAKOO/",
+    "https://www.samsung.com/sec/support/model/SM-G988NZKAKOO/",
+    "https://www.samsung.com/sec/support/model/SM-G781NZRAKOO/",
+    "https://www.samsung.com/sec/support/model/SM-N960NZKAKOO/",
+    "https://www.samsung.com/sec/support/model/SM-N971NZKAKOO/",
+    "https://www.samsung.com/sec/support/model/SM-N976NZKAKOO/",
+    "https://www.samsung.com/sec/support/model/SM-N981NZNEKOO/",
+    "https://www.samsungsvc.co.kr/solution/26298",
+    "https://www.samsungsvc.co.kr/solution/39018",
+    "https://www.gsmarena.com/samsung_galaxy_note8-8505.php",
+    "https://www.gsmarena.com/samsung_galaxy_note9-9163.php",
+    "https://www.gsmarena.com/samsung_galaxy_note20_ultra_5g-10261.php",
+    "https://www.gsmarena.com/samsung_galaxy_s20_ultra-10040.php",
+    "https://www.gsmarena.com/samsung_galaxy_s20_fe_5g-10377.php",
+    "https://www.gsmarena.com/samsung_galaxy_s21_fe_5g-10954.php",
+    "https://www.gsmarena.com/samsung_galaxy_s21+_5g-10625.php",
+    "https://www.gsmarena.com/samsung_galaxy_s21_5g-10626.php",
+    "https://www.gsmarena.com/samsung_galaxy_note10_5g-9789.php",
+    "https://www.gsmarena.com/samsung_galaxy_note10+_5g-9787.php",
+    "https://www.samsung.com/sec/smartphones/galaxy-s26/buy/",
+    "https://www.samsung.com/sec/smartphones/galaxy-s26-ultra/buy/",
+    "https://www.samsung.com/sec/smartphones/galaxy-s26/",
+    "https://www.samsung.com/sec/smartphones/galaxy-s26-ultra/",
+    "https://www.samsung.com/sec/smartphones/galaxy-s26-fe/",
+    "https://www.samsung.com/sec/smartphones/galaxy-s25/",
+    "https://www.samsung.com/sec/smartphones/galaxy-s25-ultra/",
+    "https://www.samsung.com/sec/smartphones/galaxy-s25-edge/",
+    "https://www.samsung.com/sec/smartphones/galaxy-s24/",
+    "https://www.samsung.com/sec/smartphones/galaxy-s24-ultra/",
+    "https://news.samsung.com/kr/삼성전자-갤럭시-프리미엄-기능을-담은-갤럭시-s26-fe-공",
+    "https://news.samsung.com/kr/삼성전자-갤럭시-s26-fe-국내-출시",
+    "https://news.samsung.com/kr/삼성전자-갤럭시-s26-시리즈-사전-판매-시작",
+    "https://news.samsung.com/kr/삼성전자-갤럭시-ai로-더욱-강력해진-갤럭시-s25-fe·탭-s11",
+    "https://news.samsung.com/kr/삼성전자-갤럭시-s25-엣지-국내-출시",
+    "https://news.samsung.com/kr/삼성전자-갤럭시-s25-시리즈-공개",
+    "https://news.samsung.com/kr/삼성전자-갤럭시-s25-시리즈-사전-판매-시작",
+    "https://news.samsung.com/kr/삼성전자-갤럭시-s25-시리즈-전-세계-본격-출시",
+    "https://news.samsung.com/kr/삼성전자-갤럭시-s24-fe-국내-출시",
+    "https://news.samsung.com/kr/삼성전자-갤럭시-s24-시리즈-사전-판매-실시",
+    "https://news.samsung.com/kr/삼성전자-갤럭시-s24-시리즈-전세계-본격-출시",
+    "https://news.samsung.com/kr/삼성전자-갤럭시-s23-fe-국내-출시",
+    "https://news.samsung.com/kr/삼성전자-갤럭시-s23-시리즈-사전-판매-실시",
+    "https://news.samsung.com/kr/삼성전자-갤럭시-s23-시리즈-전세계-본격-출시",
+    "https://news.samsung.com/kr/삼성전자-갤럭시-s22-시리즈-사전-판매-실시",
+    "https://news.samsung.com/kr/색다른-갤럭시-s22를-만나보고-싶다면-삼성닷컴-단독-컬",
+    "https://news.samsung.com/kr/삼성전자-갤럭시-s22-보라-퍼플-bora-purple-신규-색상-출시",
+    "https://news.samsung.com/kr/삼성전자-갤럭시-s22·갤럭시-탭-s8-전세계-본격-출시",
+    "https://news.samsung.com/global/samsung-galaxy-s26-fe-delivering-the-latest-flagship-experience-focused-on-what-matters-most",
+    "https://www.gsmarena.com/samsung_galaxy_s26_fe_5g-14870.php",
+    "https://en.wikipedia.org/wiki/Samsung_Galaxy_S26",
+    "https://namu.wiki/w/갤럭시%20S26%20FE",
+    "https://namu.wiki/w/갤럭시%20S26%20울트라",
+    "https://namu.wiki/w/갤럭시%20S25%20FE",
+    "https://namu.wiki/w/갤럭시%20S25%20엣지",
+    "https://namu.wiki/w/갤럭시%20S24%20FE",
+    "https://namu.wiki/w/갤럭시%20S23%20FE",
+    "https://namu.wiki/w/갤럭시%20S22",
+    "https://namu.wiki/w/갤럭시%20S22%20울트라",
+    "https://namu.wiki/w/갤럭시%20S23%20울트라",
+    "https://www.gsmarena.com/samsung_reportedly_cancels_galaxy_s26_edge-news-69935.php",
+    "https://gadgets.beebom.com/news/samsung-galaxy-s26-pro-and-s26-edge-cancelled-officially",
+    "https://zdnet.co.kr/view/?no=20260416155232",
+    "https://www.inven.co.kr/webzine/news/?news=315473",
+    "https://v.daum.net/v/20260727093351388",
+    "https://www.smarttoday.co.kr/ko-kr/articles/109798",
+    "https://www.ytn.co.kr/_ln/0102_202607271049561795",
+    "https://mobile.newsis.com/view/NISX20260722_0003717856",
+    "https://www.sammobile.com/news/every-galaxy-z-flip-8-fold-8-and-ultra-color-officially-revealed/",
+    "https://www.deccanchronicle.com/technology/samsung-unveils-galaxy-z-fold8-ultra-fold8-and-flip8-at-unpacked-event-1973070",
+    "https://www.fnnews.com/news/202606260610437539",
+    "https://www.samsung.com/sec/support/model/SM-F976NZVIKOO/",
+    "https://www.samsung.com/sec/support/model/SM-F776NLIEKOO/",
+    "https://firmwarefile.com/samsung-sm-f971n",
+    "https://news.samsung.com/global/galaxy-unpacked-july-2026-one-city-three-perspectives-capturing-london-with-galaxy-z-fold8-ultra-galaxy-z-fold8-and-galaxy-z-flip8",
+    "https://www.samsung.com/sec/smartphones/galaxy-z-trifold-f968/SM-F968NZKAKOO",
+    "https://www.newsis.com/view/NISX20251202_0003424530",
+    "https://www.droid-life.com/2026/07/27/report-galaxy-z-trifold-2-coming-in-2027/",
+    "https://www.newsis.com/view/NISX20250709_0003245444",
+    "https://www.samsung.com/sec/smartphones/galaxy-z-flip7-fe/specs/",
+    "https://www.etoday.co.kr/news/view/2411217",
+    "https://m.gsmarena.com/samsung_galaxy_z_fold_special-ampp-13452.php",
+    "https://www.fnnews.com/news/202407110802364020",
+    "https://www.sammobile.com/samsung/galaxy-z-fold6/firmware/SM-F956N/KTC",
+    "https://www.sammobile.com/samsung/galaxy-z-flip6/firmware/SM-F741N/KTC",
+    "https://dealsite.co.kr/articles/107805",
+    "https://namu.wiki/w/갤럭시 Z 폴드5",
+    "https://namu.wiki/w/갤럭시 Z 플립5",
+    "https://www.ddaily.co.kr/page/view/2022081510195022989",
+    "https://namu.wiki/w/갤럭시 Z 폴드4",
+    "https://namu.wiki/w/갤럭시 Z 플립4",
+    "https://www.dailian.co.kr/news/view/1022535/",
+    "https://namu.wiki/w/갤럭시 Z 플립3",
+    "https://devicebeast.com/devices/samsung-sm-f926n-galaxy-z-fold3-5g-uw-td-lte-kr-256gb/gallery",
+    "https://news.tf.co.kr/read/economy/1810306.htm",
+    "https://namu.wiki/w/갤럭시 Z 폴드2",
+    "https://namu.wiki/w/갤럭시 폴드",
+    "https://namu.wiki/w/갤럭시 Z 플립",
+    "https://namu.wiki/w/갤럭시 Z 플립 5G",
+    "https://news.jkn.co.kr/post/824980",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a37-5g-%EA%B5%AD%EB%82%B4-%EC%B6%9C%EC%8B%9C",
+    "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-%ea%b0%a4%eb%9f%ad%ec%8b%9c-a36-5g-%ea%b5%ad%eb%82%b4-%ec%b6%9c%ec%8b%9c",
+    "https://news.samsung.com/kr/%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90-ai-%ed%83%91%ec%9e%ac%ed%95%9c-%ec%8b%a4%ec%86%8d%ed%98%95-%ec%8a%a4%eb%a7%88%ed%8a%b8%ed%8f%b0-%ea%b0%a4%eb%9f%ad%ec%8b%9c-a17-lte-%ea%b5%ad%eb%82%b4",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a16-lte-%EA%B5%AD%EB%82%B4-%EC%B6%9C%EC%8B%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a15-lte-%EA%B5%AD%EB%82%B4-%EC%B6%9C%EC%8B%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a25-5g-%EA%B5%AD%EB%82%B4-%EC%B6%9C%EC%8B%9C",
+    "https://news.samsung.com/kr/456735-2",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a34-5g-%EA%B5%AD%EB%82%B4-%EC%B6%9C%EC%8B%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a24-%EA%B5%AD%EB%82%B4-%EC%B6%9C%EC%8B%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a33-5g-%EA%B5%AD%EB%82%B4-%EC%B6%9C%EC%8B%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a23-25%EC%9D%BC-%EC%B6%9C%EC%8B%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a53-5g%C2%B7%EA%B0%A4%EB%9F%AD%EC%8B%9C-a33-5g-%EA%B3%B5%EA%B0%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a52s-5g-%EC%B6%9C%EC%8B%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a52%C2%B7a52-5g%C2%B7a72-%EA%B3%B5%EA%B0%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a42-5g-12%EC%9D%BC-%EC%B6%9C%EC%8B%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a32-12%EC%9D%BC-%EC%B6%9C%EC%8B%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a12-9%EC%9D%BC-%EC%B6%9C%EC%8B%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a21s-20%EC%9D%BC%EB%B6%80%ED%84%B0-%EC%82%AC%EC%A0%84-%ED%8C%90%EB%A7%A4-%EC%8B%A4%EC%8B%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a31-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%82%AC%EC%A0%84-%ED%8C%90%EB%A7%A4-%EC%8B%A4%EC%8B%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-5g-%ED%83%91%EC%9E%AC%ED%95%9C-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a51-5g-5%EC%9B%94-7%EC%9D%BC-%EC%B6%9C%EC%8B%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%B5%9C%EC%B4%88-5g-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a90-5g",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a50-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%82%AC%EC%A0%84-%ED%8C%90%EB%A7%A4-%EC%8B%A4%EC%8B%9C",
+    "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%84%B1%EB%8A%A5%EA%B3%BC-%ED%8E%B8%EC%9D%98%EC%84%B1-%EB%AA%A8%EB%91%90-%EA%B0%96%EC%B6%98-%EA%B0%A4%EB%9F%AD%EC%8B%9C-a30-29%EC%9D%BC",
+    "https://www.samsung.com/sec/smartphones/galaxy-a16-lte-a165/SM-A165NZKEKOO/",
+    "https://www.samsung.com/sec/smartphones/galaxy-a17-a175/SM-A175NLBAKOO/",
+    "https://www.samsung.com/sec/smartphones/galaxy-a37-5g-a376/SM-A376NLVAKOO/",
+    "https://www.samsung.com/sec/smartphones/galaxy-a36-5g-a366/SM-A366NLVAKOO/",
+    "https://www.samsung.com/sec/smartphones/galaxy-a35-5g-a356/SM-A356NLBWKOO/",
+    "https://www.samsung.com/sec/smartphones/galaxy-a25-5g-a256/SM-A256NLBAKOO/",
+    "https://www.samsung.com/sec/smartphones/galaxy-a15-lte-a155/SM-A155NZKEKOO/",
+    "https://www.samsung.com/sec/smartphones/galaxy-a57-5g-a576s-co/SM-A576SZVASKC/",
+    "https://www.samsung.com/sec/smartphones/galaxy-a56-5g-a566s-co/SM-A566SZABSKC/",
+    "https://www.samsung.com/sec/smartphones/galaxy-a55-5g-a556-co/SM-A556SLBBSKC/",
+    "https://news.sktelecom.com/229704",
+    "https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20A%20%EC%8B%9C%EB%A6%AC%EC%A6%88",
+    "https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20%EB%B2%84%EB%94%945",
+    "https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20A%20%EC%8B%9C%EB%A6%AC%EC%A6%88/2025%EB%85%84",
+    "https://en.wikipedia.org/wiki/Samsung_Galaxy_A17",
+    "https://en.wikipedia.org/wiki/Samsung_Galaxy_A26_5G",
+    "https://en.wikipedia.org/wiki/Samsung_Galaxy_A56_5G",
+    "https://en.wikipedia.org/wiki/Samsung_Galaxy_A57_5G",
+    "https://en.wikipedia.org/wiki/Samsung_Galaxy_A55",
+    "https://en.wikipedia.org/wiki/Samsung_Galaxy_A54",
+    "https://en.wikipedia.org/wiki/Samsung_Galaxy_A71",
+    "https://en.wikipedia.org/wiki/Samsung_Galaxy_A52",
+    "https://news.samsung.com/global/user-guide-galaxy-a57-5g-and-galaxy-a37-5g-bringing-latest-innovation-within-reach",
+    "https://news.mtn.co.kr/news-detail/2026082508301186780",
+    "https://www.gizchina.com/samsung/samsung-galaxy-quantum-7-launches-with-six-years-of-updates",
+    "https://www.samsung.com/sec/support/model/SM-A576SZAASKC/",
+    "https://dealsite.co.kr/articles/163886",
+    "https://news.sktelecom.com/214156",
+    "https://www.ddaily.co.kr/page/view/2025080114183348354",
+    "https://helpix.ru/news/202508/101626-anons_samsung_galaxy_quantum_6_dlja_juzhnoj_korei/index.html",
+    "https://www.etoday.co.kr/news/view/2393422",
+    "https://www.samsung.com/sec/smartphones/galaxy-a55-5g-a556-co/SM-A556SLBBSKC",
+    "https://news.sktelecom.com/196223",
+    "https://www.ajunews.com/view/20220420084632841",
+    "https://news.sktelecom.com/133391",
+    "https://m.gsmarena.com/samsung_galaxy_quantum_2-10850.php",
+    "https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20%ED%80%80%ED%85%802",
+    "https://www.samsung.com/sec/support/model/SM-A826SZAASKO/",
+    "https://www.samsung.com/sec/support/model/SM-A826SZWASKO/",
+    "https://www.samsung.com/sec/support/model/SM-A826SLVASKO/",
+    "https://news.sktelecom.com/122598",
+    "https://www.mt.co.kr/tech/2020/05/14/2020051408323466789",
+    "https://www.samsung.com/sec/support/model/SM-A716SZKASKO/",
+    "https://www.samsung.com/sec/support/model/SM-A716SZSASKO/",
+    "https://www.samsung.com/sec/support/model/SM-A716SZBASKO/",
+    "https://biz.newdaily.co.kr/site/data/html/2021/05/14/2021051400016.amp.html",
+    "https://www.samsungsvc.co.kr/solution/205133",
+    "https://www.samsungsvc.co.kr/solution/399481",
+    "https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20%EC%A0%90%ED%94%84",
+    "https://www.dailian.co.kr/news/view/1105519/",
+    "https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20%EC%A0%90%ED%94%842",
+    "https://www.samsung.com/sec/support/model/SM-M446KZWAKTC/",
+    "https://news.bizwatch.co.kr/article/mobile/2025/07/01/0049",
+    "https://www.ddaily.co.kr/page/view/2025062510025491583",
+    "https://www.samsung.com/sec/smartphones/galaxy-m36-5g-sm-m366/SM-M366KZKCKTC",
+    "https://v.daum.net/v/20260702104705736",
+    "https://biz.sbs.co.kr/amp/article/20000320288",
+    "https://www.samsung.com/sec/smartphones/galaxy-a27-5g-a276-co/SM-A276KZKAKTC/",
+    "https://www.dt.co.kr/article/11407446",
+    "https://namu.wiki/w/%EA%B0%A4%EB%9F%AD%EC%8B%9C%20%EB%B2%84%EB%94%94",
+    "https://www.dt.co.kr/article/11450847",
+    "https://www.samsung.com/sec/support/model/SM-M236LZGELUC/",
+    "https://lg.co.kr/media/release/27610",
+    "https://biz.newdaily.co.kr/site/data/html/2025/05/09/2025050900233.amp.html",
+    "https://www.samsung.com/sec/smartphones/galaxy-a16-5g-a166-co/SM-A166LZAELUC/",
+    "https://www.heraldk.com/article/2026051416000062515",
+    "https://www.samsung.com/sec/smartphones/galaxy-a17-5g-a176-co/SM-A176LZKELUC/",
+    "https://www.samsung.com/sec/support/model/SM-A176LZKELUC/",
+    "https://m.dailian.co.kr/news/view/797862",
+    "https://www.samsung.com/sec/support/model/SM-A205SZDASKC/",
+    "https://news.sktelecom.com/148579",
+    "https://technosports.co.in/samsung-galaxy-wide5-launched-in-south-korea/",
+    "https://news.sktelecom.com/181078",
+    "https://www.samsung.com/sec/support/model/SM-A136SZKNSKC/",
+    "https://www.samsung.com/sec/support/model/SM-A136SZWNSKC/",
+    "https://www.samsung.com/sec/support/model/SM-A136SLBNSKC/",
+    "https://news.sktelecom.com/204986",
+    "https://www.samsung.com/sec/smartphones/galaxy-m15-5g-m156-co/SM-M156SDBASKC/",
+    "https://biz.newdaily.co.kr/site/data/html/2024/05/03/2024050300120.amp.html",
+    "https://dealsite.co.kr/articles/143170",
+    "https://www.samsung.com/sec/smartphones/galaxy-m16-5g-m166-co/SM-M166SLGASKC/",
+    "https://www.samsung.com/sec/smartphones/galaxy-m16-5g-m166-co/SM-M166SZKASKC/",
+    "https://news.sktelecom.com/227414",
+    "https://www.fnnews.com/news/202607030927205325",
+    "https://razomua.media/en/news/tekhnolohiyi/samsung-reyestruye-galaxy-a08-4g-i-wide-9-odyn-zaminyt-a07-inshyy-isnuye-lyshe-dlya-odnoho-operatora",
+    "https://www.samsung.com/sec/smartphones/galaxy-m17-5g-m176-co/SM-M176SZKASKC/"
+  ],
+  "models": [
+    {
+      "name": "갤럭시 S10e",
+      "en": "Galaxy S10e",
+      "line": "갤럭시 S",
+      "gen": "10",
+      "variant": "e",
+      "release": "2019-03",
+      "codes": [
+        "SM-G970N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "프리즘 화이트",
+          "en": "Prism White",
+          "aliases": [
+            "프리즘화이트",
+            "화이트",
+            "흰색",
+            "prism white"
+          ]
+        },
+        {
+          "name": "프리즘 블랙",
+          "en": "Prism Black",
+          "aliases": [
+            "프리즘블랙",
+            "블랙",
+            "검정",
+            "prism black"
+          ]
+        },
+        {
+          "name": "카나리아 옐로우",
+          "en": "Canary Yellow",
+          "aliases": [
+            "카나리아옐로우",
+            "옐로우",
+            "노랑",
+            "카나리아 옐로",
+            "카나리 옐로우",
+            "라임",
+            "canary yellow"
+          ]
+        }
+      ],
+      "aliases": [
+        "s10e",
+        "s10 e",
+        "갤s10e",
+        "갤럭시s10e",
+        "갤럭시 s10e",
+        "galaxy s10e",
+        "G970N",
+        "G970"
+      ],
+      "verified": true,
+      "note": "국내 2019-03-08 출시, 국내는 128GB 단일. 국내 색상은 프리즘 화이트/프리즘 블랙/카나리아 옐로우 3종(프리즘 그린·블루 미출시). 'e'는 공식 접미사(공백 없음). 관측 '라임'은 형광 연두빛 카나리아 옐로우로 매핑."
+    },
+    {
+      "name": "갤럭시 S10",
+      "en": "Galaxy S10",
+      "line": "갤럭시 S",
+      "gen": "10",
+      "variant": "",
+      "release": "2019-03",
+      "codes": [
+        "SM-G973N"
+      ],
+      "storage": [
+        "128GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "프리즘 화이트",
+          "en": "Prism White",
+          "aliases": [
+            "프리즘화이트",
+            "화이트",
+            "흰색",
+            "prism white"
+          ]
+        },
+        {
+          "name": "프리즘 블랙",
+          "en": "Prism Black",
+          "aliases": [
+            "프리즘블랙",
+            "블랙",
+            "검정",
+            "prism black"
+          ]
+        },
+        {
+          "name": "프리즘 그린",
+          "en": "Prism Green",
+          "aliases": [
+            "프리즘그린",
+            "그린",
+            "prism green"
+          ]
+        },
+        {
+          "name": "플라밍고 핑크",
+          "en": "Flamingo Pink",
+          "aliases": [
+            "플라밍고핑크",
+            "핑크",
+            "플라밍고",
+            "flamingo pink"
+          ]
+        }
+      ],
+      "aliases": [
+        "s10",
+        "갤s10",
+        "갤럭시s10",
+        "갤럭시 s10",
+        "galaxy s10",
+        "s10 lte",
+        "G973N",
+        "G973"
+      ],
+      "verified": true,
+      "note": "국내 2019-03-08 출시(LTE). 플라밍고 핑크는 2019-04-26 추가, 128GB 전용. 프리즘 블루·카디널 레드는 국내 미출시. 관측 '실버'는 국내 색상 없음(미매핑)."
+    },
+    {
+      "name": "갤럭시 S10 플러스",
+      "en": "Galaxy S10+",
+      "line": "갤럭시 S",
+      "gen": "10",
+      "variant": "플러스",
+      "release": "2019-03",
+      "codes": [
+        "SM-G975N"
+      ],
+      "storage": [
+        "128GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "프리즘 화이트",
+          "en": "Prism White",
+          "aliases": [
+            "프리즘화이트",
+            "prism white"
+          ]
+        },
+        {
+          "name": "프리즘 블랙",
+          "en": "Prism Black",
+          "aliases": [
+            "프리즘블랙",
+            "prism black"
+          ]
+        },
+        {
+          "name": "세라믹 화이트",
+          "en": "Ceramic White",
+          "aliases": [
+            "세라믹화이트",
+            "ceramic white"
+          ]
+        },
+        {
+          "name": "세라믹 블랙",
+          "en": "Ceramic Black",
+          "aliases": [
+            "세라믹블랙",
+            "ceramic black"
+          ]
+        },
+        {
+          "name": "플라밍고 핑크",
+          "en": "Flamingo Pink",
+          "aliases": [
+            "플라밍고핑크",
+            "핑크",
+            "플라밍고",
+            "flamingo pink"
+          ]
+        }
+      ],
+      "aliases": [
+        "s10+",
+        "s10플러스",
+        "s10 플러스",
+        "s10plus",
+        "s10 plus",
+        "s10p",
+        "갤s10+",
+        "갤s10플러스",
+        "갤럭시s10+",
+        "갤럭시s10플러스",
+        "갤럭시 s10+",
+        "galaxy s10+",
+        "galaxy s10 plus",
+        "G975N",
+        "G975"
+      ],
+      "verified": true,
+      "note": "국내 2019-03-08 출시. 128GB=프리즘 화이트/프리즘 블랙(+플라밍고 핑크 2019-04-26 추가), 512GB=세라믹 화이트/세라믹 블랙, 1TB=세라믹 화이트(자급제 전용). 화이트/블랙은 프리즘·세라믹 구분 불가로 일반어 별칭 미부여."
+    },
+    {
+      "name": "갤럭시 S10 5G",
+      "en": "Galaxy S10 5G",
+      "line": "갤럭시 S",
+      "gen": "10",
+      "variant": "5G",
+      "release": "2019-04",
+      "codes": [
+        "SM-G977N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "크라운 실버",
+          "en": "Crown Silver",
+          "aliases": [
+            "크라운실버",
+            "실버",
+            "crown silver"
+          ]
+        },
+        {
+          "name": "마제스틱 블랙",
+          "en": "Majestic Black",
+          "aliases": [
+            "마제스틱블랙",
+            "블랙",
+            "검정",
+            "머제스틱 블랙",
+            "majestic black"
+          ]
+        },
+        {
+          "name": "로얄 골드",
+          "en": "Royal Gold",
+          "aliases": [
+            "로얄골드",
+            "골드",
+            "로열 골드",
+            "로열골드",
+            "royal gold"
+          ]
+        }
+      ],
+      "aliases": [
+        "s10 5g",
+        "s105g",
+        "s10-5g",
+        "갤s10 5g",
+        "갤s105g",
+        "갤럭시s105g",
+        "갤럭시s10 5g",
+        "갤럭시 s10 5g",
+        "galaxy s10 5g",
+        "G977N",
+        "G977"
+      ],
+      "verified": true,
+      "note": "세계 최초 5G 스마트폰, 국내 2019-04-05 출시(국내 선출시). S10+보다 큰 6.7형 별도 하드웨어. 256GB=크라운 실버/마제스틱 블랙/로얄 골드, 512GB=크라운 실버/마제스틱 블랙."
+    },
+    {
+      "name": "갤럭시 S20",
+      "en": "Galaxy S20",
+      "line": "갤럭시 S",
+      "gen": "20",
+      "variant": "",
+      "release": "2020-03",
+      "codes": [
+        "SM-G981N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "코스믹 그레이",
+          "en": "Cosmic Gray",
+          "aliases": [
+            "코스믹그레이",
+            "그레이",
+            "cosmic grey",
+            "cosmic gray",
+            "블랙",
+            "검정"
+          ]
+        },
+        {
+          "name": "클라우드 블루",
+          "en": "Cloud Blue",
+          "aliases": [
+            "클라우드블루",
+            "블루",
+            "cloud blue"
+          ]
+        },
+        {
+          "name": "클라우드 화이트",
+          "en": "Cloud White",
+          "aliases": [
+            "클라우드화이트",
+            "화이트",
+            "흰색",
+            "cloud white"
+          ]
+        },
+        {
+          "name": "클라우드 핑크",
+          "en": "Cloud Pink",
+          "aliases": [
+            "클라우드핑크",
+            "핑크",
+            "cloud pink"
+          ]
+        }
+      ],
+      "aliases": [
+        "s20",
+        "갤s20",
+        "갤럭시s20",
+        "갤럭시 s20",
+        "galaxy s20",
+        "s20 5g",
+        "s205g",
+        "갤럭시 s20 5g",
+        "G981N",
+        "G981"
+      ],
+      "verified": true,
+      "note": "국내 2020-03-06 출시, 국내는 5G 단일(공식명 '갤럭시 S20 5G'), 128GB 단일. 클라우드 핑크는 LG U+ 전용 색상. 관측 '블랙'은 해당 색상 없음(미매핑)."
+    },
+    {
+      "name": "갤럭시 S20 플러스",
+      "en": "Galaxy S20+",
+      "line": "갤럭시 S",
+      "gen": "20",
+      "variant": "플러스",
+      "release": "2020-03",
+      "codes": [
+        "SM-G986N"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "코스믹 그레이",
+          "en": "Cosmic Gray",
+          "aliases": [
+            "코스믹그레이",
+            "그레이",
+            "cosmic grey",
+            "cosmic gray"
+          ]
+        },
+        {
+          "name": "클라우드 블루",
+          "en": "Cloud Blue",
+          "aliases": [
+            "클라우드블루",
+            "cloud blue"
+          ]
+        },
+        {
+          "name": "클라우드 화이트",
+          "en": "Cloud White",
+          "aliases": [
+            "클라우드화이트",
+            "화이트",
+            "흰색",
+            "cloud white"
+          ]
+        },
+        {
+          "name": "아우라 블루",
+          "en": "Aura Blue",
+          "aliases": [
+            "아우라블루",
+            "aura blue"
+          ]
+        },
+        {
+          "name": "아우라 레드",
+          "en": "Aura Red",
+          "aliases": [
+            "아우라레드",
+            "레드",
+            "제니 레드",
+            "aura red"
+          ]
+        },
+        {
+          "name": "퍼플",
+          "en": "Purple",
+          "aliases": [
+            "bts 에디션",
+            "bts에디션",
+            "bts 퍼플",
+            "보라",
+            "haze purple",
+            "purple"
+          ]
+        }
+      ],
+      "aliases": [
+        "s20+",
+        "s20플러스",
+        "s20 플러스",
+        "s20plus",
+        "s20 plus",
+        "s20p",
+        "갤s20+",
+        "갤s20플러스",
+        "갤럭시s20+",
+        "갤럭시s20플러스",
+        "갤럭시 s20+",
+        "galaxy s20+",
+        "galaxy s20 plus",
+        "s20+ 5g",
+        "s20플러스 5g",
+        "s20+ bts",
+        "s20+ bts 에디션",
+        "s20 bts 에디션",
+        "G986N",
+        "G986"
+      ],
+      "verified": true,
+      "note": "국내 2020-03-06 출시, 5G 단일(공식명 '갤럭시 S20+ 5G'), 256GB 단일. 아우라 블루=SKT 전용, 아우라 레드=KT 전용. '퍼플'은 2020-07-09 출시 'S20+ BTS 에디션'(퍼플 헤이즈 마감, 139만7천원) 색상. 블루는 클라우드/아우라 2종이라 '블루' 별칭 미부여."
+    },
+    {
+      "name": "갤럭시 S20 울트라",
+      "en": "Galaxy S20 Ultra",
+      "line": "갤럭시 S",
+      "gen": "20",
+      "variant": "울트라",
+      "release": "2020-03",
+      "codes": [
+        "SM-G988N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "코스믹 그레이",
+          "en": "Cosmic Gray",
+          "aliases": [
+            "코스믹그레이",
+            "그레이",
+            "cosmic grey",
+            "cosmic gray"
+          ]
+        },
+        {
+          "name": "코스믹 블랙",
+          "en": "Cosmic Black",
+          "aliases": [
+            "코스믹블랙",
+            "블랙",
+            "검정",
+            "cosmic black"
+          ]
+        }
+      ],
+      "aliases": [
+        "s20u",
+        "s20울트라",
+        "s20 울트라",
+        "s20ultra",
+        "s20 ultra",
+        "갤s20울트라",
+        "갤s20u",
+        "갤럭시s20울트라",
+        "갤럭시 s20 울트라",
+        "galaxy s20 ultra",
+        "s20 울트라 5g",
+        "s20ultra 5g",
+        "G988N",
+        "G988"
+      ],
+      "verified": true,
+      "note": "국내 2020-03-06 출시(256GB, 코스믹 그레이/코스믹 블랙). 512GB(16GB RAM)는 2020-04-06 삼성닷컴 한정 자급제, 코스믹 블랙 단일. 클라우드 화이트는 국내 미출시."
+    },
+    {
+      "name": "갤럭시 S20 FE",
+      "en": "Galaxy S20 FE",
+      "line": "갤럭시 S",
+      "gen": "20",
+      "variant": "FE",
+      "release": "2020-10",
+      "codes": [
+        "SM-G781N",
+        "SM-G781NK"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "클라우드 레드",
+          "en": "Cloud Red",
+          "aliases": [
+            "클라우드레드",
+            "레드",
+            "cloud red"
+          ]
+        },
+        {
+          "name": "클라우드 라벤더",
+          "en": "Cloud Lavender",
+          "aliases": [
+            "클라우드라벤더",
+            "라벤더",
+            "퍼플",
+            "보라",
+            "cloud lavender"
+          ]
+        },
+        {
+          "name": "클라우드 민트",
+          "en": "Cloud Mint",
+          "aliases": [
+            "클라우드민트",
+            "민트",
+            "cloud mint"
+          ]
+        },
+        {
+          "name": "클라우드 네이비",
+          "en": "Cloud Navy",
+          "aliases": [
+            "클라우드네이비",
+            "네이비",
+            "cloud navy"
+          ]
+        },
+        {
+          "name": "클라우드 화이트",
+          "en": "Cloud White",
+          "aliases": [
+            "클라우드화이트",
+            "화이트",
+            "흰색",
+            "cloud white"
+          ]
+        }
+      ],
+      "aliases": [
+        "s20fe",
+        "s20 fe",
+        "갤s20fe",
+        "갤럭시s20fe",
+        "갤럭시 s20fe",
+        "galaxy s20 fe",
+        "s20 fe 5g",
+        "s20fe 5g",
+        "s20 팬에디션",
+        "s20 fe 2022",
+        "G781N",
+        "G781NK",
+        "G781"
+      ],
+      "verified": true,
+      "note": "국내 2020-10-16 출시(5G, 스냅드래곤 865), 6GB/128GB 단일. 클라우드 오렌지는 국내 미출시. 2022-04 KT·LG U+ 전용 'S20 FE 2022'(SM-G781NK, 동일 하드웨어·70만원, 화이트/라벤더/네이비) 재출시. 관측 '크림색'은 해당 색상 없음(미매핑)."
+    },
+    {
+      "name": "갤럭시 S21",
+      "en": "Galaxy S21",
+      "line": "갤럭시 S",
+      "gen": "21",
+      "variant": "",
+      "release": "2021-01",
+      "codes": [
+        "SM-G991N"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "팬텀 그레이",
+          "en": "Phantom Gray",
+          "aliases": [
+            "팬텀그레이",
+            "그레이",
+            "phantom grey",
+            "phantom gray",
+            "블랙",
+            "검정"
+          ]
+        },
+        {
+          "name": "팬텀 화이트",
+          "en": "Phantom White",
+          "aliases": [
+            "팬텀화이트",
+            "화이트",
+            "흰색",
+            "phantom white"
+          ]
+        },
+        {
+          "name": "팬텀 바이올렛",
+          "en": "Phantom Violet",
+          "aliases": [
+            "팬텀바이올렛",
+            "바이올렛",
+            "퍼플",
+            "보라",
+            "팬텀 퍼플",
+            "phantom violet"
+          ]
+        },
+        {
+          "name": "팬텀 핑크",
+          "en": "Phantom Pink",
+          "aliases": [
+            "팬텀핑크",
+            "핑크",
+            "phantom pink"
+          ]
+        }
+      ],
+      "aliases": [
+        "s21",
+        "갤s21",
+        "갤럭시s21",
+        "갤럭시 s21",
+        "galaxy s21",
+        "s21 5g",
+        "갤럭시 s21 5g",
+        "G991N",
+        "G991"
+      ],
+      "verified": true,
+      "note": "국내 2021-01-29 출시, 5G, 8GB/256GB 단일(99만9900원). 관측 '블랙'은 해당 색상 없음(미매핑)."
+    },
+    {
+      "name": "갤럭시 S21 플러스",
+      "en": "Galaxy S21+",
+      "line": "갤럭시 S",
+      "gen": "21",
+      "variant": "플러스",
+      "release": "2021-01",
+      "codes": [
+        "SM-G996N"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "팬텀 블랙",
+          "en": "Phantom Black",
+          "aliases": [
+            "팬텀블랙",
+            "블랙",
+            "검정",
+            "phantom black"
+          ]
+        },
+        {
+          "name": "팬텀 실버",
+          "en": "Phantom Silver",
+          "aliases": [
+            "팬텀실버",
+            "실버",
+            "phantom silver"
+          ]
+        },
+        {
+          "name": "팬텀 바이올렛",
+          "en": "Phantom Violet",
+          "aliases": [
+            "팬텀바이올렛",
+            "바이올렛",
+            "퍼플",
+            "보라",
+            "팬텀 퍼플",
+            "phantom violet"
+          ]
+        },
+        {
+          "name": "팬텀 핑크",
+          "en": "Phantom Pink",
+          "aliases": [
+            "팬텀핑크",
+            "핑크",
+            "phantom pink"
+          ]
+        }
+      ],
+      "aliases": [
+        "s21+",
+        "s21플러스",
+        "s21 플러스",
+        "s21plus",
+        "s21 plus",
+        "s21p",
+        "갤s21+",
+        "갤s21플러스",
+        "갤럭시s21+",
+        "갤럭시s21플러스",
+        "갤럭시 s21+",
+        "galaxy s21+",
+        "galaxy s21 plus",
+        "s21+ 5g",
+        "G996N",
+        "G996"
+      ],
+      "verified": true,
+      "note": "국내 2021-01-29 출시, 8GB/256GB 단일. 해외 삼성닷컴 전용 팬텀 레드/팬텀 골드는 국내 판매 확인 안 됨(미포함)."
+    },
+    {
+      "name": "갤럭시 S21 울트라",
+      "en": "Galaxy S21 Ultra",
+      "line": "갤럭시 S",
+      "gen": "21",
+      "variant": "울트라",
+      "release": "2021-01",
+      "codes": [
+        "SM-G998N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "팬텀 블랙",
+          "en": "Phantom Black",
+          "aliases": [
+            "팬텀블랙",
+            "블랙",
+            "검정",
+            "phantom black"
+          ]
+        },
+        {
+          "name": "팬텀 실버",
+          "en": "Phantom Silver",
+          "aliases": [
+            "팬텀실버",
+            "실버",
+            "phantom silver"
+          ]
+        },
+        {
+          "name": "팬텀 브라운",
+          "en": "Phantom Brown",
+          "aliases": [
+            "팬텀브라운",
+            "브라운",
+            "phantom brown"
+          ]
+        },
+        {
+          "name": "팬텀 네이비",
+          "en": "Phantom Navy",
+          "aliases": [
+            "팬텀네이비",
+            "네이비",
+            "phantom navy"
+          ]
+        },
+        {
+          "name": "팬텀 티타늄",
+          "en": "Phantom Titanium",
+          "aliases": [
+            "팬텀티타늄",
+            "티타늄",
+            "phantom titanium"
+          ]
+        }
+      ],
+      "aliases": [
+        "s21u",
+        "s21울트라",
+        "s21 울트라",
+        "s21ultra",
+        "s21 ultra",
+        "갤s21울트라",
+        "갤s21u",
+        "갤럭시s21울트라",
+        "갤럭시 s21 울트라",
+        "galaxy s21 ultra",
+        "s21 울트라 5g",
+        "G998N",
+        "G998"
+      ],
+      "verified": true,
+      "note": "국내 2021-01-29 출시. 12GB/256GB, 16GB/512GB. 팬텀 브라운/팬텀 네이비/팬텀 티타늄은 삼성닷컴 한정 자급제(512GB 전용)."
+    },
+    {
+      "name": "갤럭시 S21 FE",
+      "en": "Galaxy S21 FE",
+      "line": "갤럭시 S",
+      "gen": "21",
+      "variant": "FE",
+      "release": "2022-01",
+      "codes": [
+        "SM-G990B",
+        "SM-G990E"
+      ],
+      "storage": [
+        "128GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "그라파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그래파이트",
+            "블랙",
+            "검정",
+            "그레이",
+            "graphite"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "white"
+          ]
+        },
+        {
+          "name": "올리브",
+          "en": "Olive",
+          "aliases": [
+            "그린",
+            "olive"
+          ]
+        },
+        {
+          "name": "라벤더",
+          "en": "Lavender",
+          "aliases": [
+            "퍼플",
+            "보라",
+            "lavender"
+          ]
+        }
+      ],
+      "aliases": [
+        "s21fe",
+        "s21 fe",
+        "갤s21fe",
+        "갤럭시s21fe",
+        "갤럭시 s21fe",
+        "galaxy s21 fe",
+        "s21 fe 5g",
+        "G990B",
+        "G990E",
+        "G990"
+      ],
+      "verified": false,
+      "note": "국내 미출시(삼성 국내 FE는 S20 FE 이후 S23 FE까지 3년 공백). release는 글로벌 출시월(CES 2022 공개, 2022-01). 국내 모델코드(SM-G990N) 없음; 해외판 SM-G990B/E/U 등. storage·색상은 글로벌 기준이며 국내 공식 한글 색상명이 없어 통용 표기 사용. 직구/해외판 매물 대비용. Codes are global (SM-G990B/E)."
+    },
+    {
+      "name": "갤럭시 S22",
+      "en": "Galaxy S22",
+      "line": "갤럭시 S",
+      "gen": "22",
+      "variant": "",
+      "release": "2022-02",
+      "codes": [
+        "SM-S901N"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "팬텀 블랙",
+          "en": "Phantom Black",
+          "aliases": [
+            "팬텀블랙",
+            "블랙",
+            "검정",
+            "phantom black"
+          ]
+        },
+        {
+          "name": "팬텀 화이트",
+          "en": "Phantom White",
+          "aliases": [
+            "팬텀화이트",
+            "화이트",
+            "흰색",
+            "phantom white"
+          ]
+        },
+        {
+          "name": "그린",
+          "en": "Green",
+          "aliases": [
+            "팬텀 그린",
+            "팬텀그린",
+            "딥그린",
+            "green"
+          ]
+        },
+        {
+          "name": "핑크 골드",
+          "en": "Pink Gold",
+          "aliases": [
+            "핑크골드",
+            "핑크",
+            "로즈골드",
+            "로즈 골드",
+            "pink gold"
+          ]
+        },
+        {
+          "name": "보라 퍼플",
+          "en": "Bora Purple",
+          "aliases": [
+            "보라퍼플",
+            "퍼플",
+            "보라",
+            "bora purple"
+          ]
+        }
+      ],
+      "aliases": [
+        "s22",
+        "갤s22",
+        "갤럭시s22",
+        "갤럭시 s22",
+        "galaxy s22",
+        "삼성 갤럭시 s22",
+        "S901N",
+        "S901"
+      ],
+      "verified": true,
+      "note": "KR 출시 2022-02-25, 256GB 단일. 보라 퍼플은 2022-08-10 추가 출시. 국내에서는 삼성닷컴 전용 색상(그라파이트/크림/스카이 블루/바이올렛)이 S22+·S22 울트라에만 출시되고 기본 S22에는 없었음(뉴스룸 기준)."
+    },
+    {
+      "name": "갤럭시 S22 플러스",
+      "en": "Galaxy S22+",
+      "line": "갤럭시 S",
+      "gen": "22",
+      "variant": "플러스",
+      "release": "2022-02",
+      "codes": [
+        "SM-S906N"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "팬텀 블랙",
+          "en": "Phantom Black",
+          "aliases": [
+            "팬텀블랙",
+            "블랙",
+            "검정",
+            "phantom black"
+          ]
+        },
+        {
+          "name": "팬텀 화이트",
+          "en": "Phantom White",
+          "aliases": [
+            "팬텀화이트",
+            "화이트",
+            "흰색",
+            "phantom white"
+          ]
+        },
+        {
+          "name": "그린",
+          "en": "Green",
+          "aliases": [
+            "팬텀 그린",
+            "팬텀그린",
+            "딥그린",
+            "green"
+          ]
+        },
+        {
+          "name": "핑크 골드",
+          "en": "Pink Gold",
+          "aliases": [
+            "핑크골드",
+            "핑크",
+            "로즈골드",
+            "로즈 골드",
+            "pink gold"
+          ]
+        },
+        {
+          "name": "그라파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그래파이트",
+            "graphite"
+          ]
+        },
+        {
+          "name": "스카이 블루",
+          "en": "Sky Blue",
+          "aliases": [
+            "스카이블루",
+            "블루",
+            "sky blue"
+          ]
+        },
+        {
+          "name": "크림",
+          "en": "Cream",
+          "aliases": [
+            "크림색",
+            "cream"
+          ]
+        },
+        {
+          "name": "바이올렛",
+          "en": "Violet",
+          "aliases": [
+            "퍼플",
+            "보라",
+            "violet"
+          ]
+        }
+      ],
+      "aliases": [
+        "s22+",
+        "s22플러스",
+        "s22 플러스",
+        "s22plus",
+        "s22 plus",
+        "갤s22+",
+        "갤s22플러스",
+        "갤럭시s22+",
+        "갤럭시s22플러스",
+        "갤럭시 s22+",
+        "galaxy s22+",
+        "galaxy s22 plus",
+        "S906N",
+        "S906"
+      ],
+      "verified": true,
+      "note": "KR 256GB 단일. 그라파이트/스카이 블루/크림/바이올렛은 삼성닷컴 전용(자급제) 색상."
+    },
+    {
+      "name": "갤럭시 S22 울트라",
+      "en": "Galaxy S22 Ultra",
+      "line": "갤럭시 S",
+      "gen": "22",
+      "variant": "울트라",
+      "release": "2022-02",
+      "codes": [
+        "SM-S908N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "팬텀 블랙",
+          "en": "Phantom Black",
+          "aliases": [
+            "팬텀블랙",
+            "블랙",
+            "검정",
+            "phantom black"
+          ]
+        },
+        {
+          "name": "팬텀 화이트",
+          "en": "Phantom White",
+          "aliases": [
+            "팬텀화이트",
+            "화이트",
+            "흰색",
+            "phantom white"
+          ]
+        },
+        {
+          "name": "그린",
+          "en": "Green",
+          "aliases": [
+            "팬텀 그린",
+            "팬텀그린",
+            "green"
+          ]
+        },
+        {
+          "name": "버건디",
+          "en": "Burgundy",
+          "aliases": [
+            "burgundy"
+          ]
+        },
+        {
+          "name": "그라파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그래파이트",
+            "graphite"
+          ]
+        },
+        {
+          "name": "스카이 블루",
+          "en": "Sky Blue",
+          "aliases": [
+            "스카이블루",
+            "블루",
+            "sky blue"
+          ]
+        },
+        {
+          "name": "레드",
+          "en": "Red",
+          "aliases": [
+            "red"
+          ]
+        }
+      ],
+      "aliases": [
+        "s22u",
+        "s22울트라",
+        "s22 울트라",
+        "s22ultra",
+        "s22 ultra",
+        "갤s22u",
+        "갤s22울트라",
+        "갤럭시s22울트라",
+        "갤럭시 s22u",
+        "galaxy s22 ultra",
+        "S908N",
+        "S908"
+      ],
+      "verified": true,
+      "note": "KR 12GB RAM 모델만 출시. 그라파이트/스카이 블루/레드는 삼성닷컴 전용 색상, 1TB는 삼성닷컴 자급제 전용."
+    },
+    {
+      "name": "갤럭시 S23",
+      "en": "Galaxy S23",
+      "line": "갤럭시 S",
+      "gen": "23",
+      "variant": "",
+      "release": "2023-02",
+      "codes": [
+        "SM-S911N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "팬텀 블랙",
+          "en": "Phantom Black",
+          "aliases": [
+            "팬텀블랙",
+            "블랙",
+            "검정",
+            "phantom black"
+          ]
+        },
+        {
+          "name": "크림",
+          "en": "Cream",
+          "aliases": [
+            "크림색",
+            "크림색상",
+            "화이트",
+            "화이트(크림)",
+            "cream"
+          ]
+        },
+        {
+          "name": "그린",
+          "en": "Green",
+          "aliases": [
+            "green"
+          ]
+        },
+        {
+          "name": "라벤더",
+          "en": "Lavender",
+          "aliases": [
+            "라벤다",
+            "lavender"
+          ]
+        },
+        {
+          "name": "그라파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그래파이트",
+            "graphite"
+          ]
+        },
+        {
+          "name": "라임",
+          "en": "Lime",
+          "aliases": [
+            "lime"
+          ]
+        }
+      ],
+      "aliases": [
+        "s23",
+        "갤s23",
+        "갤럭시s23",
+        "갤럭시 s23",
+        "galaxy s23",
+        "삼성 갤럭시s23",
+        "삼성 갤럭시 s23",
+        "S911N",
+        "S911"
+      ],
+      "verified": true,
+      "note": "KR 출시 2023-02-17. 그라파이트/라임은 삼성닷컴·삼성 강남 전용 색상."
+    },
+    {
+      "name": "갤럭시 S23 플러스",
+      "en": "Galaxy S23+",
+      "line": "갤럭시 S",
+      "gen": "23",
+      "variant": "플러스",
+      "release": "2023-02",
+      "codes": [
+        "SM-S916N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "팬텀 블랙",
+          "en": "Phantom Black",
+          "aliases": [
+            "팬텀블랙",
+            "블랙",
+            "검정",
+            "phantom black"
+          ]
+        },
+        {
+          "name": "크림",
+          "en": "Cream",
+          "aliases": [
+            "크림색",
+            "크림색상",
+            "화이트",
+            "화이트(크림)",
+            "cream"
+          ]
+        },
+        {
+          "name": "그린",
+          "en": "Green",
+          "aliases": [
+            "green"
+          ]
+        },
+        {
+          "name": "라벤더",
+          "en": "Lavender",
+          "aliases": [
+            "라벤다",
+            "lavender"
+          ]
+        },
+        {
+          "name": "그라파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그래파이트",
+            "graphite"
+          ]
+        },
+        {
+          "name": "라임",
+          "en": "Lime",
+          "aliases": [
+            "lime"
+          ]
+        }
+      ],
+      "aliases": [
+        "s23+",
+        "s23플러스",
+        "s23 플러스",
+        "s23plus",
+        "s23 plus",
+        "갤s23+",
+        "갤s23플러스",
+        "갤럭시s23+",
+        "갤럭시s23플러스",
+        "갤럭시 s23+",
+        "galaxy s23+",
+        "galaxy s23 plus",
+        "S916N",
+        "S916"
+      ],
+      "verified": true,
+      "note": "그라파이트/라임은 삼성닷컴·삼성 강남 전용 색상."
+    },
+    {
+      "name": "갤럭시 S23 울트라",
+      "en": "Galaxy S23 Ultra",
+      "line": "갤럭시 S",
+      "gen": "23",
+      "variant": "울트라",
+      "release": "2023-02",
+      "codes": [
+        "SM-S918N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "팬텀 블랙",
+          "en": "Phantom Black",
+          "aliases": [
+            "팬텀블랙",
+            "블랙",
+            "검정",
+            "phantom black"
+          ]
+        },
+        {
+          "name": "크림",
+          "en": "Cream",
+          "aliases": [
+            "크림색",
+            "크림색상",
+            "화이트",
+            "화이트(크림)",
+            "cream"
+          ]
+        },
+        {
+          "name": "그린",
+          "en": "Green",
+          "aliases": [
+            "진그린",
+            "green"
+          ]
+        },
+        {
+          "name": "라벤더",
+          "en": "Lavender",
+          "aliases": [
+            "라벤다",
+            "lavender"
+          ]
+        },
+        {
+          "name": "그라파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그래파이트",
+            "graphite"
+          ]
+        },
+        {
+          "name": "라임",
+          "en": "Lime",
+          "aliases": [
+            "lime"
+          ]
+        },
+        {
+          "name": "스카이블루",
+          "en": "Sky Blue",
+          "aliases": [
+            "스카이 블루",
+            "블루",
+            "sky blue"
+          ]
+        },
+        {
+          "name": "레드",
+          "en": "Red",
+          "aliases": [
+            "red"
+          ]
+        }
+      ],
+      "aliases": [
+        "s23u",
+        "s23울트라",
+        "s23 울트라",
+        "s23ultra",
+        "s23 ultra",
+        "갤s23u",
+        "갤s23울트라",
+        "갤럭시s23울트라",
+        "갤럭시 s23u",
+        "galaxy s23 ultra",
+        "삼성 s23 울트라",
+        "S918N",
+        "S918"
+      ],
+      "verified": true,
+      "note": "그라파이트/스카이블루/라임/레드는 삼성닷컴 전용 색상(256/512GB). 1TB는 삼성닷컴 단독. SKT 스타벅스 에디션·BMW M 에디션(팬텀 블랙) 한정판 존재 — 별도 색상 아님."
+    },
+    {
+      "name": "갤럭시 S23 FE",
+      "en": "Galaxy S23 FE",
+      "line": "갤럭시 S",
+      "gen": "23",
+      "variant": "FE",
+      "release": "2023-12",
+      "codes": [
+        "SM-S711N"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "민트",
+          "en": "Mint",
+          "aliases": [
+            "mint"
+          ]
+        },
+        {
+          "name": "그라파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그래파이트",
+            "graphite"
+          ]
+        },
+        {
+          "name": "퍼플",
+          "en": "Purple",
+          "aliases": [
+            "바이올렛",
+            "보라",
+            "purple"
+          ]
+        },
+        {
+          "name": "크림",
+          "en": "Cream",
+          "aliases": [
+            "크림색",
+            "화이트",
+            "cream"
+          ]
+        },
+        {
+          "name": "인디고",
+          "en": "Indigo",
+          "aliases": [
+            "indigo"
+          ]
+        },
+        {
+          "name": "탠저린",
+          "en": "Tangerine",
+          "aliases": [
+            "텐저린",
+            "오렌지",
+            "tangerine"
+          ]
+        }
+      ],
+      "aliases": [
+        "s23fe",
+        "s23 fe",
+        "갤s23fe",
+        "갤럭시s23fe",
+        "갤럭시 s23fe",
+        "galaxy s23 fe",
+        "삼성 갤럭시 s23fe",
+        "S711N",
+        "S711"
+      ],
+      "verified": true,
+      "note": "글로벌 공개 2023-10, 국내 출시 2023-12-08, KR 256GB 단일. 인디고/탠저린은 삼성닷컴·삼성 강남 전용."
+    },
+    {
+      "name": "갤럭시 S24",
+      "en": "Galaxy S24",
+      "line": "갤럭시 S",
+      "gen": "24",
+      "variant": "",
+      "release": "2024-01",
+      "codes": [
+        "SM-S921N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "오닉스 블랙",
+          "en": "Onyx Black",
+          "aliases": [
+            "오닉스블랙",
+            "블랙",
+            "onyx black"
+          ]
+        },
+        {
+          "name": "마블 그레이",
+          "en": "Marble Grey",
+          "aliases": [
+            "마블그레이",
+            "그레이",
+            "marble gray",
+            "marble grey"
+          ]
+        },
+        {
+          "name": "코발트 바이올렛",
+          "en": "Cobalt Violet",
+          "aliases": [
+            "코발트바이올렛",
+            "바이올렛",
+            "퍼플",
+            "cobalt violet"
+          ]
+        },
+        {
+          "name": "앰버 옐로우",
+          "en": "Amber Yellow",
+          "aliases": [
+            "앰버옐로우",
+            "옐로우",
+            "엘로우",
+            "엠버옐로우",
+            "엠버 옐로우",
+            "amber yellow"
+          ]
+        },
+        {
+          "name": "제이드 그린",
+          "en": "Jade Green",
+          "aliases": [
+            "제이드그린",
+            "그린",
+            "jade green"
+          ]
+        },
+        {
+          "name": "사파이어 블루",
+          "en": "Sapphire Blue",
+          "aliases": [
+            "사파이어블루",
+            "블루",
+            "sapphire blue"
+          ]
+        },
+        {
+          "name": "샌드스톤 오렌지",
+          "en": "Sandstone Orange",
+          "aliases": [
+            "샌드스톤오렌지",
+            "오렌지",
+            "sandstone orange"
+          ]
+        }
+      ],
+      "aliases": [
+        "s24",
+        "갤s24",
+        "갤럭시s24",
+        "갤럭시 s24",
+        "galaxy s24",
+        "S921N",
+        "S921"
+      ],
+      "verified": true,
+      "note": "KR 출시 2024-01-31. 제이드 그린/사파이어 블루/샌드스톤 오렌지는 삼성닷컴·삼성 강남 전용 색상."
+    },
+    {
+      "name": "갤럭시 S24 플러스",
+      "en": "Galaxy S24+",
+      "line": "갤럭시 S",
+      "gen": "24",
+      "variant": "플러스",
+      "release": "2024-01",
+      "codes": [
+        "SM-S926N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "오닉스 블랙",
+          "en": "Onyx Black",
+          "aliases": [
+            "오닉스블랙",
+            "블랙",
+            "onyx black"
+          ]
+        },
+        {
+          "name": "마블 그레이",
+          "en": "Marble Grey",
+          "aliases": [
+            "마블그레이",
+            "그레이",
+            "marble gray",
+            "marble grey"
+          ]
+        },
+        {
+          "name": "코발트 바이올렛",
+          "en": "Cobalt Violet",
+          "aliases": [
+            "코발트바이올렛",
+            "바이올렛",
+            "퍼플",
+            "cobalt violet"
+          ]
+        },
+        {
+          "name": "앰버 옐로우",
+          "en": "Amber Yellow",
+          "aliases": [
+            "앰버옐로우",
+            "옐로우",
+            "엘로우",
+            "엠버옐로우",
+            "엠버 옐로우",
+            "amber yellow"
+          ]
+        },
+        {
+          "name": "제이드 그린",
+          "en": "Jade Green",
+          "aliases": [
+            "제이드그린",
+            "그린",
+            "jade green"
+          ]
+        },
+        {
+          "name": "사파이어 블루",
+          "en": "Sapphire Blue",
+          "aliases": [
+            "사파이어블루",
+            "블루",
+            "sapphire blue"
+          ]
+        },
+        {
+          "name": "샌드스톤 오렌지",
+          "en": "Sandstone Orange",
+          "aliases": [
+            "샌드스톤오렌지",
+            "오렌지",
+            "sandstone orange"
+          ]
+        }
+      ],
+      "aliases": [
+        "s24+",
+        "s24플러스",
+        "s24 플러스",
+        "s24plus",
+        "s24 plus",
+        "갤s24+",
+        "갤s24플러스",
+        "갤럭시s24+",
+        "갤럭시s24플러스",
+        "갤럭시 s24+",
+        "galaxy s24+",
+        "galaxy s24 plus",
+        "S926N",
+        "S926"
+      ],
+      "verified": true,
+      "note": "제이드 그린/사파이어 블루/샌드스톤 오렌지는 삼성닷컴·삼성 강남 전용 색상."
+    },
+    {
+      "name": "갤럭시 S24 울트라",
+      "en": "Galaxy S24 Ultra",
+      "line": "갤럭시 S",
+      "gen": "24",
+      "variant": "울트라",
+      "release": "2024-01",
+      "codes": [
+        "SM-S928N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "티타늄 블랙",
+          "en": "Titanium Black",
+          "aliases": [
+            "티타늄블랙",
+            "블랙",
+            "팬텀 블랙",
+            "titanium black"
+          ]
+        },
+        {
+          "name": "티타늄 그레이",
+          "en": "Titanium Gray",
+          "aliases": [
+            "티타늄그레이",
+            "그레이",
+            "titanium grey",
+            "titanium gray"
+          ]
+        },
+        {
+          "name": "티타늄 바이올렛",
+          "en": "Titanium Violet",
+          "aliases": [
+            "티타늄바이올렛",
+            "바이올렛",
+            "퍼플",
+            "titanium violet"
+          ]
+        },
+        {
+          "name": "티타늄 옐로우",
+          "en": "Titanium Yellow",
+          "aliases": [
+            "티타늄옐로우",
+            "옐로우",
+            "titanium yellow"
+          ]
+        },
+        {
+          "name": "티타늄 블루",
+          "en": "Titanium Blue",
+          "aliases": [
+            "티타늄블루",
+            "블루",
+            "titanium blue"
+          ]
+        },
+        {
+          "name": "티타늄 그린",
+          "en": "Titanium Green",
+          "aliases": [
+            "티타늄그린",
+            "그린",
+            "titanium green"
+          ]
+        },
+        {
+          "name": "티타늄 오렌지",
+          "en": "Titanium Orange",
+          "aliases": [
+            "티타늄오렌지",
+            "오렌지",
+            "티탄늄 오렌지",
+            "titanium orange"
+          ]
+        }
+      ],
+      "aliases": [
+        "s24u",
+        "s24울트라",
+        "s24 울트라",
+        "s24ultra",
+        "s24 ultra",
+        "갤s24u",
+        "갤s24울트라",
+        "갤럭시s24울트라",
+        "갤럭시 s24u",
+        "galaxy s24 ultra",
+        "S928N",
+        "S928"
+      ],
+      "verified": true,
+      "note": "티타늄 그린/티타늄 블루/티타늄 오렌지는 삼성닷컴·삼성 강남 전용 색상."
+    },
+    {
+      "name": "갤럭시 S24 FE",
+      "en": "Galaxy S24 FE",
+      "line": "갤럭시 S",
+      "gen": "24",
+      "variant": "FE",
+      "release": "2024-11",
+      "codes": [
+        "SM-S721N"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "그라파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그래파이트",
+            "블랙",
+            "graphite"
+          ]
+        },
+        {
+          "name": "그레이",
+          "en": "Gray",
+          "aliases": [
+            "grey",
+            "gray"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "blue"
+          ]
+        },
+        {
+          "name": "옐로우",
+          "en": "Yellow",
+          "aliases": [
+            "엘로우",
+            "바나나우유색",
+            "yellow"
+          ]
+        }
+      ],
+      "aliases": [
+        "s24fe",
+        "s24 fe",
+        "갤s24fe",
+        "갤럭시s24fe",
+        "갤럭시 s24fe",
+        "galaxy s24 fe",
+        "S721N",
+        "S721"
+      ],
+      "verified": true,
+      "note": "국내 출시 2024-11-01, KR 256GB 단일. 글로벌 민트 색상은 국내 미출시."
+    },
+    {
+      "name": "갤럭시 S25",
+      "en": "Galaxy S25",
+      "line": "갤럭시 S",
+      "gen": "25",
+      "variant": "",
+      "release": "2025-02",
+      "codes": [
+        "SM-S931N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "네이비",
+          "en": "Navy",
+          "aliases": [
+            "navy"
+          ]
+        },
+        {
+          "name": "아이스블루",
+          "en": "Icyblue",
+          "aliases": [
+            "아이스 블루",
+            "아이시블루",
+            "아이시 블루",
+            "icy blue",
+            "icyblue"
+          ]
+        },
+        {
+          "name": "민트",
+          "en": "Mint",
+          "aliases": [
+            "mint"
+          ]
+        },
+        {
+          "name": "실버 쉐도우",
+          "en": "Silver Shadow",
+          "aliases": [
+            "실버쉐도우",
+            "실버 섀도우",
+            "실버섀도우",
+            "실버",
+            "silver shadow"
+          ]
+        },
+        {
+          "name": "블루블랙",
+          "en": "Blueblack",
+          "aliases": [
+            "블루 블랙",
+            "blue black",
+            "blueblack"
+          ]
+        },
+        {
+          "name": "코랄레드",
+          "en": "Coralred",
+          "aliases": [
+            "코랄 레드",
+            "레드",
+            "coral red",
+            "coralred"
+          ]
+        },
+        {
+          "name": "핑크골드",
+          "en": "Pinkgold",
+          "aliases": [
+            "핑크 골드",
+            "핑크",
+            "pink gold",
+            "pinkgold"
+          ]
+        }
+      ],
+      "aliases": [
+        "s25",
+        "갤s25",
+        "갤럭시s25",
+        "갤럭시 s25",
+        "galaxy s25",
+        "S931N",
+        "S931"
+      ],
+      "verified": true,
+      "note": "KR 출시 2025-02-07. 코랄레드/블루블랙/핑크골드는 삼성닷컴·삼성 강남 전용 색상. 뉴스룸 표기 '아이스블루'(삼성닷컴 일부 '아이스 블루', 영문 Icyblue)."
+    },
+    {
+      "name": "갤럭시 S25 플러스",
+      "en": "Galaxy S25+",
+      "line": "갤럭시 S",
+      "gen": "25",
+      "variant": "플러스",
+      "release": "2025-02",
+      "codes": [
+        "SM-S936N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "네이비",
+          "en": "Navy",
+          "aliases": [
+            "navy"
+          ]
+        },
+        {
+          "name": "아이스블루",
+          "en": "Icyblue",
+          "aliases": [
+            "아이스 블루",
+            "아이시블루",
+            "아이시 블루",
+            "icy blue",
+            "icyblue"
+          ]
+        },
+        {
+          "name": "민트",
+          "en": "Mint",
+          "aliases": [
+            "mint"
+          ]
+        },
+        {
+          "name": "실버 쉐도우",
+          "en": "Silver Shadow",
+          "aliases": [
+            "실버쉐도우",
+            "실버 섀도우",
+            "실버섀도우",
+            "실버",
+            "silver shadow"
+          ]
+        },
+        {
+          "name": "블루블랙",
+          "en": "Blueblack",
+          "aliases": [
+            "블루 블랙",
+            "blue black",
+            "blueblack"
+          ]
+        },
+        {
+          "name": "코랄레드",
+          "en": "Coralred",
+          "aliases": [
+            "코랄 레드",
+            "레드",
+            "coral red",
+            "coralred"
+          ]
+        },
+        {
+          "name": "핑크골드",
+          "en": "Pinkgold",
+          "aliases": [
+            "핑크 골드",
+            "핑크",
+            "pink gold",
+            "pinkgold"
+          ]
+        }
+      ],
+      "aliases": [
+        "s25+",
+        "s25플러스",
+        "s25 플러스",
+        "s25plus",
+        "s25 plus",
+        "갤s25+",
+        "갤s25플러스",
+        "갤럭시s25+",
+        "갤럭시s25플러스",
+        "갤럭시 s25+",
+        "galaxy s25+",
+        "galaxy s25 plus",
+        "S936N",
+        "S936"
+      ],
+      "verified": true,
+      "note": "코랄레드/블루블랙/핑크골드는 삼성닷컴·삼성 강남 전용 색상."
+    },
+    {
+      "name": "갤럭시 S25 울트라",
+      "en": "Galaxy S25 Ultra",
+      "line": "갤럭시 S",
+      "gen": "25",
+      "variant": "울트라",
+      "release": "2025-02",
+      "codes": [
+        "SM-S938N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "티타늄 실버블루",
+          "en": "Titanium Silverblue",
+          "aliases": [
+            "티타늄실버블루",
+            "티타늄 실버 블루",
+            "실버블루",
+            "블루",
+            "titanium silver blue",
+            "titanium silverblue"
+          ]
+        },
+        {
+          "name": "티타늄 블랙",
+          "en": "Titanium Black",
+          "aliases": [
+            "티타늄블랙",
+            "titanium black"
+          ]
+        },
+        {
+          "name": "티타늄 화이트실버",
+          "en": "Titanium Whitesilver",
+          "aliases": [
+            "티타늄화이트실버",
+            "티타늄 화이트 실버",
+            "화이트실버",
+            "화이트",
+            "titanium white silver",
+            "titanium whitesilver"
+          ]
+        },
+        {
+          "name": "티타늄 그레이",
+          "en": "Titanium Gray",
+          "aliases": [
+            "티타늄그레이",
+            "그레이",
+            "titanium grey",
+            "titanium gray"
+          ]
+        },
+        {
+          "name": "티타늄 제트블랙",
+          "en": "Titanium Jetblack",
+          "aliases": [
+            "티타늄제트블랙",
+            "티타늄 제트 블랙",
+            "제트블랙",
+            "titanium jet black",
+            "titanium jetblack"
+          ]
+        },
+        {
+          "name": "티타늄 제이드그린",
+          "en": "Titanium Jadegreen",
+          "aliases": [
+            "티타늄제이드그린",
+            "티타늄 제이드 그린",
+            "제이드그린",
+            "제이드",
+            "그린",
+            "titanium jade green",
+            "titanium jadegreen"
+          ]
+        },
+        {
+          "name": "티타늄 핑크골드",
+          "en": "Titanium Pinkgold",
+          "aliases": [
+            "티타늄핑크골드",
+            "티타늄 핑크 골드",
+            "핑크골드",
+            "핑크",
+            "titanium pink gold",
+            "titanium pinkgold"
+          ]
+        }
+      ],
+      "aliases": [
+        "s25u",
+        "s25울트라",
+        "s25 울트라",
+        "s25ultra",
+        "s25 ultra",
+        "갤s25u",
+        "갤s25울트라",
+        "갤럭시s25울트라",
+        "갤럭시 s25u",
+        "galaxy s25 ultra",
+        "S938N",
+        "S938"
+      ],
+      "verified": true,
+      "note": "티타늄 제트블랙/제이드그린/핑크골드는 삼성닷컴·삼성 강남 전용 색상. 16GB RAM+1TB 모델은 티타늄 제트블랙 단일, 삼성닷컴 전용."
+    },
+    {
+      "name": "갤럭시 S25 엣지",
+      "en": "Galaxy S25 Edge",
+      "line": "갤럭시 S",
+      "gen": "25",
+      "variant": "엣지",
+      "release": "2025-05",
+      "codes": [
+        "SM-S937N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "티타늄 실버",
+          "en": "Titanium Silver",
+          "aliases": [
+            "티타늄실버",
+            "실버",
+            "titanium silver"
+          ]
+        },
+        {
+          "name": "티타늄 제트블랙",
+          "en": "Titanium Jetblack",
+          "aliases": [
+            "티타늄제트블랙",
+            "티타늄 제트 블랙",
+            "제트블랙",
+            "블랙",
+            "titanium jet black",
+            "titanium jetblack"
+          ]
+        },
+        {
+          "name": "티타늄 아이스블루",
+          "en": "Titanium Icyblue",
+          "aliases": [
+            "티타늄아이스블루",
+            "티타늄 아이스 블루",
+            "아이스블루",
+            "아이스 블루",
+            "블루",
+            "titanium icy blue",
+            "titanium icyblue"
+          ]
+        }
+      ],
+      "aliases": [
+        "s25엣지",
+        "s25 엣지",
+        "s25edge",
+        "s25 edge",
+        "갤s25엣지",
+        "갤럭시s25엣지",
+        "galaxy s25 edge",
+        "S937N",
+        "S937"
+      ],
+      "verified": true,
+      "note": "공개 2025-05-13, 국내 출시 2025-05-23. 엣지 라인은 S25 엣지 1세대로 종료(S26 엣지 개발 취소)."
+    },
+    {
+      "name": "갤럭시 S25 FE",
+      "en": "Galaxy S25 FE",
+      "line": "갤럭시 S",
+      "gen": "25",
+      "variant": "FE",
+      "release": "2025-09",
+      "codes": [
+        "SM-S731N"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "네이비",
+          "en": "Navy",
+          "aliases": [
+            "딥블루",
+            "navy"
+          ]
+        },
+        {
+          "name": "아이스블루",
+          "en": "Icyblue",
+          "aliases": [
+            "아이스 블루",
+            "아이시블루",
+            "icy blue",
+            "icyblue"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "white"
+          ]
+        },
+        {
+          "name": "제트블랙",
+          "en": "Jetblack",
+          "aliases": [
+            "제트 블랙",
+            "블랙",
+            "jet black",
+            "jetblack"
+          ]
+        }
+      ],
+      "aliases": [
+        "s25fe",
+        "s25 fe",
+        "갤s25fe",
+        "갤럭시s25fe",
+        "갤럭시 s25fe",
+        "galaxy s25 fe",
+        "S731N",
+        "S731"
+      ],
+      "verified": true,
+      "note": "IFA 2025(2025-09-04) 공개, 국내 출시 2025-09-19, KR 256GB 단일."
+    },
+    {
+      "name": "갤럭시 S26",
+      "en": "Galaxy S26",
+      "line": "갤럭시 S",
+      "gen": "26",
+      "variant": "",
+      "release": "2026-03",
+      "codes": [
+        "SM-S942N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "코발트 바이올렛",
+          "en": "Cobalt Violet",
+          "aliases": [
+            "코발트바이올렛",
+            "바이올렛",
+            "퍼플",
+            "cobalt violet"
+          ]
+        },
+        {
+          "name": "스카이 블루",
+          "en": "Sky Blue",
+          "aliases": [
+            "스카이블루",
+            "블루",
+            "라이트 블루",
+            "라이트블루",
+            "sky blue"
+          ]
+        },
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "white"
+          ]
+        },
+        {
+          "name": "핑크 골드",
+          "en": "Pink Gold",
+          "aliases": [
+            "핑크골드",
+            "핑크",
+            "pink gold"
+          ]
+        },
+        {
+          "name": "실버 쉐도우",
+          "en": "Silver Shadow",
+          "aliases": [
+            "실버쉐도우",
+            "실버 섀도우",
+            "실버섀도우",
+            "실버",
+            "silver shadow"
+          ]
+        }
+      ],
+      "aliases": [
+        "s26",
+        "갤s26",
+        "갤럭시s26",
+        "갤럭시 s26",
+        "galaxy s26",
+        "S942N",
+        "S942"
+      ],
+      "verified": true,
+      "note": "공개 2026-02-25, 국내 출시 2026-03-11. 핑크 골드/실버 쉐도우는 삼성닷컴·삼성 강남 전용 색상."
+    },
+    {
+      "name": "갤럭시 S26 플러스",
+      "en": "Galaxy S26+",
+      "line": "갤럭시 S",
+      "gen": "26",
+      "variant": "플러스",
+      "release": "2026-03",
+      "codes": [
+        "SM-S947N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "코발트 바이올렛",
+          "en": "Cobalt Violet",
+          "aliases": [
+            "코발트바이올렛",
+            "바이올렛",
+            "퍼플",
+            "cobalt violet"
+          ]
+        },
+        {
+          "name": "스카이 블루",
+          "en": "Sky Blue",
+          "aliases": [
+            "스카이블루",
+            "블루",
+            "라이트 블루",
+            "라이트블루",
+            "아이스 블루",
+            "아이스블루",
+            "sky blue"
+          ]
+        },
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "white"
+          ]
+        },
+        {
+          "name": "핑크 골드",
+          "en": "Pink Gold",
+          "aliases": [
+            "핑크골드",
+            "핑크",
+            "pink gold"
+          ]
+        },
+        {
+          "name": "실버 쉐도우",
+          "en": "Silver Shadow",
+          "aliases": [
+            "실버쉐도우",
+            "실버 섀도우",
+            "실버섀도우",
+            "실버",
+            "silver shadow"
+          ]
+        }
+      ],
+      "aliases": [
+        "s26+",
+        "s26플러스",
+        "s26 플러스",
+        "s26plus",
+        "s26 plus",
+        "갤s26+",
+        "갤s26플러스",
+        "갤럭시s26+",
+        "갤럭시s26플러스",
+        "갤럭시 s26+",
+        "galaxy s26+",
+        "galaxy s26 plus",
+        "S947N",
+        "S947"
+      ],
+      "verified": true,
+      "note": "핑크 골드/실버 쉐도우는 삼성닷컴·삼성 강남 전용 색상."
+    },
+    {
+      "name": "갤럭시 S26 울트라",
+      "en": "Galaxy S26 Ultra",
+      "line": "갤럭시 S",
+      "gen": "26",
+      "variant": "울트라",
+      "release": "2026-03",
+      "codes": [
+        "SM-S948N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "코발트 바이올렛",
+          "en": "Cobalt Violet",
+          "aliases": [
+            "코발트바이올렛",
+            "바이올렛",
+            "퍼플",
+            "cobalt violet"
+          ]
+        },
+        {
+          "name": "스카이 블루",
+          "en": "Sky Blue",
+          "aliases": [
+            "스카이블루",
+            "블루",
+            "라이트 블루",
+            "라이트블루",
+            "sky blue"
+          ]
+        },
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "white"
+          ]
+        },
+        {
+          "name": "핑크 골드",
+          "en": "Pink Gold",
+          "aliases": [
+            "핑크골드",
+            "핑크",
+            "pink gold"
+          ]
+        },
+        {
+          "name": "실버 쉐도우",
+          "en": "Silver Shadow",
+          "aliases": [
+            "실버쉐도우",
+            "실버 섀도우",
+            "실버섀도우",
+            "실버",
+            "silver shadow"
+          ]
+        }
+      ],
+      "aliases": [
+        "s26u",
+        "s26울트라",
+        "s26 울트라",
+        "s26ultra",
+        "s26 ultra",
+        "갤s26u",
+        "갤s26울트라",
+        "갤럭시s26울트라",
+        "갤럭시 s26u",
+        "galaxy s26 ultra",
+        "S948N",
+        "S948"
+      ],
+      "verified": true,
+      "note": "핑크 골드/실버 쉐도우는 삼성닷컴·삼성 강남 전용. 1TB는 16GB RAM. '붕괴: 스타레일 키레네 액세서리 에디션'(2026-04-24~, 삼성스토어 홍대 2,000개 한정)은 케이스·오르골·거치대 등 액세서리 패키지로 별도 색상 아님(명조 '치사' 액세서리 에디션도 동일)."
+    },
+    {
+      "name": "갤럭시 S26 FE",
+      "en": "Galaxy S26 FE",
+      "line": "갤럭시 S",
+      "gen": "26",
+      "variant": "FE",
+      "release": "2026-09",
+      "codes": [
+        "SM-S741N"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "블루베리",
+          "en": "Blueberry",
+          "aliases": [
+            "블루",
+            "blueberry"
+          ]
+        },
+        {
+          "name": "그라파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그래파이트",
+            "블랙",
+            "graphite"
+          ]
+        },
+        {
+          "name": "피스타치오",
+          "en": "Pistachio",
+          "aliases": [
+            "그린",
+            "pistachio"
+          ]
+        }
+      ],
+      "aliases": [
+        "s26fe",
+        "s26 fe",
+        "갤s26fe",
+        "갤럭시s26fe",
+        "갤럭시 s26fe",
+        "galaxy s26 fe",
+        "S741N",
+        "S741"
+      ],
+      "verified": true,
+      "note": "2026-08-27 공개(공식 뉴스룸), 국내 출시 2026-09-04, KR 256GB 단일(104만5천원). 엑시노스 2500. 삼성닷컴 전용 색상 없음."
+    },
+    {
+      "name": "갤럭시 노트8",
+      "en": "Galaxy Note8",
+      "line": "갤럭시 노트",
+      "gen": "8",
+      "variant": "",
+      "release": "2017-09",
+      "codes": [
+        "SM-N950N"
+      ],
+      "storage": [
+        "64GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "미드나잇 블랙",
+          "en": "Midnight Black",
+          "aliases": [
+            "미드나잇블랙",
+            "블랙",
+            "검정",
+            "미드나이트 블랙",
+            "미드나이트블랙",
+            "midnight black"
+          ]
+        },
+        {
+          "name": "딥씨 블루",
+          "en": "Deep Sea Blue",
+          "aliases": [
+            "딥씨블루",
+            "블루",
+            "딥 씨 블루",
+            "딥시 블루",
+            "deep sea blue"
+          ]
+        },
+        {
+          "name": "오키드 그레이",
+          "en": "Orchid Gray",
+          "aliases": [
+            "오키드그레이",
+            "그레이",
+            "오키드",
+            "그레이+보라계열",
+            "orchid grey",
+            "orchid gray"
+          ]
+        },
+        {
+          "name": "메이플 골드",
+          "en": "Maple Gold",
+          "aliases": [
+            "메이플골드",
+            "골드",
+            "maple gold"
+          ]
+        }
+      ],
+      "aliases": [
+        "노트8",
+        "노트 8",
+        "갤노트8",
+        "갤럭시노트8",
+        "갤럭시 노트 8",
+        "note8",
+        "note 8",
+        "galaxy note8",
+        "galaxy note 8",
+        "N950N",
+        "N950"
+      ],
+      "verified": true,
+      "note": "국내 2017-09-15 출시. 64GB=미드나잇 블랙/딥씨 블루/오키드 그레이(+메이플 골드 2017-11-03 추가, 64GB 전용), 256GB=미드나잇 블랙/딥씨 블루. 99AVANT 스페셜 에디션(256GB 미드나잇 블랙, 99대 한정) 존재."
+    },
+    {
+      "name": "갤럭시 노트9",
+      "en": "Galaxy Note9",
+      "line": "갤럭시 노트",
+      "gen": "9",
+      "variant": "",
+      "release": "2018-08",
+      "codes": [
+        "SM-N960N"
+      ],
+      "storage": [
+        "128GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "오션 블루",
+          "en": "Ocean Blue",
+          "aliases": [
+            "오션블루",
+            "블루",
+            "ocean blue"
+          ]
+        },
+        {
+          "name": "라벤더 퍼플",
+          "en": "Lavender Purple",
+          "aliases": [
+            "라벤더퍼플",
+            "퍼플",
+            "라벤더",
+            "보라",
+            "lavender purple"
+          ]
+        },
+        {
+          "name": "미드나잇 블랙",
+          "en": "Midnight Black",
+          "aliases": [
+            "미드나잇블랙",
+            "블랙",
+            "검정",
+            "미드나이트 블랙",
+            "미드나이트블랙",
+            "midnight black"
+          ]
+        },
+        {
+          "name": "메탈릭 코퍼",
+          "en": "Metallic Copper",
+          "aliases": [
+            "메탈릭코퍼",
+            "코퍼",
+            "카퍼",
+            "메탈릭 카퍼",
+            "메탈릭카퍼",
+            "metallic copper"
+          ]
+        },
+        {
+          "name": "클라우드 실버",
+          "en": "Cloud Silver",
+          "aliases": [
+            "클라우드실버",
+            "실버",
+            "cloud silver"
+          ]
+        },
+        {
+          "name": "알파인 화이트",
+          "en": "Alpine White",
+          "aliases": [
+            "알파인화이트",
+            "화이트",
+            "흰색",
+            "alpine white"
+          ]
+        }
+      ],
+      "aliases": [
+        "노트9",
+        "노트 9",
+        "갤노트9",
+        "갤럭시노트9",
+        "갤럭시 노트 9",
+        "note9",
+        "note 9",
+        "galaxy note9",
+        "galaxy note 9",
+        "N960N",
+        "N960"
+      ],
+      "verified": true,
+      "note": "국내 2018-08-24 출시. 512GB(스페셜 에디션)=오션 블루/라벤더 퍼플, 128GB=미드나잇 블랙/라벤더 퍼플/메탈릭 코퍼. 클라우드 실버 2018-10-05 추가(128GB), 알파인 화이트 2018-11-30 추가(128/512GB)."
+    },
+    {
+      "name": "갤럭시 노트10",
+      "en": "Galaxy Note10",
+      "line": "갤럭시 노트",
+      "gen": "10",
+      "variant": "",
+      "release": "2019-08",
+      "codes": [
+        "SM-N971N"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "아우라 글로우",
+          "en": "Aura Glow",
+          "aliases": [
+            "아우라글로우",
+            "글로우",
+            "aura glow"
+          ]
+        },
+        {
+          "name": "아우라 핑크",
+          "en": "Aura Pink",
+          "aliases": [
+            "아우라핑크",
+            "핑크",
+            "aura pink"
+          ]
+        },
+        {
+          "name": "아우라 블랙",
+          "en": "Aura Black",
+          "aliases": [
+            "아우라블랙",
+            "블랙",
+            "검정",
+            "aura black"
+          ]
+        },
+        {
+          "name": "아우라 레드",
+          "en": "Aura Red",
+          "aliases": [
+            "아우라레드",
+            "레드",
+            "aura red"
+          ]
+        },
+        {
+          "name": "아우라 화이트",
+          "en": "Aura White",
+          "aliases": [
+            "아우라화이트",
+            "화이트",
+            "흰색",
+            "aura white"
+          ]
+        }
+      ],
+      "aliases": [
+        "노트10",
+        "노트 10",
+        "갤노트10",
+        "갤럭시노트10",
+        "갤럭시 노트 10",
+        "노트10 5g",
+        "노트105g",
+        "노트 10 5g",
+        "갤럭시 노트10 5g",
+        "갤럭시노트10 5g",
+        "갤노트10 5g",
+        "note10",
+        "note 10",
+        "note10 5g",
+        "galaxy note10",
+        "galaxy note 10",
+        "galaxy note10 5g",
+        "N971N",
+        "N971"
+      ],
+      "verified": true,
+      "note": "국내는 5G 모델만 출시(공식명 '갤럭시 노트10 5G', SM-N971N; LTE SM-N970 국내 미출시). 2019-08-23 출시, 256GB 단일. 아우라 레드=KT 전용. 아우라 화이트 2020-01-03 추가."
+    },
+    {
+      "name": "갤럭시 노트10 플러스",
+      "en": "Galaxy Note10+",
+      "line": "갤럭시 노트",
+      "gen": "10",
+      "variant": "플러스",
+      "release": "2019-08",
+      "codes": [
+        "SM-N976N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "아우라 글로우",
+          "en": "Aura Glow",
+          "aliases": [
+            "아우라글로우",
+            "글로우",
+            "aura glow"
+          ]
+        },
+        {
+          "name": "아우라 화이트",
+          "en": "Aura White",
+          "aliases": [
+            "아우라화이트",
+            "화이트",
+            "흰색",
+            "aura white"
+          ]
+        },
+        {
+          "name": "아우라 블랙",
+          "en": "Aura Black",
+          "aliases": [
+            "아우라블랙",
+            "블랙",
+            "검정",
+            "aura black"
+          ]
+        },
+        {
+          "name": "아우라 블루",
+          "en": "Aura Blue",
+          "aliases": [
+            "아우라블루",
+            "블루",
+            "aura blue"
+          ]
+        }
+      ],
+      "aliases": [
+        "노트10+",
+        "노트10플러스",
+        "노트10 플러스",
+        "노트 10 플러스",
+        "노트 10+",
+        "노트10plus",
+        "노트10p",
+        "갤노트10+",
+        "갤노트10플러스",
+        "갤럭시노트10+",
+        "갤럭시노트10플러스",
+        "갤럭시 노트 10 플러스",
+        "삼성 갤럭시 노트 10 플러스",
+        "노트10+ 5g",
+        "노트10플러스 5g",
+        "갤럭시 노트10+ 5g",
+        "note10+",
+        "note 10+",
+        "note10 plus",
+        "note 10 plus",
+        "galaxy note10+",
+        "galaxy note 10 plus",
+        "N976N",
+        "N976"
+      ],
+      "verified": true,
+      "note": "국내 5G 전용(공식명 '갤럭시 노트10+ 5G'), 2019-08-23 출시. 256GB=아우라 글로우/아우라 화이트/아우라 블랙/아우라 블루(SKT 전용), 512GB=아우라 글로우/아우라 블랙. 2020-01 스타워즈 스페셜 에디션(블랙+레드, 1천대 한정) 존재."
+    },
+    {
+      "name": "갤럭시 노트20",
+      "en": "Galaxy Note20",
+      "line": "갤럭시 노트",
+      "gen": "20",
+      "variant": "",
+      "release": "2020-08",
+      "codes": [
+        "SM-N981N"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "미스틱 브론즈",
+          "en": "Mystic Bronze",
+          "aliases": [
+            "미스틱브론즈",
+            "브론즈",
+            "mystic bronze"
+          ]
+        },
+        {
+          "name": "미스틱 그레이",
+          "en": "Mystic Gray",
+          "aliases": [
+            "미스틱그레이",
+            "그레이",
+            "mystic grey",
+            "mystic gray",
+            "블랙",
+            "검정"
+          ]
+        },
+        {
+          "name": "미스틱 블루",
+          "en": "Mystic Blue",
+          "aliases": [
+            "미스틱블루",
+            "블루",
+            "mystic blue"
+          ]
+        },
+        {
+          "name": "미스틱 레드",
+          "en": "Mystic Red",
+          "aliases": [
+            "미스틱레드",
+            "레드",
+            "mystic red"
+          ]
+        },
+        {
+          "name": "미스틱 핑크",
+          "en": "Mystic Pink",
+          "aliases": [
+            "미스틱핑크",
+            "핑크",
+            "mystic pink"
+          ]
+        },
+        {
+          "name": "미스틱 그린",
+          "en": "Mystic Green",
+          "aliases": [
+            "미스틱그린",
+            "그린",
+            "민트",
+            "mystic green"
+          ]
+        }
+      ],
+      "aliases": [
+        "노트20",
+        "노트 20",
+        "갤노트20",
+        "갤럭시노트20",
+        "갤럭시 노트 20",
+        "노트20 5g",
+        "갤럭시 노트20 5g",
+        "note20",
+        "note 20",
+        "galaxy note20",
+        "galaxy note 20",
+        "note20 5g",
+        "N981N",
+        "N981"
+      ],
+      "verified": true,
+      "note": "국내 2020-08-21 출시, 5G, 8GB/256GB 단일. 미스틱 블루=SKT, 미스틱 레드=KT, 미스틱 핑크=LG U+ 전용. 미스틱 그린 2020-09-25 추가. 관측 '블랙'(해당 색상 없음)·'로즈골드'(핑크/브론즈 모호)는 미매핑."
+    },
+    {
+      "name": "갤럭시 노트20 울트라",
+      "en": "Galaxy Note20 Ultra",
+      "line": "갤럭시 노트",
+      "gen": "20",
+      "variant": "울트라",
+      "release": "2020-08",
+      "codes": [
+        "SM-N986N"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "미스틱 브론즈",
+          "en": "Mystic Bronze",
+          "aliases": [
+            "미스틱브론즈",
+            "브론즈",
+            "로즈골드",
+            "브라운",
+            "mystic bronze"
+          ]
+        },
+        {
+          "name": "미스틱 블랙",
+          "en": "Mystic Black",
+          "aliases": [
+            "미스틱블랙",
+            "블랙",
+            "검정",
+            "mystic black"
+          ]
+        },
+        {
+          "name": "미스틱 화이트",
+          "en": "Mystic White",
+          "aliases": [
+            "미스틱화이트",
+            "화이트",
+            "흰색",
+            "mystic white"
+          ]
+        }
+      ],
+      "aliases": [
+        "노트20울트라",
+        "노트20 울트라",
+        "노트 20 울트라",
+        "노트20u",
+        "노트20ultra",
+        "갤노트20울트라",
+        "갤럭시노트20울트라",
+        "갤럭시 노트 20 울트라",
+        "노트20 울트라 5g",
+        "note20 ultra",
+        "note 20 ultra",
+        "note20u",
+        "galaxy note20 ultra",
+        "galaxy note 20 ultra",
+        "노트울트라",
+        "노트 울트라",
+        "갤럭시 노트 울트라",
+        "N986N",
+        "N986"
+      ],
+      "verified": true,
+      "note": "국내 2020-08-21 출시, 5G, 12GB/256GB 단일(512GB 국내 미출시). 미스틱 브론즈/블랙/화이트. '갤럭시 노트 울트라'는 유일한 노트 울트라이므로 별칭 부여; '노트10 울트라'는 노트10+와 혼동 가능해 미부여. 관측 '실버'·'레드'는 해당 색상 없음(미매핑)."
+    },
+    {
+      "name": "갤럭시 폴드",
+      "en": "Galaxy Fold",
+      "line": "갤럭시 Z 폴드",
+      "gen": "1",
+      "variant": "",
+      "release": "2019-09",
+      "codes": [
+        "SM-F907N"
+      ],
+      "storage": [
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "코스모스 블랙",
+          "en": "Cosmos Black",
+          "aliases": [
+            "코스모스블랙",
+            "블랙",
+            "cosmos black"
+          ]
+        },
+        {
+          "name": "스페이스 실버",
+          "en": "Space Silver",
+          "aliases": [
+            "스페이스실버",
+            "실버",
+            "space silver"
+          ]
+        }
+      ],
+      "aliases": [
+        "갤럭시폴드",
+        "갤폴드",
+        "폴드1",
+        "z폴드1",
+        "갤럭시 폴드1",
+        "갤럭시폴드1",
+        "갤럭시 폴드 1세대",
+        "폴드 1세대",
+        "갤럭시 z 폴드1",
+        "galaxy fold",
+        "galaxy fold 5g",
+        "F907N",
+        "F907"
+      ],
+      "verified": true,
+      "note": "2019 original Galaxy Fold (gen left empty; it is the 1st gen of the Z Fold line, 'Z' branding started with Fold2). Korea got only the 5G model SM-F907N (global 5G = SM-F907B; LTE SM-F900F never sold in KR); KR launch 2019-09-06, 2,398,000원. Aura Green/Astro Blue not sold in KR. Sources: namu.wiki (secondary)."
+    },
+    {
+      "name": "갤럭시 Z 폴드2",
+      "en": "Galaxy Z Fold2",
+      "line": "갤럭시 Z 폴드",
+      "gen": "2",
+      "variant": "",
+      "release": "2020-09",
+      "codes": [
+        "SM-F916N"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "미스틱 블랙",
+          "en": "Mystic Black",
+          "aliases": [
+            "미스틱블랙",
+            "블랙",
+            "mystic black"
+          ]
+        },
+        {
+          "name": "미스틱 브론즈",
+          "en": "Mystic Bronze",
+          "aliases": [
+            "미스틱브론즈",
+            "브론즈",
+            "mystic bronze"
+          ]
+        }
+      ],
+      "aliases": [
+        "폴드2",
+        "z폴드2",
+        "z 폴드2",
+        "갤럭시 폴드2",
+        "갤럭시폴드2",
+        "갤럭시z폴드2",
+        "갤럭시 z폴드2",
+        "갤폴드2",
+        "갤z폴드2",
+        "폴드 2",
+        "z폴드 2",
+        "갤럭시 z 폴드 2",
+        "galaxy z fold2",
+        "galaxy z fold 2",
+        "z fold2",
+        "zfold2",
+        "fold2",
+        "fold 2",
+        "F916N",
+        "F916"
+      ],
+      "verified": true,
+      "note": "KR launch 2020-09-18 (pre-sale 9/11-15), 2,398,000원, 256GB only in KR. Limited 톰브라운 에디션 (Thom Browne Edition, same SM-F916N hardware) also sold in KR; Aura hinge customization not offered in KR."
+    },
+    {
+      "name": "갤럭시 Z 폴드3",
+      "en": "Galaxy Z Fold3",
+      "line": "갤럭시 Z 폴드",
+      "gen": "3",
+      "variant": "",
+      "release": "2021-08",
+      "codes": [
+        "SM-F926N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "팬텀 블랙",
+          "en": "Phantom Black",
+          "aliases": [
+            "팬텀블랙",
+            "블랙",
+            "phantom black"
+          ]
+        },
+        {
+          "name": "팬텀 그린",
+          "en": "Phantom Green",
+          "aliases": [
+            "팬텀그린",
+            "그린",
+            "phantom green"
+          ]
+        },
+        {
+          "name": "팬텀 실버",
+          "en": "Phantom Silver",
+          "aliases": [
+            "팬텀실버",
+            "실버",
+            "phantom silver"
+          ]
+        }
+      ],
+      "aliases": [
+        "폴드3",
+        "z폴드3",
+        "z 폴드3",
+        "갤럭시 폴드3",
+        "갤럭시폴드3",
+        "갤럭시z폴드3",
+        "갤럭시 z폴드3",
+        "갤폴드3",
+        "갤z폴드3",
+        "폴드 3",
+        "z폴드 3",
+        "갤럭시 z 폴드 3",
+        "galaxy z fold3",
+        "galaxy z fold 3",
+        "z fold3",
+        "zfold3",
+        "fold3",
+        "fold 3",
+        "F926N",
+        "F926"
+      ],
+      "verified": true,
+      "note": "KR launch 2021-08-27. 512GB only in 팬텀 블랙/팬텀 실버. A 톰브라운 에디션 (Thom Browne Edition) was also sold in KR."
+    },
+    {
+      "name": "갤럭시 Z 폴드4",
+      "en": "Galaxy Z Fold4",
+      "line": "갤럭시 Z 폴드",
+      "gen": "4",
+      "variant": "",
+      "release": "2022-08",
+      "codes": [
+        "SM-F936N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "팬텀 블랙",
+          "en": "Phantom Black",
+          "aliases": [
+            "팬텀블랙",
+            "블랙",
+            "phantom black"
+          ]
+        },
+        {
+          "name": "그레이 그린",
+          "en": "Graygreen",
+          "aliases": [
+            "그레이그린",
+            "그린",
+            "graygreen"
+          ]
+        },
+        {
+          "name": "베이지",
+          "en": "Beige",
+          "aliases": [
+            "beige",
+            "크림"
+          ]
+        },
+        {
+          "name": "버건디",
+          "en": "Burgundy",
+          "aliases": [
+            "버건디색",
+            "burgundy"
+          ]
+        }
+      ],
+      "aliases": [
+        "폴드4",
+        "z폴드4",
+        "z 폴드4",
+        "갤럭시 폴드4",
+        "갤럭시폴드4",
+        "갤럭시z폴드4",
+        "갤럭시 z폴드4",
+        "갤폴드4",
+        "갤z폴드4",
+        "폴드 4",
+        "z폴드 4",
+        "갤럭시 z 폴드 4",
+        "galaxy z fold4",
+        "galaxy z fold 4",
+        "z fold4",
+        "zfold4",
+        "fold4",
+        "fold 4",
+        "F936N",
+        "F936"
+      ],
+      "verified": true,
+      "note": "KR launch 2022-08-26. 1TB and 버건디 were 삼성닷컴 전용 (Samsung.com-exclusive, unlocked). Press spells '그레이 그린' (some KR pages '그레이그린')."
+    },
+    {
+      "name": "갤럭시 Z 폴드5",
+      "en": "Galaxy Z Fold5",
+      "line": "갤럭시 Z 폴드",
+      "gen": "5",
+      "variant": "",
+      "release": "2023-08",
+      "codes": [
+        "SM-F946N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "아이스 블루",
+          "en": "Icy Blue",
+          "aliases": [
+            "아이스블루",
+            "아이스블루색",
+            "icy blue"
+          ]
+        },
+        {
+          "name": "크림",
+          "en": "Cream",
+          "aliases": [
+            "크림색",
+            "cream"
+          ]
+        },
+        {
+          "name": "팬텀 블랙",
+          "en": "Phantom Black",
+          "aliases": [
+            "팬텀블랙",
+            "블랙",
+            "phantom black"
+          ]
+        },
+        {
+          "name": "그레이",
+          "en": "Gray",
+          "aliases": [
+            "gray"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "blue"
+          ]
+        }
+      ],
+      "aliases": [
+        "폴드5",
+        "z폴드5",
+        "z 폴드5",
+        "갤럭시 폴드5",
+        "갤럭시폴드5",
+        "갤럭시z폴드5",
+        "갤럭시 z폴드5",
+        "갤폴드5",
+        "갤z폴드5",
+        "폴드 5",
+        "z폴드 5",
+        "갤럭시 z 폴드 5",
+        "galaxy z fold5",
+        "galaxy z fold 5",
+        "z fold5",
+        "zfold5",
+        "fold5",
+        "fold 5",
+        "F946N",
+        "F946"
+      ],
+      "verified": true,
+      "note": "KR launch 2023-08-11. 그레이, 블루 and the 1TB model were 삼성닷컴·삼성 강남 전용. Bare '블루' is an official (exclusive) color, so it is not used as an alias for 아이스 블루."
+    },
+    {
+      "name": "갤럭시 Z 폴드6",
+      "en": "Galaxy Z Fold6",
+      "line": "갤럭시 Z 폴드",
+      "gen": "6",
+      "variant": "",
+      "release": "2024-07",
+      "codes": [
+        "SM-F956N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "실버 쉐도우",
+          "en": "Silver Shadow",
+          "aliases": [
+            "실버쉐도우",
+            "실버 셰도우",
+            "실버셰도우",
+            "실버 섀도우",
+            "실버섀도우",
+            "실버 쉐도",
+            "실버쉐도",
+            "실버",
+            "은색",
+            "silver shadow"
+          ]
+        },
+        {
+          "name": "핑크",
+          "en": "Pink",
+          "aliases": [
+            "pink"
+          ]
+        },
+        {
+          "name": "네이비",
+          "en": "Navy",
+          "aliases": [
+            "navy"
+          ]
+        },
+        {
+          "name": "크래프티드 블랙",
+          "en": "Crafted Black",
+          "aliases": [
+            "크래프티드블랙",
+            "블랙",
+            "crafted black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "white"
+          ]
+        }
+      ],
+      "aliases": [
+        "폴드6",
+        "z폴드6",
+        "z 폴드6",
+        "갤럭시 폴드6",
+        "갤럭시폴드6",
+        "갤럭시z폴드6",
+        "갤럭시 z폴드6",
+        "갤폴드6",
+        "갤z폴드6",
+        "폴드 6",
+        "z폴드 6",
+        "갤럭시 z 폴드 6",
+        "galaxy z fold6",
+        "galaxy z fold 6",
+        "z fold6",
+        "zfold6",
+        "fold6",
+        "fold 6",
+        "F956N",
+        "F956"
+      ],
+      "verified": true,
+      "note": "KR launch 2024-07-24 (pre-sale 7/12-18). 크래프티드 블랙 and 화이트 are 삼성닷컴·삼성 강남 전용 (unlocked) colors."
+    },
+    {
+      "name": "갤럭시 Z 폴드 스페셜 에디션",
+      "en": "Galaxy Z Fold Special Edition",
+      "line": "갤럭시 Z 폴드",
+      "gen": "",
+      "variant": "스페셜 에디션",
+      "release": "2024-10",
+      "codes": [
+        "SM-F958N"
+      ],
+      "storage": [
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙 쉐도우",
+          "en": "Black Shadow",
+          "aliases": [
+            "블랙쉐도우",
+            "블랙 셰도우",
+            "블랙셰도우",
+            "블랙 섀도우",
+            "블랙섀도우",
+            "블랙 쉐도",
+            "블랙쉐도",
+            "블랙",
+            "black shadow"
+          ]
+        }
+      ],
+      "aliases": [
+        "폴드 se",
+        "폴드se",
+        "z폴드 se",
+        "z폴드se",
+        "갤럭시 폴드 se",
+        "갤럭시폴드se",
+        "갤럭시 z 폴드 se",
+        "갤럭시z폴드se",
+        "폴드6 se",
+        "z폴드6 se",
+        "갤럭시 z 폴드6 se",
+        "폴드 스페셜 에디션",
+        "폴드 스페셜",
+        "z폴드 스페셜 에디션",
+        "갤럭시 폴드 스페셜 에디션",
+        "갤럭시z폴드스페셜에디션",
+        "폴드스페셜에디션",
+        "폴드 slim",
+        "폴드6 slim",
+        "galaxy z fold special edition",
+        "galaxy z fold se",
+        "z fold se",
+        "fold se",
+        "galaxy z fold6 special edition",
+        "F958N",
+        "F958"
+      ],
+      "verified": true,
+      "note": "Korea-only (KR launch 2024-10-25, 2,789,600원; China version reportedly sold as W25) thinner Fold6 derivative: 10.6mm/236g, 8.0\" inner display, 200MP camera, 16GB RAM + 512GB, single color 블랙 쉐도우. Sold via 삼성닷컴 and carriers' online stores."
+    },
+    {
+      "name": "갤럭시 Z 폴드7",
+      "en": "Galaxy Z Fold7",
+      "line": "갤럭시 Z 폴드",
+      "gen": "7",
+      "variant": "",
+      "release": "2025-07",
+      "codes": [
+        "SM-F966N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "블루 쉐도우",
+          "en": "Blue Shadow",
+          "aliases": [
+            "블루쉐도우",
+            "블루 셰도우",
+            "블루셰도우",
+            "블루 섀도우",
+            "블루섀도우",
+            "블루 쉐도",
+            "블루쉐도",
+            "블루",
+            "blue shadow",
+            "네이비"
+          ]
+        },
+        {
+          "name": "실버 쉐도우",
+          "en": "Silver Shadow",
+          "aliases": [
+            "실버쉐도우",
+            "실버 셰도우",
+            "실버셰도우",
+            "실버 섀도우",
+            "실버섀도우",
+            "실버 쉐도",
+            "실버쉐도",
+            "실버",
+            "은색",
+            "silver shadow"
+          ]
+        },
+        {
+          "name": "제트블랙",
+          "en": "Jetblack",
+          "aliases": [
+            "제트 블랙",
+            "블랙",
+            "jetblack"
+          ]
+        },
+        {
+          "name": "민트",
+          "en": "Mint",
+          "aliases": [
+            "mint"
+          ]
+        }
+      ],
+      "aliases": [
+        "폴드7",
+        "z폴드7",
+        "z 폴드7",
+        "갤럭시 폴드7",
+        "갤럭시폴드7",
+        "갤럭시z폴드7",
+        "갤럭시 z폴드7",
+        "갤폴드7",
+        "갤z폴드7",
+        "폴드 7",
+        "z폴드 7",
+        "갤럭시 z 폴드 7",
+        "galaxy z fold7",
+        "galaxy z fold 7",
+        "z fold7",
+        "zfold7",
+        "fold7",
+        "fold 7",
+        "F966N",
+        "F966"
+      ],
+      "verified": true,
+      "note": "KR launch 2025-07-25 (pre-sale 7/15-21). 민트 is 삼성닷컴·삼성 강남 전용 (unlocked). 1TB (16GB RAM) only in 블루 쉐도우/제트블랙."
+    },
+    {
+      "name": "갤럭시 Z 폴드8",
+      "en": "Galaxy Z Fold8",
+      "line": "갤럭시 Z 폴드",
+      "gen": "8",
+      "variant": "",
+      "release": "2026-08",
+      "codes": [
+        "SM-F971N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "라벤더",
+          "en": "Lavender",
+          "aliases": [
+            "라밴더",
+            "lavender"
+          ]
+        },
+        {
+          "name": "그라파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그래파이트",
+            "그린파이트",
+            "graphite"
+          ]
+        },
+        {
+          "name": "크림",
+          "en": "Cream",
+          "aliases": [
+            "크림색",
+            "cream"
+          ]
+        },
+        {
+          "name": "피스타치오",
+          "en": "Pistachio",
+          "aliases": [
+            "피스타치오색",
+            "pistachio"
+          ]
+        }
+      ],
+      "aliases": [
+        "폴드8",
+        "z폴드8",
+        "z 폴드8",
+        "갤럭시 폴드8",
+        "갤럭시폴드8",
+        "갤럭시z폴드8",
+        "갤럭시 z폴드8",
+        "갤폴드8",
+        "갤z폴드8",
+        "폴드 8",
+        "z폴드 8",
+        "갤럭시 z 폴드 8",
+        "galaxy z fold8",
+        "galaxy z fold 8",
+        "z fold8",
+        "zfold8",
+        "fold8",
+        "fold 8",
+        "폴드8 와이드",
+        "폴드8와이드",
+        "z폴드8 와이드",
+        "z폴드8와이드",
+        "갤럭시 폴드8 와이드",
+        "갤럭시 z 폴드8 와이드",
+        "갤럭시z폴드8와이드",
+        "갤럭시 z 폴드 8 와이드",
+        "갤럭시 z 폴더블8 와이드",
+        "갤럭시z폴더블8와이드",
+        "폴더블8 와이드",
+        "와이드 폴드",
+        "와이드폴드",
+        "폴드 와이드",
+        "galaxy z fold8 wide",
+        "z fold8 wide",
+        "fold8 wide",
+        "wide fold",
+        "F971N",
+        "F971"
+      ],
+      "verified": true,
+      "note": "NEW wide 'passport' form factor (4:3 unfolded, 7.6\" inner / 5.5\" cover, 201g, 4800mAh) — this is what sellers call '폴드8 와이드'/'폴더블8 와이드'; there is no product officially named 'Wide'. Not the Fold7-format successor (that is 갤럭시 Z 폴드8 울트라). Unveiled 2026-07-22 London, KR launch 2026-08-07 (pre-sale 7/28-8/3). 256GB 2,278,100원 / 512GB / 1TB(16GB RAM). 피스타치오 is 삼성닷컴·삼성 강남 전용. Observed '화이트' and '바이올렛' listings do not match any Fold8 color (바이올렛 쉐도우 is Fold8 Ultra) and were not mapped."
+    },
+    {
+      "name": "갤럭시 Z 폴드8 울트라",
+      "en": "Galaxy Z Fold8 Ultra",
+      "line": "갤럭시 Z 폴드",
+      "gen": "8",
+      "variant": "울트라",
+      "release": "2026-08",
+      "codes": [
+        "SM-F976N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "바이올렛 쉐도우",
+          "en": "Violet Shadow",
+          "aliases": [
+            "바이올렛쉐도우",
+            "바이올렛 셰도우",
+            "바이올렛셰도우",
+            "바이올렛 섀도우",
+            "바이올렛섀도우",
+            "바이올렛 쉐도",
+            "바이올렛쉐도",
+            "바이올렛",
+            "violet shadow"
+          ]
+        },
+        {
+          "name": "그라파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그래파이트",
+            "graphite"
+          ]
+        },
+        {
+          "name": "크림",
+          "en": "Cream",
+          "aliases": [
+            "크림색",
+            "cream"
+          ]
+        },
+        {
+          "name": "그린 쉐도우",
+          "en": "Green Shadow",
+          "aliases": [
+            "그린쉐도우",
+            "그린 셰도우",
+            "그린셰도우",
+            "그린 섀도우",
+            "그린섀도우",
+            "그린 쉐도",
+            "그린쉐도",
+            "그린",
+            "green shadow"
+          ]
+        }
+      ],
+      "aliases": [
+        "폴드8 울트라",
+        "z폴드8 울트라",
+        "z 폴드8 울트라",
+        "갤럭시 폴드8 울트라",
+        "갤럭시폴드8 울트라",
+        "갤럭시z폴드8 울트라",
+        "갤럭시 z폴드8 울트라",
+        "갤폴드8 울트라",
+        "갤z폴드8 울트라",
+        "폴드 8 울트라",
+        "z폴드 8 울트라",
+        "갤럭시 z 폴드 8 울트라",
+        "폴드8울트라",
+        "z폴드8울트라",
+        "z 폴드8울트라",
+        "갤럭시 폴드8울트라",
+        "갤럭시폴드8울트라",
+        "갤럭시z폴드8울트라",
+        "갤럭시 z폴드8울트라",
+        "갤럭시 z 폴드8울트라",
+        "갤폴드8울트라",
+        "갤z폴드8울트라",
+        "폴드 8울트라",
+        "z폴드 8울트라",
+        "갤럭시 z 폴드 8울트라",
+        "galaxy z fold8 ultra",
+        "galaxy z fold 8 ultra",
+        "z fold8 ultra",
+        "zfold8 ultra",
+        "fold8 ultra",
+        "fold 8 ultra",
+        "폴드8u",
+        "z폴드8u",
+        "갤z폴드8u",
+        "F976N",
+        "F976",
+        "갤럭시 z 폴드8 울트라"
+      ],
+      "verified": true,
+      "note": "Official name (Samsung newsroom/samsung.com/sec). Direct successor to the Fold7 form factor (8\" inner, 6.5\" cover, 200MP, 5000mAh, 45W). KR launch 2026-08-07; 256GB 2,577,300원 / 512GB / 1TB(16GB RAM). 그린 쉐도우 is 삼성닷컴·삼성 강남 전용."
+    },
+    {
+      "name": "갤럭시 Z 플립",
+      "en": "Galaxy Z Flip",
+      "line": "갤럭시 Z 플립",
+      "gen": "1",
+      "variant": "",
+      "release": "2020-02",
+      "codes": [
+        "SM-F700N"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "미러 퍼플",
+          "en": "Mirror Purple",
+          "aliases": [
+            "미러퍼플",
+            "퍼플",
+            "mirror purple"
+          ]
+        },
+        {
+          "name": "미러 블랙",
+          "en": "Mirror Black",
+          "aliases": [
+            "미러블랙",
+            "블랙",
+            "mirror black"
+          ]
+        },
+        {
+          "name": "미러 골드",
+          "en": "Mirror Gold",
+          "aliases": [
+            "미러골드",
+            "골드",
+            "mirror gold"
+          ]
+        }
+      ],
+      "aliases": [
+        "갤럭시z플립",
+        "플립1",
+        "z플립1",
+        "갤럭시 z 플립1",
+        "갤럭시z플립1",
+        "갤럭시 플립1",
+        "갤z플립1",
+        "z플립 lte",
+        "갤럭시 z 플립 lte",
+        "플립 1세대",
+        "z플립 1세대",
+        "galaxy z flip",
+        "galaxy z flip lte",
+        "z flip lte",
+        "F700N",
+        "F700"
+      ],
+      "verified": true,
+      "note": "1st-gen Z Flip (LTE). KR sales started 2020-02-14 at 1,650,000원 with 미러 퍼플/미러 블랙; 미러 골드 added in KR 2020-05-06. A 톰브라운 에디션 (Thom Browne Edition, same hardware) launched in KR 2020-02-21. Beware sellers using '갤럭시 Z 플립' generically for later Flips."
+    },
+    {
+      "name": "갤럭시 Z 플립 5G",
+      "en": "Galaxy Z Flip 5G",
+      "line": "갤럭시 Z 플립",
+      "gen": "1",
+      "variant": "5G",
+      "release": "2020-09",
+      "codes": [
+        "SM-F707N"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "미스틱 브론즈",
+          "en": "Mystic Bronze",
+          "aliases": [
+            "미스틱브론즈",
+            "브론즈",
+            "mystic bronze"
+          ]
+        },
+        {
+          "name": "미스틱 그레이",
+          "en": "Mystic Gray",
+          "aliases": [
+            "미스틱그레이",
+            "그레이",
+            "mystic gray"
+          ]
+        },
+        {
+          "name": "미스틱 화이트",
+          "en": "Mystic White",
+          "aliases": [
+            "미스틱화이트",
+            "화이트",
+            "mystic white"
+          ]
+        }
+      ],
+      "aliases": [
+        "z플립 5g",
+        "플립 5g",
+        "갤럭시 플립 5g",
+        "갤z플립 5g",
+        "galaxy z flip 5g",
+        "z flip 5g",
+        "z플립2",
+        "플립2",
+        "갤럭시 z 플립2",
+        "갤럭시 z플립2",
+        "갤럭시z플립2",
+        "갤럭시 플립2",
+        "갤z플립2",
+        "z flip2",
+        "galaxy z flip2",
+        "F707N",
+        "F707"
+      ],
+      "verified": true,
+      "note": "2nd Flip (Snapdragon 865+, 8GB/256GB). KR launch 2020-09-18 (pre-sale 9/11-15, 1,650,000원; global/US launch 2020-08-07). No official 'Z Flip2' ever existed (Samsung skipped to Flip3), so seller strings '갤럭시 Z 플립2'/'플립2' are mapped here as the 2nd-gen Flip. Spacing-free '플립5g' is deliberately not an alias (ambiguous with Flip5). Colors per KR press (jkn 2020-09-02); 미스틱 화이트 availability in KR less certain."
+    },
+    {
+      "name": "갤럭시 Z 플립3",
+      "en": "Galaxy Z Flip3",
+      "line": "갤럭시 Z 플립",
+      "gen": "3",
+      "variant": "",
+      "release": "2021-08",
+      "codes": [
+        "SM-F711N"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "크림",
+          "en": "Cream",
+          "aliases": [
+            "크림색",
+            "cream",
+            "베이지"
+          ]
+        },
+        {
+          "name": "그린",
+          "en": "Green",
+          "aliases": [
+            "green"
+          ]
+        },
+        {
+          "name": "라벤더",
+          "en": "Lavender",
+          "aliases": [
+            "라밴더",
+            "lavender"
+          ]
+        },
+        {
+          "name": "팬텀 블랙",
+          "en": "Phantom Black",
+          "aliases": [
+            "팬텀블랙",
+            "블랙",
+            "phantom black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "white"
+          ]
+        },
+        {
+          "name": "핑크",
+          "en": "Pink",
+          "aliases": [
+            "pink"
+          ]
+        },
+        {
+          "name": "그레이",
+          "en": "Gray",
+          "aliases": [
+            "gray"
+          ]
+        }
+      ],
+      "aliases": [
+        "플립3",
+        "z플립3",
+        "z 플립3",
+        "갤럭시 플립3",
+        "갤럭시플립3",
+        "갤럭시z플립3",
+        "갤럭시 z플립3",
+        "갤플립3",
+        "갤z플립3",
+        "플립 3",
+        "z플립 3",
+        "갤럭시 z 플립 3",
+        "galaxy z flip3",
+        "galaxy z flip 3",
+        "z flip3",
+        "zflip3",
+        "flip3",
+        "flip 3",
+        "F711N",
+        "F711"
+      ],
+      "verified": true,
+      "note": "KR launch 2021-08-27, 1,254,000원, 256GB only in KR. 화이트/핑크/그레이 were 삼성닷컴 전용 (unlocked). Also 비스포크 에디션 (Bespoke Edition, 삼성닷컴, customizable panels) and 톰브라운 에디션 sold in KR."
+    },
+    {
+      "name": "갤럭시 Z 플립4",
+      "en": "Galaxy Z Flip4",
+      "line": "갤럭시 Z 플립",
+      "gen": "4",
+      "variant": "",
+      "release": "2022-08",
+      "codes": [
+        "SM-F721N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "보라 퍼플",
+          "en": "Bora Purple",
+          "aliases": [
+            "보라퍼플",
+            "퍼플",
+            "보라",
+            "라벤더",
+            "bora purple"
+          ]
+        },
+        {
+          "name": "핑크 골드",
+          "en": "Pink Gold",
+          "aliases": [
+            "핑크골드",
+            "핑크",
+            "pink gold"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "blue"
+          ]
+        },
+        {
+          "name": "그라파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그래파이트",
+            "graphite",
+            "블랙"
+          ]
+        }
+      ],
+      "aliases": [
+        "플립4",
+        "z플립4",
+        "z 플립4",
+        "갤럭시 플립4",
+        "갤럭시플립4",
+        "갤럭시z플립4",
+        "갤럭시 z플립4",
+        "갤플립4",
+        "갤z플립4",
+        "플립 4",
+        "z플립 4",
+        "갤럭시 z 플립 4",
+        "galaxy z flip4",
+        "galaxy z flip 4",
+        "z flip4",
+        "zflip4",
+        "flip4",
+        "flip 4",
+        "F721N",
+        "F721"
+      ],
+      "verified": true,
+      "note": "KR launch 2022-08-26 (256GB 1,353,000원 / 512GB 1,474,000원). 비스포크 에디션 (Bespoke Edition, 삼성닷컴 전용, 75 frame/panel combos) also sold. '라벤더' mapped to 보라 퍼플 as the only purple-family color."
+    },
+    {
+      "name": "갤럭시 Z 플립5",
+      "en": "Galaxy Z Flip5",
+      "line": "갤럭시 Z 플립",
+      "gen": "5",
+      "variant": "",
+      "release": "2023-08",
+      "codes": [
+        "SM-F731N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "민트",
+          "en": "Mint",
+          "aliases": [
+            "mint"
+          ]
+        },
+        {
+          "name": "크림",
+          "en": "Cream",
+          "aliases": [
+            "크림색",
+            "cream"
+          ]
+        },
+        {
+          "name": "라벤더",
+          "en": "Lavender",
+          "aliases": [
+            "라밴더",
+            "lavender"
+          ]
+        },
+        {
+          "name": "그라파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그래파이트",
+            "graphite",
+            "블랙"
+          ]
+        },
+        {
+          "name": "그린",
+          "en": "Green",
+          "aliases": [
+            "green"
+          ]
+        },
+        {
+          "name": "옐로우",
+          "en": "Yellow",
+          "aliases": [
+            "옐로",
+            "yellow"
+          ]
+        },
+        {
+          "name": "그레이",
+          "en": "Gray",
+          "aliases": [
+            "gray"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "blue"
+          ]
+        }
+      ],
+      "aliases": [
+        "플립5",
+        "z플립5",
+        "z 플립5",
+        "갤럭시 플립5",
+        "갤럭시플립5",
+        "갤럭시z플립5",
+        "갤럭시 z플립5",
+        "갤플립5",
+        "갤z플립5",
+        "플립 5",
+        "z플립 5",
+        "갤럭시 z 플립 5",
+        "galaxy z flip5",
+        "galaxy z flip 5",
+        "z flip5",
+        "zflip5",
+        "flip5",
+        "flip 5",
+        "F731N",
+        "F731"
+      ],
+      "verified": true,
+      "note": "KR launch 2023-08-11 (256GB 1,399,200원 / 512GB 1,520,200원). 그린/옐로우/그레이/블루 were 삼성닷컴·삼성 강남 전용. Several KR collab limited editions (메종 마르지엘라 등)."
+    },
+    {
+      "name": "갤럭시 Z 플립6",
+      "en": "Galaxy Z Flip6",
+      "line": "갤럭시 Z 플립",
+      "gen": "6",
+      "variant": "",
+      "release": "2024-07",
+      "codes": [
+        "SM-F741N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "blue"
+          ]
+        },
+        {
+          "name": "실버 쉐도우",
+          "en": "Silver Shadow",
+          "aliases": [
+            "실버쉐도우",
+            "실버 셰도우",
+            "실버셰도우",
+            "실버 섀도우",
+            "실버섀도우",
+            "실버 쉐도",
+            "실버쉐도",
+            "실버",
+            "은색",
+            "silver shadow"
+          ]
+        },
+        {
+          "name": "옐로우",
+          "en": "Yellow",
+          "aliases": [
+            "옐로",
+            "yellow"
+          ]
+        },
+        {
+          "name": "민트",
+          "en": "Mint",
+          "aliases": [
+            "mint",
+            "그린"
+          ]
+        },
+        {
+          "name": "크래프티드 블랙",
+          "en": "Crafted Black",
+          "aliases": [
+            "크래프티드블랙",
+            "블랙",
+            "crafted black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "white"
+          ]
+        },
+        {
+          "name": "피치",
+          "en": "Peach",
+          "aliases": [
+            "peach"
+          ]
+        }
+      ],
+      "aliases": [
+        "플립6",
+        "z플립6",
+        "z 플립6",
+        "갤럭시 플립6",
+        "갤럭시플립6",
+        "갤럭시z플립6",
+        "갤럭시 z플립6",
+        "갤플립6",
+        "갤z플립6",
+        "플립 6",
+        "z플립 6",
+        "갤럭시 z 플립 6",
+        "galaxy z flip6",
+        "galaxy z flip 6",
+        "z flip6",
+        "zflip6",
+        "flip6",
+        "flip 6",
+        "F741N",
+        "F741"
+      ],
+      "verified": true,
+      "note": "KR launch 2024-07-24 (256GB 1,485,000원 / 512GB 1,643,400원). 크래프티드 블랙/화이트/피치 are 삼성닷컴·삼성 강남 전용."
+    },
+    {
+      "name": "갤럭시 Z 플립7",
+      "en": "Galaxy Z Flip7",
+      "line": "갤럭시 Z 플립",
+      "gen": "7",
+      "variant": "",
+      "release": "2025-07",
+      "codes": [
+        "SM-F766N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "블루 쉐도우",
+          "en": "Blue Shadow",
+          "aliases": [
+            "블루쉐도우",
+            "블루 셰도우",
+            "블루셰도우",
+            "블루 섀도우",
+            "블루섀도우",
+            "블루 쉐도",
+            "블루쉐도",
+            "블루",
+            "blue shadow",
+            "네이비"
+          ]
+        },
+        {
+          "name": "코랄레드",
+          "en": "Coralred",
+          "aliases": [
+            "코랄 레드",
+            "레드",
+            "코랄",
+            "coralred"
+          ]
+        },
+        {
+          "name": "제트블랙",
+          "en": "Jetblack",
+          "aliases": [
+            "제트 블랙",
+            "블랙",
+            "jetblack"
+          ]
+        },
+        {
+          "name": "민트",
+          "en": "Mint",
+          "aliases": [
+            "mint"
+          ]
+        }
+      ],
+      "aliases": [
+        "플립7",
+        "z플립7",
+        "z 플립7",
+        "갤럭시 플립7",
+        "갤럭시플립7",
+        "갤럭시z플립7",
+        "갤럭시 z플립7",
+        "갤플립7",
+        "갤z플립7",
+        "플립 7",
+        "z플립 7",
+        "갤럭시 z 플립 7",
+        "galaxy z flip7",
+        "galaxy z flip 7",
+        "z flip7",
+        "zflip7",
+        "flip7",
+        "flip 7",
+        "F766N",
+        "F766"
+      ],
+      "verified": true,
+      "note": "KR launch 2025-07-25 (256GB 1,485,000원 / 512GB 1,643,400원). 민트 is 삼성닷컴·삼성 강남 전용. Exynos 2500."
+    },
+    {
+      "name": "갤럭시 Z 플립7 FE",
+      "en": "Galaxy Z Flip7 FE",
+      "line": "갤럭시 Z 플립",
+      "gen": "7",
+      "variant": "FE",
+      "release": "2025-07",
+      "codes": [
+        "SM-F761N"
+      ],
+      "storage": [
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "white"
+          ]
+        }
+      ],
+      "aliases": [
+        "플립7 fe",
+        "z플립7 fe",
+        "z 플립7 fe",
+        "갤럭시 플립7 fe",
+        "갤럭시플립7 fe",
+        "갤럭시z플립7 fe",
+        "갤럭시 z플립7 fe",
+        "갤플립7 fe",
+        "갤z플립7 fe",
+        "플립 7 fe",
+        "z플립 7 fe",
+        "갤럭시 z 플립 7 fe",
+        "플립7fe",
+        "z플립7fe",
+        "z 플립7fe",
+        "갤럭시 플립7fe",
+        "갤럭시플립7fe",
+        "갤럭시z플립7fe",
+        "갤럭시 z플립7fe",
+        "갤럭시 z 플립7fe",
+        "갤플립7fe",
+        "갤z플립7fe",
+        "플립 7fe",
+        "z플립 7fe",
+        "갤럭시 z 플립 7fe",
+        "galaxy z flip7 fe",
+        "galaxy z flip 7 fe",
+        "z flip7 fe",
+        "zflip7 fe",
+        "flip7 fe",
+        "flip 7 fe",
+        "플립 fe",
+        "z플립 fe",
+        "갤럭시 z 플립 fe",
+        "galaxy z flip fe",
+        "F761N",
+        "F761"
+      ],
+      "verified": true,
+      "note": "KR launch 2025-07-25 alongside Flip7, 8GB/256GB only, 1,199,000원, Exynos 2400 (Flip6-class hardware). No Flip8 FE has been released as of 2026-10."
+    },
+    {
+      "name": "갤럭시 Z 플립8",
+      "en": "Galaxy Z Flip8",
+      "line": "갤럭시 Z 플립",
+      "gen": "8",
+      "variant": "",
+      "release": "2026-08",
+      "codes": [
+        "SM-F776N"
+      ],
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "핑크",
+          "en": "Pink",
+          "aliases": [
+            "pink"
+          ]
+        },
+        {
+          "name": "그라파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그래파이트",
+            "graphite"
+          ]
+        },
+        {
+          "name": "크림",
+          "en": "Cream",
+          "aliases": [
+            "크림색",
+            "cream"
+          ]
+        },
+        {
+          "name": "민트",
+          "en": "Mint",
+          "aliases": [
+            "mint"
+          ]
+        }
+      ],
+      "aliases": [
+        "플립8",
+        "z플립8",
+        "z 플립8",
+        "갤럭시 플립8",
+        "갤럭시플립8",
+        "갤럭시z플립8",
+        "갤럭시 z플립8",
+        "갤플립8",
+        "갤z플립8",
+        "플립 8",
+        "z플립 8",
+        "갤럭시 z 플립 8",
+        "galaxy z flip8",
+        "galaxy z flip 8",
+        "z flip8",
+        "zflip8",
+        "flip8",
+        "flip 8",
+        "F776N",
+        "F776"
+      ],
+      "verified": true,
+      "note": "Unveiled 2026-07-22 (London Unpacked), KR launch 2026-08-07 (256GB 1,683,000원 / 512GB 1,936,000원). 민트 is 삼성닷컴·삼성 강남 전용. No Galaxy Z Flip8 FE was announced at Unpacked 2026 or since (as of 2026-10-08)."
+    },
+    {
+      "name": "갤럭시 Z 트라이폴드",
+      "en": "Galaxy Z TriFold",
+      "line": "갤럭시 Z 트라이폴드",
+      "gen": "",
+      "variant": "",
+      "release": "2025-12",
+      "codes": [
+        "SM-F968N"
+      ],
+      "storage": [
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "크래프티드 블랙",
+          "en": "Crafted Black",
+          "aliases": [
+            "크래프티드블랙",
+            "블랙",
+            "crafted black"
+          ]
+        }
+      ],
+      "aliases": [
+        "트라이폴드",
+        "z트라이폴드",
+        "z 트라이폴드",
+        "갤럭시 트라이폴드",
+        "갤럭시트라이폴드",
+        "갤럭시z트라이폴드",
+        "갤럭시 z트라이폴드",
+        "삼성 트라이폴드",
+        "삼성트라이폴드",
+        "갤트라이폴드",
+        "갤z트라이폴드",
+        "트라이 폴드",
+        "갤럭시 z 트라이 폴드",
+        "galaxy z trifold",
+        "galaxy z tri-fold",
+        "galaxy trifold",
+        "z trifold",
+        "trifold",
+        "트라이폴드5",
+        "갤럭시 z 트라이폴드5",
+        "갤럭시z트라이폴드5",
+        "갤럭시 트라이폴드 5",
+        "갤럭시 트라이폴드5",
+        "F968N",
+        "F968"
+      ],
+      "verified": true,
+      "note": "Samsung's first tri-fold (10\" inner / 6.5\" cover, 16GB+512GB, Snapdragon 8 Elite, 5600mAh). KR launch 2025-12-12, 3,594,000원, single SKU 크래프티드 블랙, sold via 삼성닷컴 and ~20 Samsung stores (limited production). No successor exists as of 2026-10 (TriFold 2 rumored for 2027), so seller strings '트라이폴드5'/'트라이폴드 5' are treated as typos for this model."
+    },
+    {
+      "name": "갤럭시 A30",
+      "en": "Galaxy A30",
+      "line": "갤럭시 A",
+      "gen": "30",
+      "variant": "",
+      "release": "2019-05",
+      "codes": [
+        "SM-A305N"
+      ],
+      "storage": [
+        "32GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "white"
+          ]
+        },
+        {
+          "name": "레드",
+          "en": "Red",
+          "aliases": [
+            "red"
+          ]
+        }
+      ],
+      "aliases": [
+        "a30",
+        "갤a30",
+        "갤럭시a30",
+        "galaxy a30",
+        "삼성 갤럭시 a30",
+        "A305N",
+        "갤럭시 A305",
+        "A305"
+      ],
+      "verified": true,
+      "note": "KR launch 2019-05-03, 3GB/32GB, 349,800원. Red was a Korea addition; global blue not sold in Korea."
+    },
+    {
+      "name": "갤럭시 A50",
+      "en": "Galaxy A50",
+      "line": "갤럭시 A",
+      "gen": "50",
+      "variant": "",
+      "release": "2019-06",
+      "codes": [
+        "SM-A505N"
+      ],
+      "storage": [
+        "64GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "white"
+          ]
+        },
+        {
+          "name": "코랄",
+          "en": "Coral",
+          "aliases": [
+            "coral"
+          ]
+        }
+      ],
+      "aliases": [
+        "a50",
+        "갤a50",
+        "갤럭시a50",
+        "galaxy a50",
+        "삼성 갤럭시 a50",
+        "A505N",
+        "A505"
+      ],
+      "verified": true,
+      "note": "KR launch 2019-06-14 (unlocked pre-sale from 06-10), 473,000원, 4GB RAM model; 64GB storage per memory/global 4GB config (KR storage not stated in Samsung release). Global blue not sold in Korea."
+    },
+    {
+      "name": "갤럭시 A90",
+      "en": "Galaxy A90 5G",
+      "line": "갤럭시 A",
+      "gen": "90",
+      "variant": "",
+      "release": "2019-09",
+      "codes": [
+        "SM-A908N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "white"
+          ]
+        }
+      ],
+      "aliases": [
+        "a90",
+        "갤a90",
+        "갤럭시a90",
+        "galaxy a90",
+        "삼성 갤럭시 a90",
+        "a90 5g",
+        "a905g",
+        "갤럭시 a90 5g",
+        "갤럭시a905g",
+        "galaxy a90 5g",
+        "A908N",
+        "A908"
+      ],
+      "verified": true,
+      "note": "Official KR name '갤럭시 A90 5G'; KR launch 2019-09-04, 6GB/128GB, 899,800원."
+    },
+    {
+      "name": "갤럭시 A71",
+      "en": "Galaxy A71",
+      "line": "갤럭시 A",
+      "gen": "71",
+      "variant": "",
+      "release": "2020-01",
+      "codes": [
+        "SM-A715F",
+        "SM-A715F/DS"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "프리즘 크러시 블랙",
+          "en": "Prism Crush Black",
+          "aliases": [
+            "프리즘크러시블랙",
+            "블랙",
+            "prism crush black"
+          ]
+        },
+        {
+          "name": "프리즘 크러시 실버",
+          "en": "Prism Crush Silver",
+          "aliases": [
+            "프리즘크러시실버",
+            "실버",
+            "prism crush silver"
+          ]
+        },
+        {
+          "name": "프리즘 크러시 블루",
+          "en": "Prism Crush Blue",
+          "aliases": [
+            "프리즘크러시블루",
+            "블루",
+            "prism crush blue"
+          ]
+        },
+        {
+          "name": "프리즘 크러시 핑크",
+          "en": "Prism Crush Pink",
+          "aliases": [
+            "프리즘크러시핑크",
+            "핑크",
+            "prism crush pink"
+          ]
+        }
+      ],
+      "aliases": [
+        "a71",
+        "갤a71",
+        "갤럭시a71",
+        "galaxy a71",
+        "삼성 갤럭시 a71",
+        "A715F",
+        "A715"
+      ],
+      "verified": false,
+      "note": "Not officially released in Korea (LTE SM-A715F is import-only; release = global month, on sale 2020-01-17). The Galaxy A71 5G (SM-A716B/U) was sold in Korea only as SKT-exclusive 갤럭시 A 퀀텀 (SM-A716S, 2020-05-22), so 'A716' is not an alias here. Korean color names follow Samsung KR 'Prism Crush' style (unofficial for this model). verified=false: not sold in Korea, so Korean color names are unofficial transliterations."
+    },
+    {
+      "name": "갤럭시 A31",
+      "en": "Galaxy A31",
+      "line": "갤럭시 A",
+      "gen": "31",
+      "variant": "",
+      "release": "2020-05",
+      "codes": [
+        "SM-A315N"
+      ],
+      "storage": [
+        "64GB"
+      ],
+      "colors": [
+        {
+          "name": "프리즘 크러시 블랙",
+          "en": "Prism Crush Black",
+          "aliases": [
+            "프리즘크러시블랙",
+            "블랙",
+            "prism crush black"
+          ]
+        },
+        {
+          "name": "프리즘 크러시 블루",
+          "en": "Prism Crush Blue",
+          "aliases": [
+            "프리즘크러시블루",
+            "블루",
+            "prism crush blue"
+          ]
+        },
+        {
+          "name": "프리즘 크러시 화이트",
+          "en": "Prism Crush White",
+          "aliases": [
+            "프리즘크러시화이트",
+            "화이트",
+            "prism crush white"
+          ]
+        }
+      ],
+      "aliases": [
+        "a31",
+        "갤a31",
+        "갤럭시a31",
+        "galaxy a31",
+        "삼성 갤럭시 a31",
+        "A315N",
+        "A315"
+      ],
+      "verified": true,
+      "note": "Unlocked pre-sale from 2020-04-27, official KR launch 2020-05-07, 4GB/64GB, 374,000원. namu.wiki mentions a silver added 2020-10 (unconfirmed; not listed)."
+    },
+    {
+      "name": "갤럭시 A51",
+      "en": "Galaxy A51 5G",
+      "line": "갤럭시 A",
+      "gen": "51",
+      "variant": "",
+      "release": "2020-05",
+      "codes": [
+        "SM-A516N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "프리즘 큐브 블랙",
+          "en": "Prism Cube Black",
+          "aliases": [
+            "프리즘큐브블랙",
+            "블랙",
+            "prism cube black"
+          ]
+        },
+        {
+          "name": "프리즘 큐브 핑크",
+          "en": "Prism Cube Pink",
+          "aliases": [
+            "프리즘큐브핑크",
+            "핑크",
+            "prism cube pink"
+          ]
+        },
+        {
+          "name": "프리즘 큐브 화이트",
+          "en": "Prism Cube White",
+          "aliases": [
+            "프리즘큐브화이트",
+            "화이트",
+            "prism cube white"
+          ]
+        }
+      ],
+      "aliases": [
+        "a51",
+        "갤a51",
+        "갤럭시a51",
+        "galaxy a51",
+        "삼성 갤럭시 a51",
+        "a51 5g",
+        "a515g",
+        "갤럭시 a51 5g",
+        "갤럭시a515g",
+        "galaxy a51 5g",
+        "A516N",
+        "A516"
+      ],
+      "verified": true,
+      "note": "Korea only got the 5G model ('갤럭시 A51 5G', SM-A516N), launched 2020-05-07, 128GB, 572,000원. The LTE Galaxy A51 (SM-A515F) was not officially released in Korea (imports only)."
+    },
+    {
+      "name": "갤럭시 A21s",
+      "en": "Galaxy A21s",
+      "line": "갤럭시 A",
+      "gen": "21s",
+      "variant": "",
+      "release": "2020-07",
+      "codes": [
+        "SM-A217N"
+      ],
+      "storage": [
+        "32GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "white"
+          ]
+        },
+        {
+          "name": "레드",
+          "en": "Red",
+          "aliases": [
+            "red"
+          ]
+        }
+      ],
+      "aliases": [
+        "a21s",
+        "갤a21s",
+        "갤럭시a21s",
+        "galaxy a21s",
+        "삼성 갤럭시 a21s",
+        "A217N",
+        "갤럭시 A21S",
+        "A217"
+      ],
+      "verified": true,
+      "note": "KR launch 2020-07-24 (pre-sale from 07-20), 3GB/32GB, 297,000원. namu.wiki says a silver color was added in Korea on 2020-10-06 (not confirmed by a Samsung source; not listed)."
+    },
+    {
+      "name": "갤럭시 A12",
+      "en": "Galaxy A12",
+      "line": "갤럭시 A",
+      "gen": "12",
+      "variant": "",
+      "release": "2021-02",
+      "codes": [
+        "SM-A125N"
+      ],
+      "storage": [
+        "32GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "white"
+          ]
+        }
+      ],
+      "aliases": [
+        "a12",
+        "갤a12",
+        "갤럭시a12",
+        "galaxy a12",
+        "삼성 갤럭시 a12",
+        "A125N",
+        "A125"
+      ],
+      "verified": true,
+      "note": "KR launch 2021-02-09 (Samsung Newsroom KR), 3GB/32GB, unlocked + 3 carriers. Global blue/red not sold in Korea."
+    },
+    {
+      "name": "갤럭시 A32",
+      "en": "Galaxy A32",
+      "line": "갤럭시 A",
+      "gen": "32",
+      "variant": "",
+      "release": "2021-03",
+      "codes": [
+        "SM-A325N"
+      ],
+      "storage": [
+        "64GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 블랙",
+          "en": "Awesome Black",
+          "aliases": [
+            "어썸블랙",
+            "블랙",
+            "awesome black"
+          ]
+        },
+        {
+          "name": "어썸 화이트",
+          "en": "Awesome White",
+          "aliases": [
+            "어썸화이트",
+            "화이트",
+            "awesome white"
+          ]
+        },
+        {
+          "name": "어썸 바이올렛",
+          "en": "Awesome Violet",
+          "aliases": [
+            "어썸바이올렛",
+            "awesome violet",
+            "바이올렛",
+            "라벤더",
+            "퍼플",
+            "보라"
+          ]
+        }
+      ],
+      "aliases": [
+        "a32",
+        "갤a32",
+        "갤럭시a32",
+        "galaxy a32",
+        "삼성 갤럭시 a32",
+        "A325N",
+        "A325"
+      ],
+      "verified": true,
+      "note": "LTE model; KR launch 2021-03-12, 4GB/64GB, 374,000원. The 5G version (SM-A326K) was sold in Korea as KT-exclusive 갤럭시 점프 (2021-05)."
+    },
+    {
+      "name": "갤럭시 A42",
+      "en": "Galaxy A42 5G",
+      "line": "갤럭시 A",
+      "gen": "42",
+      "variant": "",
+      "release": "2021-03",
+      "codes": [
+        "SM-A426N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "프리즘 닷 블랙",
+          "en": "Prism Dot Black",
+          "aliases": [
+            "프리즘닷블랙",
+            "블랙",
+            "prism dot black"
+          ]
+        },
+        {
+          "name": "프리즘 닷 화이트",
+          "en": "Prism Dot White",
+          "aliases": [
+            "프리즘닷화이트",
+            "화이트",
+            "prism dot white"
+          ]
+        },
+        {
+          "name": "프리즘 닷 그레이",
+          "en": "Prism Dot Gray",
+          "aliases": [
+            "프리즘닷그레이",
+            "그레이",
+            "prism dot gray"
+          ]
+        }
+      ],
+      "aliases": [
+        "a42",
+        "갤a42",
+        "갤럭시a42",
+        "galaxy a42",
+        "삼성 갤럭시 a42",
+        "a42 5g",
+        "a425g",
+        "갤럭시 a42 5g",
+        "갤럭시a425g",
+        "galaxy a42 5g",
+        "A426N",
+        "A426"
+      ],
+      "verified": true,
+      "note": "Official KR name '갤럭시 A42 5G'; KR launch 2021-03-12, 4GB/128GB, 449,900원; discontinued early (Snapdragon 750G supply)."
+    },
+    {
+      "name": "갤럭시 A52",
+      "en": "Galaxy A52",
+      "line": "갤럭시 A",
+      "gen": "52",
+      "variant": "",
+      "release": "2021-03",
+      "codes": [
+        "SM-A525F",
+        "SM-A525F/DS",
+        "SM-A526B",
+        "SM-A526B/DS"
+      ],
+      "storage": [
+        "128GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 블랙",
+          "en": "Awesome Black",
+          "aliases": [
+            "어썸블랙",
+            "블랙",
+            "awesome black"
+          ]
+        },
+        {
+          "name": "어썸 화이트",
+          "en": "Awesome White",
+          "aliases": [
+            "어썸화이트",
+            "화이트",
+            "awesome white"
+          ]
+        },
+        {
+          "name": "어썸 블루",
+          "en": "Awesome Blue",
+          "aliases": [
+            "어썸블루",
+            "블루",
+            "awesome blue"
+          ]
+        },
+        {
+          "name": "어썸 바이올렛",
+          "en": "Awesome Violet",
+          "aliases": [
+            "어썸바이올렛",
+            "awesome violet",
+            "바이올렛",
+            "라벤더",
+            "퍼플",
+            "보라"
+          ]
+        }
+      ],
+      "aliases": [
+        "a52",
+        "갤a52",
+        "갤럭시a52",
+        "galaxy a52",
+        "삼성 갤럭시 a52",
+        "A525F",
+        "A526B",
+        "a52 5g",
+        "갤럭시 a52 5g",
+        "galaxy a52 5g",
+        "A525",
+        "A526"
+      ],
+      "verified": true,
+      "note": "Not officially released in Korea: Galaxy A52 (4G, SM-A525F) and A52 5G (SM-A526B) are imports; a Korean SM-A526N passed certification in 2021 but its launch was cancelled and Korea got 갤럭시 A52s 5G (SM-A528N) instead. Release = global launch month (2021-03-17). Korean color names per Samsung Newsroom Korea announcement."
+    },
+    {
+      "name": "갤럭시 A52s",
+      "en": "Galaxy A52s 5G",
+      "line": "갤럭시 A",
+      "gen": "52s",
+      "variant": "",
+      "release": "2021-09",
+      "codes": [
+        "SM-A528N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 블랙",
+          "en": "Awesome Black",
+          "aliases": [
+            "어썸블랙",
+            "블랙",
+            "awesome black"
+          ]
+        },
+        {
+          "name": "어썸 화이트",
+          "en": "Awesome White",
+          "aliases": [
+            "어썸화이트",
+            "화이트",
+            "awesome white"
+          ]
+        },
+        {
+          "name": "어썸 바이올렛",
+          "en": "Awesome Violet",
+          "aliases": [
+            "어썸바이올렛",
+            "awesome violet",
+            "바이올렛",
+            "라벤더",
+            "퍼플",
+            "보라"
+          ]
+        }
+      ],
+      "aliases": [
+        "a52s",
+        "갤a52s",
+        "갤럭시a52s",
+        "galaxy a52s",
+        "삼성 갤럭시 a52s",
+        "a52s 5g",
+        "a52s5g",
+        "갤럭시 a52s 5g",
+        "갤럭시a52s5g",
+        "galaxy a52s 5g",
+        "A528N",
+        "갤럭시 A52S",
+        "A528"
+      ],
+      "verified": true,
+      "note": "Official KR name '갤럭시 A52s 5G'; KR launch 2021-09-03, 6GB/128GB, 599,500원. Global mint not sold in Korea. Released in Korea in place of the cancelled A52 5G."
+    },
+    {
+      "name": "갤럭시 A23",
+      "en": "Galaxy A23",
+      "line": "갤럭시 A",
+      "gen": "23",
+      "variant": "",
+      "release": "2022-03",
+      "codes": [
+        "SM-A235N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "white"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "blue"
+          ]
+        }
+      ],
+      "aliases": [
+        "a23",
+        "갤a23",
+        "갤럭시a23",
+        "galaxy a23",
+        "삼성 갤럭시 a23",
+        "A235N",
+        "A235"
+      ],
+      "verified": true,
+      "note": "LTE model; KR launch 2022-03-25, 4GB/128GB, 374,000원. Global peach not sold in Korea."
+    },
+    {
+      "name": "갤럭시 A53",
+      "en": "Galaxy A53 5G",
+      "line": "갤럭시 A",
+      "gen": "53",
+      "variant": "",
+      "release": "2022-04",
+      "codes": [
+        "SM-A536N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 블루",
+          "en": "Awesome Blue",
+          "aliases": [
+            "어썸블루",
+            "블루",
+            "awesome blue"
+          ]
+        },
+        {
+          "name": "어썸 블랙",
+          "en": "Awesome Black",
+          "aliases": [
+            "어썸블랙",
+            "블랙",
+            "awesome black"
+          ]
+        },
+        {
+          "name": "어썸 화이트",
+          "en": "Awesome White",
+          "aliases": [
+            "어썸화이트",
+            "화이트",
+            "awesome white"
+          ]
+        }
+      ],
+      "aliases": [
+        "a53",
+        "갤a53",
+        "갤럭시a53",
+        "galaxy a53",
+        "삼성 갤럭시 a53",
+        "a53 5g",
+        "a535g",
+        "갤럭시 a53 5g",
+        "갤럭시a535g",
+        "galaxy a53 5g",
+        "A536N",
+        "A536"
+      ],
+      "verified": true,
+      "note": "Official KR name '갤럭시 A53 5G'; official KR launch 2022-04-01 (pre-sale 03-18~24, pre-order units delivered from 03-25), 6GB/128GB, 599,500원. Global peach not sold in Korea. Not the same device as SKT 갤럭시 퀀텀3 (SM-M536S, Galaxy M53-based)."
+    },
+    {
+      "name": "갤럭시 A33",
+      "en": "Galaxy A33 5G",
+      "line": "갤럭시 A",
+      "gen": "33",
+      "variant": "",
+      "release": "2022-07",
+      "codes": [
+        "SM-A336N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 블루",
+          "en": "Awesome Blue",
+          "aliases": [
+            "어썸블루",
+            "블루",
+            "awesome blue"
+          ]
+        },
+        {
+          "name": "어썸 블랙",
+          "en": "Awesome Black",
+          "aliases": [
+            "어썸블랙",
+            "블랙",
+            "awesome black"
+          ]
+        },
+        {
+          "name": "어썸 화이트",
+          "en": "Awesome White",
+          "aliases": [
+            "어썸화이트",
+            "화이트",
+            "awesome white"
+          ]
+        }
+      ],
+      "aliases": [
+        "a33",
+        "갤a33",
+        "갤럭시a33",
+        "galaxy a33",
+        "삼성 갤럭시 a33",
+        "a33 5g",
+        "a335g",
+        "갤럭시 a33 5g",
+        "갤럭시a335g",
+        "galaxy a33 5g",
+        "A336N",
+        "A336"
+      ],
+      "verified": true,
+      "note": "Official KR name '갤럭시 A33 5G'; KR launch 2022-07-29 (global reveal 2022-03), 6GB/128GB, 499,400원. Global peach not sold in Korea."
+    },
+    {
+      "name": "갤럭시 A34",
+      "en": "Galaxy A34 5G",
+      "line": "갤럭시 A",
+      "gen": "34",
+      "variant": "",
+      "release": "2023-03",
+      "codes": [
+        "SM-A346N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 실버",
+          "en": "Awesome Silver",
+          "aliases": [
+            "어썸실버",
+            "실버",
+            "awesome silver"
+          ]
+        },
+        {
+          "name": "어썸 그라파이트",
+          "en": "Awesome Graphite",
+          "aliases": [
+            "어썸그라파이트",
+            "awesome graphite",
+            "그라파이트",
+            "그래파이트"
+          ]
+        },
+        {
+          "name": "어썸 바이올렛",
+          "en": "Awesome Violet",
+          "aliases": [
+            "어썸바이올렛",
+            "awesome violet",
+            "바이올렛",
+            "퍼플",
+            "보라"
+          ]
+        },
+        {
+          "name": "어썸 라임",
+          "en": "Awesome Lime",
+          "aliases": [
+            "어썸라임",
+            "라임",
+            "awesome lime"
+          ]
+        }
+      ],
+      "aliases": [
+        "a34",
+        "갤a34",
+        "갤럭시a34",
+        "galaxy a34",
+        "삼성 갤럭시 a34",
+        "a34 5g",
+        "a345g",
+        "갤럭시 a34 5g",
+        "갤럭시a345g",
+        "galaxy a34 5g",
+        "A346N",
+        "A346"
+      ],
+      "verified": true,
+      "note": "Official KR name '갤럭시 A34 5G'; KR launch 2023-03-31, 6GB/128GB, 499,400원; all four global colors sold in Korea."
+    },
+    {
+      "name": "갤럭시 A54",
+      "en": "Galaxy A54 5G",
+      "line": "갤럭시 A",
+      "gen": "54",
+      "variant": "",
+      "release": "2023-03",
+      "codes": [
+        "SM-A546B",
+        "SM-A546B/DS",
+        "SM-A546E",
+        "SM-A546E/DS",
+        "SM-A546U"
+      ],
+      "storage": [
+        "128GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 그라파이트",
+          "en": "Awesome Graphite",
+          "aliases": [
+            "어썸그라파이트",
+            "awesome graphite",
+            "그라파이트",
+            "그래파이트"
+          ]
+        },
+        {
+          "name": "어썸 화이트",
+          "en": "Awesome White",
+          "aliases": [
+            "어썸화이트",
+            "화이트",
+            "awesome white"
+          ]
+        },
+        {
+          "name": "어썸 라임",
+          "en": "Awesome Lime",
+          "aliases": [
+            "어썸라임",
+            "라임",
+            "awesome lime"
+          ]
+        },
+        {
+          "name": "어썸 바이올렛",
+          "en": "Awesome Violet",
+          "aliases": [
+            "어썸바이올렛",
+            "awesome violet",
+            "바이올렛",
+            "퍼플",
+            "보라"
+          ]
+        }
+      ],
+      "aliases": [
+        "a54",
+        "갤a54",
+        "갤럭시a54",
+        "galaxy a54",
+        "삼성 갤럭시 a54",
+        "a54 5g",
+        "a545g",
+        "갤럭시 a54 5g",
+        "갤럭시a545g",
+        "galaxy a54 5g",
+        "A546B",
+        "A546E",
+        "A546U"
+      ],
+      "verified": true,
+      "note": "Not officially released in Korea under the A54 name; Korean counterpart is 갤럭시 퀀텀4 (SM-A546S, SKT-exclusive, 2023-06; 어썸 그라파이트/화이트/라임). Codes are global; release = global launch month (on sale 2023-03-24). Bare 'A546' omitted to avoid colliding with 퀀텀4."
+    },
+    {
+      "name": "갤럭시 A24",
+      "en": "Galaxy A24",
+      "line": "갤럭시 A",
+      "gen": "24",
+      "variant": "",
+      "release": "2023-05",
+      "codes": [
+        "SM-A245N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "라이트 그린",
+          "en": "Light Green",
+          "aliases": [
+            "라이트그린",
+            "그린",
+            "light green"
+          ]
+        },
+        {
+          "name": "다크 레드",
+          "en": "Dark Red",
+          "aliases": [
+            "다크레드",
+            "레드",
+            "dark red"
+          ]
+        }
+      ],
+      "aliases": [
+        "a24",
+        "갤a24",
+        "갤럭시a24",
+        "galaxy a24",
+        "삼성 갤럭시 a24",
+        "A245N",
+        "A245"
+      ],
+      "verified": true,
+      "note": "LTE only; KR launch 2023-05-19, 4GB/128GB, 396,000원. Global silver not sold in Korea."
+    },
+    {
+      "name": "갤럭시 A25",
+      "en": "Galaxy A25 5G",
+      "line": "갤럭시 A",
+      "gen": "25",
+      "variant": "",
+      "release": "2024-01",
+      "codes": [
+        "SM-A256N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "옐로우",
+          "en": "Yellow",
+          "aliases": [
+            "yellow",
+            "옐로",
+            "노랑"
+          ]
+        },
+        {
+          "name": "라이트 블루",
+          "en": "Light Blue",
+          "aliases": [
+            "라이트블루",
+            "light blue"
+          ]
+        },
+        {
+          "name": "블루 블랙",
+          "en": "Blue Black",
+          "aliases": [
+            "블루블랙",
+            "블랙",
+            "blue black"
+          ]
+        }
+      ],
+      "aliases": [
+        "a25",
+        "갤a25",
+        "갤럭시a25",
+        "galaxy a25",
+        "삼성 갤럭시 a25",
+        "a25 5g",
+        "a255g",
+        "갤럭시 a25 5g",
+        "갤럭시a255g",
+        "galaxy a25 5g",
+        "A256N",
+        "A256"
+      ],
+      "verified": true,
+      "note": "Official KR name '갤럭시 A25 5G'; KR launch 2024-01-05, 6GB/128GB, 449,900원."
+    },
+    {
+      "name": "갤럭시 A15",
+      "en": "Galaxy A15 LTE",
+      "line": "갤럭시 A",
+      "gen": "15",
+      "variant": "",
+      "release": "2024-03",
+      "codes": [
+        "SM-A155N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "블루 블랙",
+          "en": "Blue Black",
+          "aliases": [
+            "블루블랙",
+            "블랙",
+            "blue black"
+          ]
+        },
+        {
+          "name": "라이트 블루",
+          "en": "Light Blue",
+          "aliases": [
+            "라이트블루",
+            "light blue",
+            "아이스블루"
+          ]
+        },
+        {
+          "name": "옐로우",
+          "en": "Yellow",
+          "aliases": [
+            "yellow",
+            "옐로",
+            "노랑"
+          ]
+        }
+      ],
+      "aliases": [
+        "a15",
+        "갤a15",
+        "갤럭시a15",
+        "galaxy a15",
+        "삼성 갤럭시 a15",
+        "a15 lte",
+        "갤럭시 a15 lte",
+        "galaxy a15 lte",
+        "A155N",
+        "갤럭시 A155",
+        "A155"
+      ],
+      "verified": true,
+      "note": "Official KR name '갤럭시 A15 LTE' (samsung.com/sec lists it as 갤럭시 A15); KR launch 2024-03-18, 6GB/128GB. The 5G version (Galaxy A15 5G, SM-A156x) was sold in Korea only as LG U+ exclusive 갤럭시 버디3 (SM-A156L, 2024-04). Global blue not sold in Korea."
+    },
+    {
+      "name": "갤럭시 A55",
+      "en": "Galaxy A55 5G",
+      "line": "갤럭시 A",
+      "gen": "55",
+      "variant": "",
+      "release": "2024-03",
+      "codes": [
+        "SM-A556B",
+        "SM-A556B/DS",
+        "SM-A556E",
+        "SM-A556E/DS"
+      ],
+      "storage": [
+        "128GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 네이비",
+          "en": "Awesome Navy",
+          "aliases": [
+            "어썸네이비",
+            "네이비",
+            "awesome navy"
+          ]
+        },
+        {
+          "name": "어썸 아이스블루",
+          "en": "Awesome Iceblue",
+          "aliases": [
+            "어썸아이스블루",
+            "awesome iceblue",
+            "아이스블루",
+            "아이스 블루",
+            "awesome ice blue"
+          ]
+        },
+        {
+          "name": "어썸 라일락",
+          "en": "Awesome Lilac",
+          "aliases": [
+            "어썸라일락",
+            "awesome lilac",
+            "라일락",
+            "퍼플",
+            "보라"
+          ]
+        },
+        {
+          "name": "어썸 레몬",
+          "en": "Awesome Lemon",
+          "aliases": [
+            "어썸레몬",
+            "awesome lemon",
+            "레몬",
+            "옐로우"
+          ]
+        }
+      ],
+      "aliases": [
+        "a55",
+        "갤a55",
+        "갤럭시a55",
+        "galaxy a55",
+        "삼성 갤럭시 a55",
+        "a55 5g",
+        "a555g",
+        "갤럭시 a55 5g",
+        "갤럭시a555g",
+        "galaxy a55 5g",
+        "A556B",
+        "A556E"
+      ],
+      "verified": true,
+      "note": "Not officially released in Korea under the A55 name; Korean counterpart is 갤럭시 퀀텀5 (SM-A556S, SKT-exclusive, 2024-08-28; 어썸 네이비/아이스블루/라일락). Codes are global; release = global launch month (on sale 2024-03-15). Bare 'A556' omitted to avoid colliding with 퀀텀5."
+    },
+    {
+      "name": "갤럭시 A35",
+      "en": "Galaxy A35 5G",
+      "line": "갤럭시 A",
+      "gen": "35",
+      "variant": "",
+      "release": "2024-06",
+      "codes": [
+        "SM-A356N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 아이스블루",
+          "en": "Awesome Iceblue",
+          "aliases": [
+            "어썸아이스블루",
+            "awesome iceblue",
+            "아이스블루",
+            "아이스 블루",
+            "awesome ice blue"
+          ]
+        },
+        {
+          "name": "어썸 라일락",
+          "en": "Awesome Lilac",
+          "aliases": [
+            "어썸라일락",
+            "awesome lilac",
+            "라일락",
+            "퍼플",
+            "보라"
+          ]
+        },
+        {
+          "name": "어썸 네이비",
+          "en": "Awesome Navy",
+          "aliases": [
+            "어썸네이비",
+            "네이비",
+            "awesome navy"
+          ]
+        }
+      ],
+      "aliases": [
+        "a35",
+        "갤a35",
+        "갤럭시a35",
+        "galaxy a35",
+        "삼성 갤럭시 a35",
+        "a35 5g",
+        "a355g",
+        "갤럭시 a35 5g",
+        "갤럭시a355g",
+        "galaxy a35 5g",
+        "A356N",
+        "A356"
+      ],
+      "verified": true,
+      "note": "Official KR name '갤럭시 A35 5G'; KR launch 2024-06-21, 6GB/128GB, 499,400원. Global lemon not sold in Korea."
+    },
+    {
+      "name": "갤럭시 A16",
+      "en": "Galaxy A16 LTE",
+      "line": "갤럭시 A",
+      "gen": "16",
+      "variant": "",
+      "release": "2024-11",
+      "codes": [
+        "SM-A165N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "그레이",
+          "en": "Gray",
+          "aliases": [
+            "gray",
+            "라이트 그레이",
+            "라이트그레이",
+            "grey",
+            "light gray"
+          ]
+        },
+        {
+          "name": "라이트 그린",
+          "en": "Light Green",
+          "aliases": [
+            "라이트그린",
+            "그린",
+            "light green"
+          ]
+        }
+      ],
+      "aliases": [
+        "a16",
+        "갤a16",
+        "갤럭시a16",
+        "galaxy a16",
+        "삼성 갤럭시 a16",
+        "a16 lte",
+        "갤럭시 a16 lte",
+        "galaxy a16 lte",
+        "A165N",
+        "A165"
+      ],
+      "verified": true,
+      "note": "Official KR name '갤럭시 A16 LTE'; KR launch 2024-11-29, 6GB/128GB, unlocked + 3 carriers. Samsung KR calls the gray '그레이' (global/namu: Light Gray). The 5G version (Galaxy A16 5G, SM-A166x) was sold in Korea only as LG U+ exclusive 갤럭시 버디4 (SM-A166L, 2025-05-09)."
+    },
+    {
+      "name": "갤럭시 A26",
+      "en": "Galaxy A26 5G",
+      "line": "갤럭시 A",
+      "gen": "26",
+      "variant": "",
+      "release": "2025-03",
+      "codes": [
+        "SM-A266B",
+        "SM-A266B/DS",
+        "SM-A266M"
+      ],
+      "storage": [
+        "128GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "white"
+          ]
+        },
+        {
+          "name": "민트",
+          "en": "Mint",
+          "aliases": [
+            "mint"
+          ]
+        },
+        {
+          "name": "피치 핑크",
+          "en": "Peach Pink",
+          "aliases": [
+            "피치핑크",
+            "peach pink",
+            "핑크",
+            "피치"
+          ]
+        }
+      ],
+      "aliases": [
+        "a26",
+        "갤a26",
+        "갤럭시a26",
+        "galaxy a26",
+        "삼성 갤럭시 a26",
+        "a26 5g",
+        "a265g",
+        "갤럭시 a26 5g",
+        "갤럭시a265g",
+        "galaxy a26 5g",
+        "A266B",
+        "A266M",
+        "A266"
+      ],
+      "verified": false,
+      "note": "Not officially released in Korea in any form (no Korean carrier variant; per namu.wiki). Codes/storage are global (announced 2025-03-02, on sale 2025-03-19; release = global month). Korean color names are unofficial transliterations of the global names. verified=false: not sold in Korea, so Korean color names are unofficial transliterations."
+    },
+    {
+      "name": "갤럭시 A56",
+      "en": "Galaxy A56 5G",
+      "line": "갤럭시 A",
+      "gen": "56",
+      "variant": "",
+      "release": "2025-03",
+      "codes": [
+        "SM-A566B",
+        "SM-A566B/DS",
+        "SM-A566E",
+        "SM-A566E/DS"
+      ],
+      "storage": [
+        "128GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 그라파이트",
+          "en": "Awesome Graphite",
+          "aliases": [
+            "어썸그라파이트",
+            "awesome graphite",
+            "그라파이트",
+            "그래파이트"
+          ]
+        },
+        {
+          "name": "어썸 라이트그레이",
+          "en": "Awesome Light Gray",
+          "aliases": [
+            "어썸라이트그레이",
+            "awesome light gray",
+            "어썸 라이트 그레이",
+            "라이트그레이",
+            "라이트 그레이",
+            "awesome lightgray"
+          ]
+        },
+        {
+          "name": "어썸 올리브",
+          "en": "Awesome Olive",
+          "aliases": [
+            "어썸올리브",
+            "올리브",
+            "awesome olive"
+          ]
+        },
+        {
+          "name": "어썸 핑크",
+          "en": "Awesome Pink",
+          "aliases": [
+            "어썸핑크",
+            "핑크",
+            "awesome pink"
+          ]
+        }
+      ],
+      "aliases": [
+        "a56",
+        "갤a56",
+        "갤럭시a56",
+        "galaxy a56",
+        "삼성 갤럭시 a56",
+        "a56 5g",
+        "a565g",
+        "갤럭시 a56 5g",
+        "갤럭시a565g",
+        "galaxy a56 5g",
+        "A566B",
+        "A566E"
+      ],
+      "verified": true,
+      "note": "Not officially released in Korea under the A56 name; Korean counterpart is 갤럭시 퀀텀6 (SM-A566S, SKT-exclusive, 2025-08-01, 8GB/128GB; 어썸 그라파이트/라이트그레이 only). Codes are global; release = global launch month (announced 2025-03-02, on sale 2025-03-19). Bare 'A566' omitted to avoid colliding with 퀀텀6. Plain '그레이' left unmapped (graphite vs light gray)."
+    },
+    {
+      "name": "갤럭시 A36",
+      "en": "Galaxy A36 5G",
+      "line": "갤럭시 A",
+      "gen": "36",
+      "variant": "",
+      "release": "2025-06",
+      "codes": [
+        "SM-A366N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 라벤더",
+          "en": "Awesome Lavender",
+          "aliases": [
+            "어썸라벤더",
+            "awesome lavender",
+            "라벤더",
+            "퍼플",
+            "보라"
+          ]
+        },
+        {
+          "name": "어썸 화이트",
+          "en": "Awesome White",
+          "aliases": [
+            "어썸화이트",
+            "화이트",
+            "awesome white"
+          ]
+        },
+        {
+          "name": "어썸 블랙",
+          "en": "Awesome Black",
+          "aliases": [
+            "어썸블랙",
+            "블랙",
+            "awesome black"
+          ]
+        }
+      ],
+      "aliases": [
+        "a36",
+        "갤a36",
+        "갤럭시a36",
+        "galaxy a36",
+        "삼성 갤럭시 a36",
+        "a36 5g",
+        "a365g",
+        "갤럭시 a36 5g",
+        "갤럭시a365g",
+        "galaxy a36 5g",
+        "A366N",
+        "A366"
+      ],
+      "verified": true,
+      "note": "Official KR name '갤럭시 A36 5G'; KR launch 2025-06-12 (Samsung Newsroom KR), 6GB/128GB, 499,400원, unlocked + 3 carriers. Global lime (and IE-only blue/green) not sold in Korea."
+    },
+    {
+      "name": "갤럭시 A17",
+      "en": "Galaxy A17 LTE",
+      "line": "갤럭시 A",
+      "gen": "17",
+      "variant": "",
+      "release": "2025-11",
+      "codes": [
+        "SM-A175N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "라이트 블루",
+          "en": "Light Blue",
+          "aliases": [
+            "라이트블루",
+            "블루",
+            "light blue"
+          ]
+        },
+        {
+          "name": "그레이",
+          "en": "Gray",
+          "aliases": [
+            "gray",
+            "grey"
+          ]
+        }
+      ],
+      "aliases": [
+        "a17",
+        "갤a17",
+        "갤럭시a17",
+        "galaxy a17",
+        "삼성 갤럭시 a17",
+        "a17 lte",
+        "갤럭시 a17 lte",
+        "galaxy a17 lte",
+        "A175N",
+        "A175"
+      ],
+      "verified": true,
+      "note": "Official KR name '갤럭시 A17 LTE' (samsung.com/sec: 갤럭시 A17); KR launch 2025-11-07, 128GB, 319,000원, unlocked + 3 carriers. Galaxy A17 5G (SM-A176x) was NOT sold in Korea as an A17: it is LG U+ exclusive 갤럭시 버디5 (SM-A176L, 2026-05-15) and, per Wikipedia, also SKT 갤럭시 와이드9 (2026-07). So 'A176' is not an alias of this model."
+    },
+    {
+      "name": "갤럭시 A57",
+      "en": "Galaxy A57 5G",
+      "line": "갤럭시 A",
+      "gen": "57",
+      "variant": "",
+      "release": "2026-04",
+      "codes": [
+        "SM-A576B",
+        "SM-A576B/DS"
+      ],
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 네이비",
+          "en": "Awesome Navy",
+          "aliases": [
+            "어썸네이비",
+            "네이비",
+            "awesome navy"
+          ]
+        },
+        {
+          "name": "어썸 그레이",
+          "en": "Awesome Gray",
+          "aliases": [
+            "어썸그레이",
+            "awesome gray",
+            "grey"
+          ]
+        },
+        {
+          "name": "어썸 아이스블루",
+          "en": "Awesome Icyblue",
+          "aliases": [
+            "어썸아이스블루",
+            "awesome icyblue",
+            "어썸 아이시블루",
+            "아이스블루",
+            "아이시블루",
+            "아이시 블루",
+            "awesome icy blue"
+          ]
+        },
+        {
+          "name": "어썸 라일락",
+          "en": "Awesome Lilac",
+          "aliases": [
+            "어썸라일락",
+            "awesome lilac",
+            "라일락",
+            "퍼플",
+            "보라"
+          ]
+        }
+      ],
+      "aliases": [
+        "a57",
+        "갤a57",
+        "갤럭시a57",
+        "galaxy a57",
+        "삼성 갤럭시 a57",
+        "a57 5g",
+        "a575g",
+        "갤럭시 a57 5g",
+        "갤럭시a575g",
+        "galaxy a57 5g",
+        "A576B"
+      ],
+      "verified": true,
+      "note": "Not officially released in Korea under the A57 name; Korean counterpart is 갤럭시 퀀텀7 (SM-A576S, SKT-exclusive, 2026-08-25, 128GB; 어썸 그레이/아이스블루/라일락 — Samsung KR spelling '아이스블루' for global 'Icyblue'). Codes are global; release = global launch month (announced 2026-03-25, on sale ~2026-04-09/10). Bare 'A576' omitted to avoid colliding with 퀀텀7."
+    },
+    {
+      "name": "갤럭시 A37",
+      "en": "Galaxy A37 5G",
+      "line": "갤럭시 A",
+      "gen": "37",
+      "variant": "",
+      "release": "2026-06",
+      "codes": [
+        "SM-A376N"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 라벤더",
+          "en": "Awesome Lavender",
+          "aliases": [
+            "어썸라벤더",
+            "awesome lavender",
+            "라벤더",
+            "퍼플",
+            "보라"
+          ]
+        },
+        {
+          "name": "어썸 화이트",
+          "en": "Awesome White",
+          "aliases": [
+            "어썸화이트",
+            "화이트",
+            "awesome white"
+          ]
+        },
+        {
+          "name": "어썸 차콜",
+          "en": "Awesome Charcoal",
+          "aliases": [
+            "어썸차콜",
+            "awesome charcoal",
+            "차콜",
+            "챠콜"
+          ]
+        }
+      ],
+      "aliases": [
+        "a37",
+        "갤a37",
+        "갤럭시a37",
+        "galaxy a37",
+        "삼성 갤럭시 a37",
+        "a37 5g",
+        "a375g",
+        "갤럭시 a37 5g",
+        "갤럭시a375g",
+        "galaxy a37 5g",
+        "A376N",
+        "갤럭시 A 37",
+        "A376"
+      ],
+      "verified": true,
+      "note": "Official KR name '갤럭시 A37 5G'; KR launch 2026-06-19 (Samsung Newsroom KR 2026-06-18), 6GB/128GB, 598,400원. Global launch 2026-04 with A57; global 어썸 그레이그린 not sold in Korea."
+    },
+    {
+      "name": "갤럭시 A 퀀텀",
+      "en": "Galaxy A Quantum",
+      "line": "갤럭시 퀀텀",
+      "gen": "1",
+      "variant": "",
+      "release": "2020-05",
+      "codes": [
+        "SM-A716S"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "프리즘 큐브 블랙",
+          "en": "Prism Cube Black",
+          "aliases": [
+            "프리즘큐브블랙",
+            "블랙",
+            "prism cube black"
+          ]
+        },
+        {
+          "name": "프리즘 큐브 실버",
+          "en": "Prism Cube Silver",
+          "aliases": [
+            "프리즘큐브실버",
+            "실버",
+            "prism cube silver"
+          ]
+        },
+        {
+          "name": "프리즘 큐브 블루",
+          "en": "Prism Cube Blue",
+          "aliases": [
+            "프리즘큐브블루",
+            "블루",
+            "prism cube blue"
+          ]
+        }
+      ],
+      "aliases": [
+        "퀀텀1",
+        "퀀텀 1",
+        "갤럭시 퀀텀1",
+        "갤럭시퀀텀1",
+        "갤럭시 퀀텀 1",
+        "퀀텀A",
+        "갤럭시 퀀텀A",
+        "갤럭시퀀텀a",
+        "a퀀텀",
+        "갤럭시a퀀텀",
+        "갤럭시 a 퀀텀",
+        "갤럭시 a퀀텀",
+        "에이퀀텀",
+        "galaxy a quantum",
+        "galaxy quantum 1",
+        "galaxy quantum1",
+        "갤럭시 퀀텀 A716S",
+        "A716S",
+        "A716"
+      ],
+      "verified": true,
+      "note": "SKT 전용. SKT variant of Galaxy A71 5G (SM-A716) with SKT/IDQ QRNG (양자난수생성) chip; 8GB RAM. Released 2020-05-22 (pre-order 5/15~21). Colors confirmed via samsung.com/sec support pages (SM-A716SZKASKO/ZSASKO/ZBASKO). 'a71' deliberately not aliased (A71 5G not sold under that name in Korea)."
+    },
+    {
+      "name": "갤럭시 퀀텀2",
+      "en": "Galaxy Quantum2",
+      "line": "갤럭시 퀀텀",
+      "gen": "2",
+      "variant": "",
+      "release": "2021-04",
+      "codes": [
+        "SM-A826S"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "그레이",
+          "en": "Gray",
+          "aliases": [
+            "grey",
+            "gray",
+            "블랙"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "white"
+          ]
+        },
+        {
+          "name": "라이트 바이올렛",
+          "en": "Light Violet",
+          "aliases": [
+            "라이트바이올렛",
+            "바이올렛",
+            "violet",
+            "light violet"
+          ]
+        }
+      ],
+      "aliases": [
+        "퀀텀2",
+        "퀀텀 2",
+        "갤럭시퀀텀2",
+        "갤럭시 퀀텀 2",
+        "갤퀀텀2",
+        "galaxy quantum2",
+        "galaxy quantum 2",
+        "quantum2",
+        "quantum 2",
+        "삼성 갤럭시 퀀텀2",
+        "삼성갤럭시퀀텀2",
+        "갤럭시a퀀텀2",
+        "갤럭시 a 퀀텀2",
+        "갤럭시 a퀀텀2",
+        "a퀀텀2",
+        "A826S",
+        "A826"
+      ],
+      "verified": true,
+      "note": "SKT 전용. SKT variant of Galaxy A82 5G (SM-A826); Snapdragon 855+, 6GB RAM, QRNG chip. Released 2021-04-23. Colors per samsung.com/sec support pages (SM-A826SZAASKO 그레이, ZWASKO 화이트, LVASKO 라이트 바이올렛); GSMArena's 'Black/White/Violet' is inaccurate for Korea. Sellers' '블랙' listings likely mean 그레이 (not mapped). Launch price 699,600원 (cut to 599,500원 in 2021-11 per namu.wiki)."
+    },
+    {
+      "name": "갤럭시 퀀텀3",
+      "en": "Galaxy Quantum3",
+      "line": "갤럭시 퀀텀",
+      "gen": "3",
+      "variant": "",
+      "release": "2022-04",
+      "codes": [
+        "SM-M536S"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "white"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "blue"
+          ]
+        }
+      ],
+      "aliases": [
+        "퀀텀3",
+        "퀀텀 3",
+        "갤럭시퀀텀3",
+        "갤럭시 퀀텀 3",
+        "갤퀀텀3",
+        "galaxy quantum3",
+        "galaxy quantum 3",
+        "quantum3",
+        "quantum 3",
+        "삼성 갤럭시 퀀텀3",
+        "삼성갤럭시퀀텀3",
+        "M536S",
+        "M536"
+      ],
+      "verified": true,
+      "note": "SKT 전용. SKT variant of Galaxy M53 5G (SM-M536); 108MP main camera, 8GB RAM, QRNG chip. Pre-order 4/22~25, released 2022-04-26. Colors from launch press coverage (아주경제); '그레이' seen in listings is not an official color."
+    },
+    {
+      "name": "갤럭시 퀀텀4",
+      "en": "Galaxy Quantum4",
+      "line": "갤럭시 퀀텀",
+      "gen": "4",
+      "variant": "",
+      "release": "2023-06",
+      "codes": [
+        "SM-A546S"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 그라파이트",
+          "en": "Awesome Graphite",
+          "aliases": [
+            "어썸그라파이트",
+            "그라파이트",
+            "그래파이트",
+            "어썸 그래파이트",
+            "어썸그래파이트",
+            "graphite",
+            "awesome graphite",
+            "블랙"
+          ]
+        },
+        {
+          "name": "어썸 화이트",
+          "en": "Awesome White",
+          "aliases": [
+            "어썸화이트",
+            "화이트",
+            "white",
+            "흰색",
+            "awesome white"
+          ]
+        },
+        {
+          "name": "어썸 라임",
+          "en": "Awesome Lime",
+          "aliases": [
+            "어썸라임",
+            "라임",
+            "lime",
+            "awesome lime"
+          ]
+        }
+      ],
+      "aliases": [
+        "퀀텀4",
+        "퀀텀 4",
+        "갤럭시퀀텀4",
+        "갤럭시 퀀텀 4",
+        "갤퀀텀4",
+        "galaxy quantum4",
+        "galaxy quantum 4",
+        "quantum4",
+        "quantum 4",
+        "삼성 갤럭시 퀀텀4",
+        "삼성갤럭시퀀텀4",
+        "A546S",
+        "A546"
+      ],
+      "verified": true,
+      "note": "SKT 전용. SKT variant of Galaxy A54 5G (SM-A546); Exynos 1380, 8GB RAM, IP67, QRNG chip. Released 2023-06-08, 618,200원. 어썸 바이올렛 (global A54 color) not sold in Korea. 'a54' kept out of aliases."
+    },
+    {
+      "name": "갤럭시 퀀텀5",
+      "en": "Galaxy Quantum5",
+      "line": "갤럭시 퀀텀",
+      "gen": "5",
+      "variant": "",
+      "release": "2024-08",
+      "codes": [
+        "SM-A556S"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 아이스블루",
+          "en": "Awesome Ice Blue",
+          "aliases": [
+            "어썸아이스블루",
+            "아이스블루",
+            "아이스 블루",
+            "어썸 아이스 블루",
+            "어썸아이스 블루",
+            "라이트블루",
+            "라이트 블루",
+            "awesome ice blue",
+            "ice blue",
+            "iceblue"
+          ]
+        },
+        {
+          "name": "어썸 네이비",
+          "en": "Awesome Navy",
+          "aliases": [
+            "어썸네이비",
+            "네이비",
+            "navy",
+            "awesome navy"
+          ]
+        },
+        {
+          "name": "어썸 라일락",
+          "en": "Awesome Lilac",
+          "aliases": [
+            "어썸라일락",
+            "라일락",
+            "퍼플",
+            "lilac",
+            "awesome lilac"
+          ]
+        }
+      ],
+      "aliases": [
+        "퀀텀5",
+        "퀀텀 5",
+        "갤럭시퀀텀5",
+        "갤럭시 퀀텀 5",
+        "갤퀀텀5",
+        "galaxy quantum5",
+        "galaxy quantum 5",
+        "quantum5",
+        "quantum 5",
+        "삼성 갤럭시 퀀텀5",
+        "삼성갤럭시퀀텀5",
+        "A556S",
+        "A556"
+      ],
+      "verified": true,
+      "note": "SKT 전용. SKT variant of Galaxy A55 5G (SM-A556); Exynos 1480, QRNG chip. Pre-order 2024-08-23, released 2024-08-28, 618,200원. Colors confirmed on samsung.com/sec (SM-A556SLBBSKC page). Plain '블루' would be ambiguous (navy vs ice blue) so not aliased."
+    },
+    {
+      "name": "갤럭시 퀀텀6",
+      "en": "Galaxy Quantum6",
+      "line": "갤럭시 퀀텀",
+      "gen": "6",
+      "variant": "",
+      "release": "2025-08",
+      "codes": [
+        "SM-A566S"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 라이트그레이",
+          "en": "Awesome Light Gray",
+          "aliases": [
+            "어썸라이트그레이",
+            "어썸 라이트 그레이",
+            "어썸라이트 그레이",
+            "라이트그레이",
+            "라이트 그레이",
+            "light gray",
+            "light grey",
+            "awesome light gray",
+            "화이트",
+            "어썸화이트"
+          ]
+        },
+        {
+          "name": "어썸 그라파이트",
+          "en": "Awesome Graphite",
+          "aliases": [
+            "어썸그라파이트",
+            "그라파이트",
+            "그래파이트",
+            "어썸 그래파이트",
+            "어썸그래파이트",
+            "graphite",
+            "awesome graphite",
+            "블랙"
+          ]
+        }
+      ],
+      "aliases": [
+        "퀀텀6",
+        "퀀텀 6",
+        "갤럭시퀀텀6",
+        "갤럭시 퀀텀 6",
+        "갤퀀텀6",
+        "galaxy quantum6",
+        "galaxy quantum 6",
+        "quantum6",
+        "quantum 6",
+        "삼성 갤럭시 퀀텀6",
+        "삼성갤럭시퀀텀6",
+        "A566S",
+        "A566"
+      ],
+      "verified": true,
+      "note": "SKT 전용. SKT variant of Galaxy A56 5G (SM-A566); Exynos 1580, 8GB/128GB only, 45W, QRNG chip. Released 2025-08-01, 618,200원. Only two official colors per SKT press release (spelled '어썸 라이트그레이'). Listings saying '블랙'/'화이트'/'어썸화이트' are not official colors (probably 그라파이트 / 라이트그레이) and were not mapped. SM-A566S code from Samsung Members community/press, not from a samsung.com page."
+    },
+    {
+      "name": "갤럭시 퀀텀7",
+      "en": "Galaxy Quantum7",
+      "line": "갤럭시 퀀텀",
+      "gen": "7",
+      "variant": "",
+      "release": "2026-08",
+      "codes": [
+        "SM-A576S"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 그레이",
+          "en": "Awesome Gray",
+          "aliases": [
+            "어썸그레이",
+            "그레이",
+            "gray",
+            "grey",
+            "awesome gray"
+          ]
+        },
+        {
+          "name": "어썸 아이스블루",
+          "en": "Awesome Ice Blue",
+          "aliases": [
+            "어썸아이스블루",
+            "아이스블루",
+            "아이스 블루",
+            "어썸 아이스 블루",
+            "블루",
+            "awesome ice blue",
+            "ice blue",
+            "iceblue"
+          ]
+        },
+        {
+          "name": "어썸 라일락",
+          "en": "Awesome Lilac",
+          "aliases": [
+            "어썸라일락",
+            "라일락",
+            "퍼플",
+            "lilac",
+            "awesome lilac"
+          ]
+        }
+      ],
+      "aliases": [
+        "퀀텀7",
+        "퀀텀 7",
+        "갤럭시퀀텀7",
+        "갤럭시 퀀텀 7",
+        "갤퀀텀7",
+        "galaxy quantum7",
+        "galaxy quantum 7",
+        "quantum7",
+        "quantum 7",
+        "삼성 갤럭시 퀀텀7",
+        "삼성갤럭시퀀텀7",
+        "A576S",
+        "A576"
+      ],
+      "verified": true,
+      "note": "SKT 전용. SKT variant of Galaxy A57 5G (SM-A576); Exynos 1680, 8GB/128GB, 6.9mm/179g, IP68, 45W. Released 2026-08-25, 717,200원. 어썸 라일락 is T다이렉트샵(온라인) 전용 color. samsung.com/sec support page confirms SM-A576S 어썸 그레이 128GB. Notebookcheck reports this generation drops the QRNG chip."
+    },
+    {
+      "name": "갤럭시 점프",
+      "en": "Galaxy Jump",
+      "line": "갤럭시 점프",
+      "gen": "1",
+      "variant": "",
+      "release": "2021-05",
+      "codes": [
+        "SM-A326K"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "어썸 블랙",
+          "en": "Awesome Black",
+          "aliases": [
+            "어썸블랙",
+            "블랙",
+            "black",
+            "awesome black"
+          ]
+        },
+        {
+          "name": "어썸 화이트",
+          "en": "Awesome White",
+          "aliases": [
+            "어썸화이트",
+            "화이트",
+            "white",
+            "흰색",
+            "awesome white"
+          ]
+        },
+        {
+          "name": "어썸 레드",
+          "en": "Awesome Red",
+          "aliases": [
+            "어썸레드",
+            "레드",
+            "red",
+            "awesome red"
+          ]
+        }
+      ],
+      "aliases": [
+        "점프1",
+        "점프 1",
+        "갤럭시 점프1",
+        "갤럭시점프1",
+        "갤럭시점프",
+        "갤럭시 점프 1",
+        "삼성 갤럭시 점프",
+        "galaxy jump",
+        "galaxy jump1",
+        "galaxy jump 1",
+        "jump1",
+        "A326K",
+        "A326"
+      ],
+      "verified": true,
+      "note": "KT 전용. KT variant of Galaxy A32 5G (SM-A326); HD+ LCD, 4GB RAM. Released 2021-05-21, 399,300원. Korean colors 어썸 블랙/화이트/레드 (red is Korea-specific; global A32 5G had blue/violet). Some articles misspell '어썬'."
+    },
+    {
+      "name": "갤럭시 점프2",
+      "en": "Galaxy Jump2",
+      "line": "갤럭시 점프",
+      "gen": "2",
+      "variant": "",
+      "release": "2022-04",
+      "codes": [
+        "SM-M336K"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "blue"
+          ]
+        },
+        {
+          "name": "그린",
+          "en": "Green",
+          "aliases": [
+            "그린색",
+            "green"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "white"
+          ]
+        }
+      ],
+      "aliases": [
+        "점프2",
+        "점프 2",
+        "갤럭시점프2",
+        "갤럭시 점프 2",
+        "갤점프2",
+        "galaxy jump2",
+        "galaxy jump 2",
+        "jump2",
+        "jump 2",
+        "삼성 갤럭시 점프2",
+        "삼성갤럭시점프2",
+        "M336K",
+        "M336"
+      ],
+      "verified": true,
+      "note": "KT 전용. KT variant of Galaxy M33 5G (SM-M336); 6.6\" 120Hz LCD, 25W. Released 2022-04-22, 419,100원. 화이트 is a Korea-only color (global M33 brown not sold in Korea)."
+    },
+    {
+      "name": "갤럭시 점프3",
+      "en": "Galaxy Jump3",
+      "line": "갤럭시 점프",
+      "gen": "3",
+      "variant": "",
+      "release": "2023-11",
+      "codes": [
+        "SM-M446K"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "white"
+          ]
+        }
+      ],
+      "aliases": [
+        "점프3",
+        "점프 3",
+        "갤럭시점프3",
+        "갤럭시 점프 3",
+        "갤점프3",
+        "galaxy jump3",
+        "galaxy jump 3",
+        "jump3",
+        "jump 3",
+        "삼성 갤럭시 점프3",
+        "삼성갤럭시점프3",
+        "M446K",
+        "M446"
+      ],
+      "verified": true,
+      "note": "KT 전용. Based on Galaxy M44 5G (SM-M446; effectively Korea-only), Snapdragon 888, 6.6\" FHD+ 120Hz, 6GB RAM. Released 2023-11 (KT, 438,900원). samsung.com/sec support page confirms SM-M446K 화이트 128GB."
+    },
+    {
+      "name": "갤럭시 점프4",
+      "en": "Galaxy Jump4",
+      "line": "갤럭시 점프",
+      "gen": "4",
+      "variant": "",
+      "release": "2025-06",
+      "codes": [
+        "SM-M366K"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "라이트 그린",
+          "en": "Light Green",
+          "aliases": [
+            "라이트그린",
+            "그린",
+            "light green"
+          ]
+        }
+      ],
+      "aliases": [
+        "점프4",
+        "점프 4",
+        "갤럭시점프4",
+        "갤럭시 점프 4",
+        "갤점프4",
+        "galaxy jump4",
+        "galaxy jump 4",
+        "jump4",
+        "jump 4",
+        "삼성 갤럭시 점프4",
+        "삼성갤럭시점프4",
+        "갤럭시 JUMP4",
+        "갤럭시jump4",
+        "M366K",
+        "M366"
+      ],
+      "verified": true,
+      "note": "KT 전용. KT variant of Galaxy M36 5G (SM-M366); Exynos 1380, 6.7\". Released 2025-06-24/25 at KT, 449,900원. samsung.com/sec page confirms SM-M366K 블랙 128GB."
+    },
+    {
+      "name": "갤럭시 점프5",
+      "en": "Galaxy Jump5",
+      "line": "갤럭시 점프",
+      "gen": "5",
+      "variant": "",
+      "release": "2026-07",
+      "codes": [
+        "SM-A276K"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "라이트 그린",
+          "en": "Light Green",
+          "aliases": [
+            "라이트그린",
+            "그린",
+            "light green"
+          ]
+        },
+        {
+          "name": "라이트 핑크",
+          "en": "Light Pink",
+          "aliases": [
+            "라이트핑크",
+            "핑크",
+            "light pink"
+          ]
+        }
+      ],
+      "aliases": [
+        "점프5",
+        "점프 5",
+        "갤럭시점프5",
+        "갤럭시 점프 5",
+        "갤점프5",
+        "galaxy jump5",
+        "galaxy jump 5",
+        "jump5",
+        "jump 5",
+        "삼성 갤럭시 점프5",
+        "삼성갤럭시점프5",
+        "A276K",
+        "A276"
+      ],
+      "verified": true,
+      "note": "KT 전용. KT variant of Galaxy A27 5G (SM-A276); Snapdragon 6 Gen 3, 6.7\" 120Hz. Released 2026-07-03, 545,600원. First Jump based on A-series (earlier ones M-series). samsung.com/sec page lists 블랙/라이트 그린/라이트 핑크, 128GB."
+    },
+    {
+      "name": "갤럭시 버디",
+      "en": "Galaxy Buddy",
+      "line": "갤럭시 버디",
+      "gen": "1",
+      "variant": "",
+      "release": "2021-09",
+      "codes": [
+        "SM-A226L"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "그레이",
+          "en": "Gray",
+          "aliases": [
+            "grey",
+            "gray"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "white"
+          ]
+        },
+        {
+          "name": "민트",
+          "en": "Mint",
+          "aliases": [
+            "mint"
+          ]
+        }
+      ],
+      "aliases": [
+        "버디1",
+        "버디 1",
+        "갤럭시 버디1",
+        "갤럭시버디1",
+        "갤럭시버디",
+        "갤럭시 버디 1",
+        "삼성 갤럭시 버디",
+        "삼성갤럭시버디",
+        "galaxy buddy",
+        "galaxy buddy1",
+        "galaxy buddy 1",
+        "buddy1",
+        "A226L",
+        "A226"
+      ],
+      "verified": true,
+      "note": "LG U+ 전용. LG U+ variant of Galaxy A22 5G (SM-A226); Dimensity 700, 6.6\" LCD. Released 2021-09-10, 399,300원. Global A22 5G violet not sold in Korea. Model code from namu.wiki/devicebeast (no official Samsung page found)."
+    },
+    {
+      "name": "갤럭시 버디2",
+      "en": "Galaxy Buddy2",
+      "line": "갤럭시 버디",
+      "gen": "2",
+      "variant": "",
+      "release": "2022-06",
+      "codes": [
+        "SM-M236L"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "딥 그린",
+          "en": "Deep Green",
+          "aliases": [
+            "딥그린",
+            "그린",
+            "deep green"
+          ]
+        },
+        {
+          "name": "라이트 블루",
+          "en": "Light Blue",
+          "aliases": [
+            "라이트블루",
+            "블루",
+            "light blue"
+          ]
+        },
+        {
+          "name": "오렌지 코퍼",
+          "en": "Orange Copper",
+          "aliases": [
+            "오렌지코퍼",
+            "오렌지",
+            "코퍼",
+            "orange copper"
+          ]
+        }
+      ],
+      "aliases": [
+        "버디2",
+        "버디 2",
+        "갤럭시버디2",
+        "갤럭시 버디 2",
+        "갤버디2",
+        "galaxy buddy2",
+        "galaxy buddy 2",
+        "buddy2",
+        "buddy 2",
+        "삼성 갤럭시 버디2",
+        "삼성갤럭시버디2",
+        "M236L",
+        "M236"
+      ],
+      "verified": true,
+      "note": "LG U+ 전용. LG U+ variant of Galaxy M23 5G (SM-M236); 6.6\" 120Hz, 50MP, 25W. Pre-order 2022-06-17, released 2022-06-24, 399,300원. samsung.com/sec support page confirms SM-M236L 딥 그린 128GB."
+    },
+    {
+      "name": "갤럭시 버디3",
+      "en": "Galaxy Buddy3",
+      "line": "갤럭시 버디",
+      "gen": "3",
+      "variant": "",
+      "release": "2024-04",
+      "codes": [
+        "SM-A156L"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "블루 블랙",
+          "en": "Blue Black",
+          "aliases": [
+            "블루블랙",
+            "블랙",
+            "blue black"
+          ]
+        },
+        {
+          "name": "라이트 블루",
+          "en": "Light Blue",
+          "aliases": [
+            "라이트블루",
+            "light blue"
+          ]
+        },
+        {
+          "name": "옐로우",
+          "en": "Yellow",
+          "aliases": [
+            "노랑",
+            "yellow"
+          ]
+        }
+      ],
+      "aliases": [
+        "버디3",
+        "버디 3",
+        "갤럭시버디3",
+        "갤럭시 버디 3",
+        "갤버디3",
+        "galaxy buddy3",
+        "galaxy buddy 3",
+        "buddy3",
+        "buddy 3",
+        "삼성 갤럭시 버디3",
+        "삼성갤럭시버디3",
+        "삼성 갤럭시 버디3 라이트",
+        "A156L",
+        "A156"
+      ],
+      "verified": true,
+      "note": "LG U+ 전용. LG U+ variant of Galaxy A15 5G (SM-A156); Dimensity 6100+, 6.5\" sAMOLED. Released 2024-04-26, 399,300원. No '버디3 라이트' model exists — the listing '삼성 갤럭시 버디3 라이트' most likely means color 라이트 블루, so it is aliased here. '블루' alone is ambiguous (블루 블랙 vs 라이트 블루) and not aliased. Note '갤럭시 A155' listings are the unlocked Galaxy A15 LTE (SM-A155N), not this phone."
+    },
+    {
+      "name": "갤럭시 버디4",
+      "en": "Galaxy Buddy4",
+      "line": "갤럭시 버디",
+      "gen": "4",
+      "variant": "",
+      "release": "2025-05",
+      "codes": [
+        "SM-A166L"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "블루 블랙",
+          "en": "Blue Black",
+          "aliases": [
+            "블루블랙",
+            "블랙",
+            "blue black"
+          ]
+        },
+        {
+          "name": "라이트 그레이",
+          "en": "Light Gray",
+          "aliases": [
+            "라이트그레이",
+            "그레이",
+            "light gray",
+            "light grey"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "gold"
+          ]
+        }
+      ],
+      "aliases": [
+        "버디4",
+        "버디 4",
+        "갤럭시버디4",
+        "갤럭시 버디 4",
+        "갤버디4",
+        "galaxy buddy4",
+        "galaxy buddy 4",
+        "buddy4",
+        "buddy 4",
+        "삼성 갤럭시 버디4",
+        "삼성갤럭시버디4",
+        "A166L",
+        "A166"
+      ],
+      "verified": true,
+      "note": "LG U+ 전용. LG U+ variant of Galaxy A16 5G (SM-A166); 6.7\" sAMOLED, IP54. Released 2025-05-09, 399,300원. samsung.com/sec page (SM-A166LZAELUC) lists 라이트 그레이/블루 블랙/골드; its image captions mention 아이스 블루 (a global A16 color) but it is not a Korean option."
+    },
+    {
+      "name": "갤럭시 버디5",
+      "en": "Galaxy Buddy5",
+      "line": "갤럭시 버디",
+      "gen": "5",
+      "variant": "",
+      "release": "2026-05",
+      "codes": [
+        "SM-A176L"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "blue"
+          ]
+        },
+        {
+          "name": "그레이",
+          "en": "Gray",
+          "aliases": [
+            "grey",
+            "gray"
+          ]
+        }
+      ],
+      "aliases": [
+        "버디5",
+        "버디 5",
+        "갤럭시버디5",
+        "갤럭시 버디 5",
+        "갤버디5",
+        "galaxy buddy5",
+        "galaxy buddy 5",
+        "buddy5",
+        "buddy 5",
+        "삼성 갤럭시 버디5",
+        "삼성갤럭시버디5",
+        "갤럭시 a176",
+        "A176L",
+        "A176"
+      ],
+      "verified": true,
+      "note": "LG U+ 전용. LG U+ variant of Galaxy A17 5G (SM-A176); 6.7\" sAMOLED 90Hz, OIS 50MP, IP54, 6GB/128GB. Released 2026-05-15, 528,000원. '갤럭시 A176' listings map here: the only Korean A176 is SM-A176L (the unlocked Korean A17 is the LTE model, a different code)."
+    },
+    {
+      "name": "갤럭시 와이드4",
+      "en": "Galaxy Wide4",
+      "line": "갤럭시 와이드",
+      "gen": "4",
+      "variant": "",
+      "release": "2019-05",
+      "codes": [
+        "SM-A205S"
+      ],
+      "storage": [
+        "32GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "gold"
+          ]
+        }
+      ],
+      "aliases": [
+        "와이드4",
+        "와이드 4",
+        "갤럭시와이드4",
+        "갤럭시 와이드 4",
+        "갤와이드4",
+        "galaxy wide4",
+        "galaxy wide 4",
+        "wide4",
+        "wide 4",
+        "삼성 갤럭시 와이드4",
+        "삼성갤럭시와이드4",
+        "갤럭시 wide4",
+        "갤럭시wide4",
+        "A205S",
+        "A205"
+      ],
+      "verified": true,
+      "note": "SKT 전용 (LTE). SKT variant of Galaxy A20 (SM-A205); 6.4\" Infinity-V, 3GB/32GB. Released 2019-05-24, 286,000원. samsung.com/sec support page confirms SM-A205S 골드 32GB."
+    },
+    {
+      "name": "갤럭시 와이드5",
+      "en": "Galaxy Wide5",
+      "line": "갤럭시 와이드",
+      "gen": "5",
+      "variant": "",
+      "release": "2021-09",
+      "codes": [
+        "SM-E426S"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "그레이",
+          "en": "Gray",
+          "aliases": [
+            "grey",
+            "gray"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "white"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "blue"
+          ]
+        }
+      ],
+      "aliases": [
+        "와이드5",
+        "와이드 5",
+        "갤럭시와이드5",
+        "갤럭시 와이드 5",
+        "갤와이드5",
+        "galaxy wide5",
+        "galaxy wide 5",
+        "wide5",
+        "wide 5",
+        "삼성 갤럭시 와이드5",
+        "삼성갤럭시와이드5",
+        "E426S",
+        "E426"
+      ],
+      "verified": true,
+      "note": "SKT 전용. Same hardware as Galaxy F42 5G (SM-E426); Dimensity 700, 6.6\" FHD+ LCD, 64MP, 6GB/128GB. Released 2021-09-10, 449,900원. Colors per SKT newsroom (그레이/화이트/블루)."
+    },
+    {
+      "name": "갤럭시 와이드6",
+      "en": "Galaxy Wide6",
+      "line": "갤럭시 와이드",
+      "gen": "6",
+      "variant": "",
+      "release": "2022-09",
+      "codes": [
+        "SM-A136S"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "white"
+          ]
+        },
+        {
+          "name": "라이트 블루",
+          "en": "Light Blue",
+          "aliases": [
+            "라이트블루",
+            "블루",
+            "light blue"
+          ]
+        }
+      ],
+      "aliases": [
+        "와이드6",
+        "와이드 6",
+        "갤럭시와이드6",
+        "갤럭시 와이드 6",
+        "갤와이드6",
+        "galaxy wide6",
+        "galaxy wide 6",
+        "wide6",
+        "wide 6",
+        "삼성 갤럭시 와이드6",
+        "삼성갤럭시와이드6",
+        "A136S",
+        "A136"
+      ],
+      "verified": true,
+      "note": "SKT 전용. SKT variant of Galaxy A13 5G (SM-A136); 6.5\" LCD, 50MP, 15W, 4GB/128GB. Released 2022-09-02, 349,800원. Colors confirmed via samsung.com/sec support pages (SM-A136SZKNSKC/ZWNSKC/LBNSKC)."
+    },
+    {
+      "name": "갤럭시 와이드7",
+      "en": "Galaxy Wide7",
+      "line": "갤럭시 와이드",
+      "gen": "7",
+      "variant": "",
+      "release": "2024-06",
+      "codes": [
+        "SM-M156S"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "라이트 블루",
+          "en": "Light Blue",
+          "aliases": [
+            "라이트블루",
+            "light blue"
+          ]
+        },
+        {
+          "name": "다크 블루",
+          "en": "Dark Blue",
+          "aliases": [
+            "다크블루",
+            "dark blue"
+          ]
+        },
+        {
+          "name": "그레이",
+          "en": "Gray",
+          "aliases": [
+            "grey",
+            "gray"
+          ]
+        }
+      ],
+      "aliases": [
+        "와이드7",
+        "와이드 7",
+        "갤럭시와이드7",
+        "갤럭시 와이드 7",
+        "갤와이드7",
+        "galaxy wide7",
+        "galaxy wide 7",
+        "wide7",
+        "wide 7",
+        "삼성 갤럭시 와이드7",
+        "삼성갤럭시와이드7",
+        "M156S",
+        "M156"
+      ],
+      "verified": true,
+      "note": "SKT 전용. SKT variant of Galaxy M15 5G (SM-M156); Dimensity 6100+, 6.5\" sAMOLED, 6000mAh, 25W. Released 2024-06-26, 374,000원. Colors per samsung.com/sec page (SM-M156SDBASKC). '블루' alone is ambiguous and not aliased."
+    },
+    {
+      "name": "갤럭시 와이드8",
+      "en": "Galaxy Wide8",
+      "line": "갤럭시 와이드",
+      "gen": "8",
+      "variant": "",
+      "release": "2025-06",
+      "codes": [
+        "SM-M166S"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "라이트 그린",
+          "en": "Light Green",
+          "aliases": [
+            "라이트그린",
+            "그린",
+            "민트",
+            "light green"
+          ]
+        },
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "라이트 핑크",
+          "en": "Light Pink",
+          "aliases": [
+            "라이트핑크",
+            "핑크",
+            "light pink"
+          ]
+        }
+      ],
+      "aliases": [
+        "와이드8",
+        "와이드 8",
+        "갤럭시와이드8",
+        "갤럭시 와이드 8",
+        "갤와이드8",
+        "galaxy wide8",
+        "galaxy wide 8",
+        "wide8",
+        "wide 8",
+        "삼성 갤럭시 와이드8",
+        "삼성갤럭시와이드8",
+        "M166S",
+        "M166"
+      ],
+      "verified": true,
+      "note": "SKT 전용. SKT variant of Galaxy M16 5G (SM-M166); 6.7\" sAMOLED 90Hz, 6GB/128GB, 25W. Launch slipped 2025-06-13 -> 2025-06-18 (SKT USIM breach). 374,000원. Colors per samsung.com/sec pages (SM-M166SLGASKC/ZKASKC). '민트' listing mapped to 라이트 그린 (only green)."
+    },
+    {
+      "name": "갤럭시 와이드9",
+      "en": "Galaxy Wide9",
+      "line": "갤럭시 와이드",
+      "gen": "9",
+      "variant": "",
+      "release": "2026-07",
+      "codes": [
+        "SM-M176S"
+      ],
+      "storage": [
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "black"
+          ]
+        },
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "silver"
+          ]
+        }
+      ],
+      "aliases": [
+        "와이드9",
+        "와이드 9",
+        "갤럭시와이드9",
+        "갤럭시 와이드 9",
+        "갤와이드9",
+        "galaxy wide9",
+        "galaxy wide 9",
+        "wide9",
+        "wide 9",
+        "삼성 갤럭시 와이드9",
+        "삼성갤럭시와이드9",
+        "M176S",
+        "M176"
+      ],
+      "verified": true,
+      "note": "SKT 전용. SKT variant of Galaxy M17 5G (SM-M176); Exynos 1330, 6.7\" sAMOLED 90Hz, 6GB/128GB, IP54 (first water-resistant Wide). Released 2026-07-03, 469,700원. Colors from samsung.com/sec page (SM-M176SZKASKC: 블랙/실버); press releases did not list colors."
+    }
+  ]
+}
