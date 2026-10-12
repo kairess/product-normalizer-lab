@@ -1,0 +1,4267 @@
+{
+  "brand": "Apple",
+  "sources": [
+    "https://support.apple.com/ko-kr/108044",
+    "https://support.apple.com/en-us/108044",
+    "https://www.apple.com/kr/iphone/",
+    "https://www.apple.com/kr/iphone-18-pro/specs/",
+    "https://www.apple.com/kr/iphone-duo/specs/",
+    "https://www.apple.com/kr/iphone-17e/specs/",
+    "https://www.apple.com/kr/iphone-17/specs/",
+    "https://www.apple.com/kr/iphone-air/specs/",
+    "https://www.apple.com/kr/iphone-16/specs/",
+    "https://www.apple.com/kr/newsroom/2026/09/apple-unveils-iphone-duo/",
+    "https://www.apple.com/kr/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+    "https://www.apple.com/kr/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/",
+    "https://www.apple.com/kr/newsroom/2026/03/apple-introduces-iphone-17e/",
+    "https://www.apple.com/kr/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/",
+    "https://www.apple.com/kr/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/",
+    "https://en.wikipedia.org/wiki/List_of_iPhone_models",
+    "https://www.macworld.com/article/2772006/apple-might-not-release-the-iphone-18-until-2027.html"
+  ],
+  "models": [
+    {
+      "name": "아이폰 듀오",
+      "en": "iPhone Duo",
+      "line": "아이폰",
+      "gen": "",
+      "variant": "듀오",
+      "release": "2026-10",
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "colors": [
+        {
+          "name": "스타 화이트",
+          "en": "Star White",
+          "aliases": [
+            "스타화이트",
+            "화이트",
+            "실버",
+            "star white"
+          ]
+        },
+        {
+          "name": "나이트 스카이",
+          "en": "Night Sky",
+          "aliases": [
+            "나이트스카이",
+            "블랙",
+            "검정",
+            "검정색",
+            "검은색",
+            "night sky"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰듀오",
+        "아이폰18듀오",
+        "아이폰 18 듀오",
+        "아이폰18 듀오",
+        "18듀오",
+        "18 듀오",
+        "듀오",
+        "iphone duo",
+        "iphoneduo",
+        "iphone 18 duo",
+        "폴더블 아이폰",
+        "아이폰 폴더블",
+        "아이폰폴더블",
+        "아이폰 폴드",
+        "아이폰폴드",
+        "iphone fold",
+        "폴드 아이폰",
+        "아이폰 울트라",
+        "iphone ultra"
+      ],
+      "verified": true,
+      "note": "Apple 최초의 폴더블 iPhone. 공식 명칭은 숫자 없는 'iPhone Duo'(2026-09-09 발표). 국내 셀러 표기 '아이폰18듀오'는 이 제품. 사전주문 2026-10-16, 출시 2026-10-23 예정(2026-10-08 기준 미출시, support 108044 목록에도 아직 없음). 출시 전 루머 명칭: iPhone Fold / iPhone Ultra. 5등급 티타늄 유광 마감, 국내가 3,290,000원부터."
+    },
+    {
+      "name": "아이폰 18 프로 맥스",
+      "en": "iPhone 18 Pro Max",
+      "line": "아이폰",
+      "gen": "18",
+      "variant": "프로 맥스",
+      "release": "2026-09",
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "black"
+          ]
+        },
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "silver"
+          ]
+        },
+        {
+          "name": "글레이셔",
+          "en": "Glacier",
+          "aliases": [
+            "글레이셔 블루",
+            "글레이셔블루",
+            "글래이셔",
+            "글래이셔블루",
+            "글래이셔 블루",
+            "글레이시어",
+            "글레시어",
+            "glacier blue",
+            "블루",
+            "하늘색",
+            "라이트 블루",
+            "라이트블루",
+            "glacier"
+          ]
+        },
+        {
+          "name": "버건디",
+          "en": "Burgundy",
+          "aliases": [
+            "버건디 레드",
+            "버건디레드",
+            "버간디",
+            "버건디색",
+            "레드",
+            "빨강",
+            "와인",
+            "와인색",
+            "다크 체리",
+            "다크체리",
+            "체리",
+            "burgundy"
+          ]
+        }
+      ],
+      "aliases": [
+        "18프맥",
+        "18 프맥",
+        "18프로맥스",
+        "18 프로맥스",
+        "18 프로 맥스",
+        "18 promax",
+        "18 pro max",
+        "18promax",
+        "18pm",
+        "18 pm",
+        "아이폰18프로맥스",
+        "아이폰18 프로맥스",
+        "아이폰 18 프로맥스",
+        "아이폰18프맥",
+        "아이폰18 프맥",
+        "아이폰 18 프맥",
+        "iphone 18 pro max"
+      ],
+      "verified": true,
+      "note": "2026-09-09 발표, 2026-09-18 출시(한국 1차 출시국). 알루미늄 Unibody. 버건디 신규 색상, 블랙 Pro 라인 복귀."
+    },
+    {
+      "name": "아이폰 18 프로",
+      "en": "iPhone 18 Pro",
+      "line": "아이폰",
+      "gen": "18",
+      "variant": "프로",
+      "release": "2026-09",
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "black"
+          ]
+        },
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "silver"
+          ]
+        },
+        {
+          "name": "글레이셔",
+          "en": "Glacier",
+          "aliases": [
+            "글레이셔 블루",
+            "글레이셔블루",
+            "글래이셔",
+            "글래이셔블루",
+            "글래이셔 블루",
+            "글레이시어",
+            "글레시어",
+            "glacier blue",
+            "블루",
+            "하늘색",
+            "라이트 블루",
+            "라이트블루",
+            "glacier"
+          ]
+        },
+        {
+          "name": "버건디",
+          "en": "Burgundy",
+          "aliases": [
+            "버건디 레드",
+            "버건디레드",
+            "버간디",
+            "버건디색",
+            "레드",
+            "빨강",
+            "와인",
+            "와인색",
+            "다크 체리",
+            "다크체리",
+            "체리",
+            "burgundy"
+          ]
+        }
+      ],
+      "aliases": [
+        "18프로",
+        "18 프로",
+        "18 pro",
+        "18pro",
+        "아이폰18프로",
+        "아이폰18 프로",
+        "아이폰 18프로",
+        "iphone 18 pro"
+      ],
+      "verified": true,
+      "note": "2026-09-09 발표, 2026-09-18 출시. 용량: newsroom·apple.com/kr 사양·en-us 108044는 256GB~2TB, ko-kr 108044만 1TB까지로 표기(번역 지연 추정). 셀러 표기 '글레이셔블루'=글레이셔, '버건디'=공식 버건디."
+    },
+    {
+      "name": "아이폰 18",
+      "en": "iPhone 18",
+      "line": "아이폰",
+      "gen": "18",
+      "variant": "",
+      "release": "",
+      "storage": [],
+      "colors": [],
+      "aliases": [
+        "아이폰18",
+        "iphone 18",
+        "iphone18",
+        "아이폰18 일반",
+        "아이폰 18 일반",
+        "18일반",
+        "18 일반",
+        "아이폰18 기본",
+        "아이폰 18 기본형",
+        "아이폰18기본형"
+      ],
+      "verified": false,
+      "note": "루머: 기본형 iPhone 18은 2026년 가을에 발표되지 않음. 2027년 봄(iPhone 18e와 함께) 출시설. 2026-10-08 기준 미발표. 셀러 표기 '아이폰 18 일반' 대비용."
+    },
+    {
+      "name": "아이폰 17e",
+      "en": "iPhone 17e",
+      "line": "아이폰",
+      "gen": "17e",
+      "variant": "",
+      "release": "2026-03",
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "하얀색",
+            "화이트색",
+            "실버",
+            "white"
+          ]
+        },
+        {
+          "name": "소프트 핑크",
+          "en": "Soft Pink",
+          "aliases": [
+            "소프트핑크",
+            "핑크",
+            "분홍",
+            "분홍색",
+            "soft pink"
+          ]
+        }
+      ],
+      "aliases": [
+        "17e",
+        "17 e",
+        "아이폰17e",
+        "아이폰 17 e",
+        "iphone 17e",
+        "iphone17e"
+      ],
+      "verified": true,
+      "note": "2026-03-02 발표, 2026-03-11 출시(한국 포함 1차). 국내가 990,000원부터."
+    },
+    {
+      "name": "아이폰 17 프로 맥스",
+      "en": "iPhone 17 Pro Max",
+      "line": "아이폰",
+      "gen": "17",
+      "variant": "프로 맥스",
+      "release": "2025-09",
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "colors": [
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "ss 실버",
+            "silver"
+          ]
+        },
+        {
+          "name": "코스믹 오렌지",
+          "en": "Cosmic Orange",
+          "aliases": [
+            "코스믹오렌지",
+            "오렌지",
+            "주황",
+            "주황색",
+            "cosmic orange"
+          ]
+        },
+        {
+          "name": "딥 블루",
+          "en": "Deep Blue",
+          "aliases": [
+            "딥블루",
+            "블루",
+            "네이비",
+            "파랑",
+            "deep blue"
+          ]
+        }
+      ],
+      "aliases": [
+        "17프맥",
+        "17 프맥",
+        "17프로맥스",
+        "17 프로맥스",
+        "17 프로 맥스",
+        "17 promax",
+        "17 pro max",
+        "17promax",
+        "17pm",
+        "17 pm",
+        "아이폰17프로맥스",
+        "아이폰17 프로맥스",
+        "아이폰 17 프로맥스",
+        "아이폰17프맥",
+        "아이폰17 프맥",
+        "아이폰 17 프맥",
+        "iphone 17 pro max"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 17 프로",
+      "en": "iPhone 17 Pro",
+      "line": "아이폰",
+      "gen": "17",
+      "variant": "프로",
+      "release": "2025-09",
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "ss 실버",
+            "silver"
+          ]
+        },
+        {
+          "name": "코스믹 오렌지",
+          "en": "Cosmic Orange",
+          "aliases": [
+            "코스믹오렌지",
+            "오렌지",
+            "주황",
+            "주황색",
+            "cosmic orange"
+          ]
+        },
+        {
+          "name": "딥 블루",
+          "en": "Deep Blue",
+          "aliases": [
+            "딥블루",
+            "블루",
+            "네이비",
+            "파랑",
+            "deep blue"
+          ]
+        }
+      ],
+      "aliases": [
+        "17프로",
+        "17 프로",
+        "17 pro",
+        "17pro",
+        "아이폰17프로",
+        "아이폰17 프로",
+        "아이폰 17프로",
+        "iphone 17 pro"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 17",
+      "en": "iPhone 17",
+      "line": "아이폰",
+      "gen": "17",
+      "variant": "",
+      "release": "2025-09",
+      "storage": [
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "하얀색",
+            "화이트색",
+            "실버",
+            "white"
+          ]
+        },
+        {
+          "name": "미스트 블루",
+          "en": "Mist Blue",
+          "aliases": [
+            "미스트블루",
+            "미스트",
+            "블루",
+            "파랑",
+            "하늘색",
+            "mist blue"
+          ]
+        },
+        {
+          "name": "세이지",
+          "en": "Sage",
+          "aliases": [
+            "세이지 그린",
+            "세이지그린",
+            "그린",
+            "초록",
+            "올리브",
+            "sage"
+          ]
+        },
+        {
+          "name": "라벤더",
+          "en": "Lavender",
+          "aliases": [
+            "라벤다",
+            "퍼플",
+            "보라",
+            "보라색",
+            "lavender"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰17",
+        "iphone 17",
+        "iphone17",
+        "아이폰17 일반",
+        "아이폰 17 일반",
+        "17일반",
+        "17 일반",
+        "아이폰17 기본",
+        "아이폰 17 기본형",
+        "아이폰17기본형"
+      ],
+      "verified": true,
+      "note": "셀러 표기 '아이폰 17 세이지', '아이폰 17 미스트'는 모델명+색상(세이지, 미스트 블루)."
+    },
+    {
+      "name": "아이폰 에어",
+      "en": "iPhone Air",
+      "line": "아이폰",
+      "gen": "",
+      "variant": "에어",
+      "release": "2025-09",
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "스페이스 블랙",
+          "en": "Space Black",
+          "aliases": [
+            "스페이스블랙",
+            "블랙",
+            "검정",
+            "검정색",
+            "스페이스그레이",
+            "스페이스 그레이",
+            "space black"
+          ]
+        },
+        {
+          "name": "클라우드 화이트",
+          "en": "Cloud White",
+          "aliases": [
+            "클라우드화이트",
+            "화이트",
+            "흰색",
+            "실버",
+            "cloud white"
+          ]
+        },
+        {
+          "name": "라이트 골드",
+          "en": "Light Gold",
+          "aliases": [
+            "라이트골드",
+            "골드",
+            "금색",
+            "light gold"
+          ]
+        },
+        {
+          "name": "스카이 블루",
+          "en": "Sky Blue",
+          "aliases": [
+            "스카이블루",
+            "블루",
+            "라이트블루",
+            "라이트 블루",
+            "하늘색",
+            "sky blue"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰에어",
+        "아이폰 17 에어",
+        "아이폰17에어",
+        "아이폰17 에어",
+        "17에어",
+        "17 에어",
+        "아이폰 에어 17",
+        "아이폰에어17",
+        "에어",
+        "iphone air",
+        "iphoneair",
+        "iphone 17 air",
+        "17 air"
+      ],
+      "verified": true,
+      "note": "공식 명칭은 숫자 없는 'iPhone Air'. 셀러들은 '아이폰 17 에어'로 자주 표기."
+    },
+    {
+      "name": "아이폰 16e",
+      "en": "iPhone 16e",
+      "line": "아이폰",
+      "gen": "16e",
+      "variant": "",
+      "release": "2025-02",
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "하얀색",
+            "화이트색",
+            "white"
+          ]
+        }
+      ],
+      "aliases": [
+        "16e",
+        "16 e",
+        "아이폰16e",
+        "아이폰 16 e",
+        "iphone 16e",
+        "iphone16e"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 16 프로 맥스",
+      "en": "iPhone 16 Pro Max",
+      "line": "아이폰",
+      "gen": "16",
+      "variant": "프로 맥스",
+      "release": "2024-09",
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "블랙 티타늄",
+          "en": "Black Titanium",
+          "aliases": [
+            "블랙티타늄",
+            "티타늄 블랙",
+            "티타늄블랙",
+            "블랙",
+            "검정",
+            "스페이스 블랙",
+            "black titanium"
+          ]
+        },
+        {
+          "name": "화이트 티타늄",
+          "en": "White Titanium",
+          "aliases": [
+            "화이트티타늄",
+            "티타늄 화이트",
+            "티타늄화이트",
+            "화이트",
+            "흰색",
+            "실버",
+            "세라믹화이트",
+            "white titanium"
+          ]
+        },
+        {
+          "name": "내추럴 티타늄",
+          "en": "Natural Titanium",
+          "aliases": [
+            "내추럴티타늄",
+            "네추럴 티타늄",
+            "네추럴티타늄",
+            "네츄럴 티타늄",
+            "네츄럴티타늄",
+            "내츄럴 티타늄",
+            "내츄럴티타늄",
+            "내추럴",
+            "네추럴",
+            "네츄럴",
+            "내츄럴",
+            "티타늄 내추럴",
+            "네추럴 티티늄",
+            "네이처럴 타이타늄",
+            "natural",
+            "natural titanium"
+          ]
+        },
+        {
+          "name": "데저트 티타늄",
+          "en": "Desert Titanium",
+          "aliases": [
+            "데저트티타늄",
+            "데저트",
+            "데져트 티타늄",
+            "데져트티타늄",
+            "데저트 골드",
+            "데저트골드",
+            "desert",
+            "골드",
+            "로즈골드",
+            "desert titanium"
+          ]
+        }
+      ],
+      "aliases": [
+        "16프맥",
+        "16 프맥",
+        "16프로맥스",
+        "16 프로맥스",
+        "16 프로 맥스",
+        "16 promax",
+        "16 pro max",
+        "16promax",
+        "16pm",
+        "16 pm",
+        "아이폰16프로맥스",
+        "아이폰16 프로맥스",
+        "아이폰 16 프로맥스",
+        "아이폰16프맥",
+        "아이폰16 프맥",
+        "아이폰 16 프맥",
+        "iphone 16 pro max"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 16 프로",
+      "en": "iPhone 16 Pro",
+      "line": "아이폰",
+      "gen": "16",
+      "variant": "프로",
+      "release": "2024-09",
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "블랙 티타늄",
+          "en": "Black Titanium",
+          "aliases": [
+            "블랙티타늄",
+            "티타늄 블랙",
+            "티타늄블랙",
+            "블랙",
+            "검정",
+            "스페이스 블랙",
+            "black titanium"
+          ]
+        },
+        {
+          "name": "화이트 티타늄",
+          "en": "White Titanium",
+          "aliases": [
+            "화이트티타늄",
+            "티타늄 화이트",
+            "티타늄화이트",
+            "화이트",
+            "흰색",
+            "실버",
+            "세라믹화이트",
+            "white titanium"
+          ]
+        },
+        {
+          "name": "내추럴 티타늄",
+          "en": "Natural Titanium",
+          "aliases": [
+            "내추럴티타늄",
+            "네추럴 티타늄",
+            "네추럴티타늄",
+            "네츄럴 티타늄",
+            "네츄럴티타늄",
+            "내츄럴 티타늄",
+            "내츄럴티타늄",
+            "내추럴",
+            "네추럴",
+            "네츄럴",
+            "내츄럴",
+            "티타늄 내추럴",
+            "네추럴 티티늄",
+            "네이처럴 타이타늄",
+            "natural",
+            "natural titanium"
+          ]
+        },
+        {
+          "name": "데저트 티타늄",
+          "en": "Desert Titanium",
+          "aliases": [
+            "데저트티타늄",
+            "데저트",
+            "데져트 티타늄",
+            "데져트티타늄",
+            "데저트 골드",
+            "데저트골드",
+            "desert",
+            "골드",
+            "로즈골드",
+            "desert titanium"
+          ]
+        }
+      ],
+      "aliases": [
+        "16프로",
+        "16 프로",
+        "16 pro",
+        "16pro",
+        "아이폰16프로",
+        "아이폰16 프로",
+        "아이폰 16프로",
+        "iphone 16 pro"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 16 플러스",
+      "en": "iPhone 16 Plus",
+      "line": "아이폰",
+      "gen": "16",
+      "variant": "플러스",
+      "release": "2024-09",
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "하얀색",
+            "화이트색",
+            "white"
+          ]
+        },
+        {
+          "name": "핑크",
+          "en": "Pink",
+          "aliases": [
+            "분홍",
+            "분홍색",
+            "pink"
+          ]
+        },
+        {
+          "name": "틸",
+          "en": "Teal",
+          "aliases": [
+            "청록",
+            "청록색",
+            "아쿠아 마린",
+            "아쿠아마린",
+            "민트",
+            "그린",
+            "teal"
+          ]
+        },
+        {
+          "name": "울트라마린",
+          "en": "Ultramarine",
+          "aliases": [
+            "울트라 마린",
+            "블루",
+            "파랑",
+            "ultramarine"
+          ]
+        }
+      ],
+      "aliases": [
+        "16플러스",
+        "16 플러스",
+        "16+",
+        "16 +",
+        "16 plus",
+        "16plus",
+        "아이폰16플러스",
+        "아이폰16 플러스",
+        "아이폰16+",
+        "아이폰 16+",
+        "16플",
+        "iphone 16 plus",
+        "iphone 16+"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 16",
+      "en": "iPhone 16",
+      "line": "아이폰",
+      "gen": "16",
+      "variant": "",
+      "release": "2024-09",
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "하얀색",
+            "화이트색",
+            "white"
+          ]
+        },
+        {
+          "name": "핑크",
+          "en": "Pink",
+          "aliases": [
+            "분홍",
+            "분홍색",
+            "pink"
+          ]
+        },
+        {
+          "name": "틸",
+          "en": "Teal",
+          "aliases": [
+            "청록",
+            "청록색",
+            "아쿠아 마린",
+            "아쿠아마린",
+            "민트",
+            "그린",
+            "teal"
+          ]
+        },
+        {
+          "name": "울트라마린",
+          "en": "Ultramarine",
+          "aliases": [
+            "울트라 마린",
+            "블루",
+            "파랑",
+            "ultramarine"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰16",
+        "iphone 16",
+        "iphone16",
+        "아이폰16 일반",
+        "아이폰 16 일반",
+        "16일반",
+        "16 일반",
+        "아이폰16 기본",
+        "아이폰 16 기본형",
+        "아이폰16기본형"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 15 프로 맥스",
+      "en": "iPhone 15 Pro Max",
+      "line": "아이폰",
+      "gen": "15",
+      "variant": "프로 맥스",
+      "release": "2023-09",
+      "storage": [
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "블랙 티타늄",
+          "en": "Black Titanium",
+          "aliases": [
+            "블랙티타늄",
+            "티타늄 블랙",
+            "티타늄블랙",
+            "블랙",
+            "검정",
+            "스페이스 블랙",
+            "black titanium"
+          ]
+        },
+        {
+          "name": "화이트 티타늄",
+          "en": "White Titanium",
+          "aliases": [
+            "화이트티타늄",
+            "티타늄 화이트",
+            "티타늄화이트",
+            "화이트",
+            "흰색",
+            "실버",
+            "티타늄실버",
+            "white titanium"
+          ]
+        },
+        {
+          "name": "블루 티타늄",
+          "en": "Blue Titanium",
+          "aliases": [
+            "블루티타늄",
+            "티타늄 블루",
+            "티타늄블루",
+            "블루",
+            "딥블루",
+            "네이비",
+            "blue titanium"
+          ]
+        },
+        {
+          "name": "내추럴 티타늄",
+          "en": "Natural Titanium",
+          "aliases": [
+            "내추럴티타늄",
+            "네추럴 티타늄",
+            "네추럴티타늄",
+            "네츄럴 티타늄",
+            "네츄럴티타늄",
+            "내츄럴 티타늄",
+            "내츄럴티타늄",
+            "내추럴",
+            "네추럴",
+            "네츄럴",
+            "내츄럴",
+            "티타늄 내추럴",
+            "네추럴 티티늄",
+            "네이처럴 타이타늄",
+            "natural",
+            "티타늄 그레이",
+            "그레이",
+            "natural titanium"
+          ]
+        }
+      ],
+      "aliases": [
+        "15프맥",
+        "15 프맥",
+        "15프로맥스",
+        "15 프로맥스",
+        "15 프로 맥스",
+        "15 promax",
+        "15 pro max",
+        "15promax",
+        "15pm",
+        "15 pm",
+        "아이폰15프로맥스",
+        "아이폰15 프로맥스",
+        "아이폰 15 프로맥스",
+        "아이폰15프맥",
+        "아이폰15 프맥",
+        "아이폰 15 프맥",
+        "iphone 15 pro max"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 15 프로",
+      "en": "iPhone 15 Pro",
+      "line": "아이폰",
+      "gen": "15",
+      "variant": "프로",
+      "release": "2023-09",
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "블랙 티타늄",
+          "en": "Black Titanium",
+          "aliases": [
+            "블랙티타늄",
+            "티타늄 블랙",
+            "티타늄블랙",
+            "블랙",
+            "검정",
+            "스페이스 블랙",
+            "black titanium"
+          ]
+        },
+        {
+          "name": "화이트 티타늄",
+          "en": "White Titanium",
+          "aliases": [
+            "화이트티타늄",
+            "티타늄 화이트",
+            "티타늄화이트",
+            "화이트",
+            "흰색",
+            "실버",
+            "티타늄실버",
+            "white titanium"
+          ]
+        },
+        {
+          "name": "블루 티타늄",
+          "en": "Blue Titanium",
+          "aliases": [
+            "블루티타늄",
+            "티타늄 블루",
+            "티타늄블루",
+            "블루",
+            "딥블루",
+            "네이비",
+            "blue titanium"
+          ]
+        },
+        {
+          "name": "내추럴 티타늄",
+          "en": "Natural Titanium",
+          "aliases": [
+            "내추럴티타늄",
+            "네추럴 티타늄",
+            "네추럴티타늄",
+            "네츄럴 티타늄",
+            "네츄럴티타늄",
+            "내츄럴 티타늄",
+            "내츄럴티타늄",
+            "내추럴",
+            "네추럴",
+            "네츄럴",
+            "내츄럴",
+            "티타늄 내추럴",
+            "네추럴 티티늄",
+            "네이처럴 타이타늄",
+            "natural",
+            "티타늄 그레이",
+            "그레이",
+            "natural titanium"
+          ]
+        }
+      ],
+      "aliases": [
+        "15프로",
+        "15 프로",
+        "15 pro",
+        "15pro",
+        "아이폰15프로",
+        "아이폰15 프로",
+        "아이폰 15프로",
+        "iphone 15 pro"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 15 플러스",
+      "en": "iPhone 15 Plus",
+      "line": "아이폰",
+      "gen": "15",
+      "variant": "플러스",
+      "release": "2023-09",
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "스페이스블랙",
+            "black"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "파랑",
+            "파란색",
+            "스카이 블루",
+            "스카이블루",
+            "하늘색",
+            "blue"
+          ]
+        },
+        {
+          "name": "그린",
+          "en": "Green",
+          "aliases": [
+            "초록",
+            "초록색",
+            "녹색",
+            "green"
+          ]
+        },
+        {
+          "name": "옐로",
+          "en": "Yellow",
+          "aliases": [
+            "옐로우",
+            "노랑",
+            "노란색",
+            "yellow"
+          ]
+        },
+        {
+          "name": "핑크",
+          "en": "Pink",
+          "aliases": [
+            "분홍",
+            "분홍색",
+            "pink"
+          ]
+        }
+      ],
+      "aliases": [
+        "15플러스",
+        "15 플러스",
+        "15+",
+        "15 +",
+        "15 plus",
+        "15plus",
+        "아이폰15플러스",
+        "아이폰15 플러스",
+        "아이폰15+",
+        "아이폰 15+",
+        "15플",
+        "iphone 15 plus",
+        "iphone 15+"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 15",
+      "en": "iPhone 15",
+      "line": "아이폰",
+      "gen": "15",
+      "variant": "",
+      "release": "2023-09",
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "스페이스블랙",
+            "black"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "파랑",
+            "파란색",
+            "스카이 블루",
+            "스카이블루",
+            "하늘색",
+            "blue"
+          ]
+        },
+        {
+          "name": "그린",
+          "en": "Green",
+          "aliases": [
+            "초록",
+            "초록색",
+            "녹색",
+            "green"
+          ]
+        },
+        {
+          "name": "옐로",
+          "en": "Yellow",
+          "aliases": [
+            "옐로우",
+            "노랑",
+            "노란색",
+            "yellow"
+          ]
+        },
+        {
+          "name": "핑크",
+          "en": "Pink",
+          "aliases": [
+            "분홍",
+            "분홍색",
+            "pink"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰15",
+        "iphone 15",
+        "iphone15",
+        "아이폰15 일반",
+        "아이폰 15 일반",
+        "15일반",
+        "15 일반",
+        "아이폰15 기본",
+        "아이폰 15 기본형",
+        "아이폰15기본형"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 14 프로 맥스",
+      "en": "iPhone 14 Pro Max",
+      "line": "아이폰",
+      "gen": "14",
+      "variant": "프로 맥스",
+      "release": "2022-09",
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "흰색",
+            "silver"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "gold"
+          ]
+        },
+        {
+          "name": "스페이스 블랙",
+          "en": "Space Black",
+          "aliases": [
+            "스페이스블랙",
+            "블랙",
+            "검정",
+            "검은색",
+            "스페이스 그레이",
+            "스페이스그레이",
+            "그라파이트",
+            "회색",
+            "space black"
+          ]
+        },
+        {
+          "name": "딥 퍼플",
+          "en": "Deep Purple",
+          "aliases": [
+            "딥퍼플",
+            "퍼플",
+            "보라",
+            "deep purple"
+          ]
+        }
+      ],
+      "aliases": [
+        "14프맥",
+        "14 프맥",
+        "14프로맥스",
+        "14 프로맥스",
+        "14 프로 맥스",
+        "14 promax",
+        "14 pro max",
+        "14promax",
+        "14pm",
+        "14 pm",
+        "아이폰14프로맥스",
+        "아이폰14 프로맥스",
+        "아이폰 14 프로맥스",
+        "아이폰14프맥",
+        "아이폰14 프맥",
+        "아이폰 14 프맥",
+        "iphone 14 pro max"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 14 프로",
+      "en": "iPhone 14 Pro",
+      "line": "아이폰",
+      "gen": "14",
+      "variant": "프로",
+      "release": "2022-09",
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "흰색",
+            "silver"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "gold"
+          ]
+        },
+        {
+          "name": "스페이스 블랙",
+          "en": "Space Black",
+          "aliases": [
+            "스페이스블랙",
+            "블랙",
+            "검정",
+            "검은색",
+            "스페이스 그레이",
+            "스페이스그레이",
+            "그라파이트",
+            "회색",
+            "space black"
+          ]
+        },
+        {
+          "name": "딥 퍼플",
+          "en": "Deep Purple",
+          "aliases": [
+            "딥퍼플",
+            "퍼플",
+            "보라",
+            "deep purple"
+          ]
+        }
+      ],
+      "aliases": [
+        "14프로",
+        "14 프로",
+        "14 pro",
+        "14pro",
+        "아이폰14프로",
+        "아이폰14 프로",
+        "아이폰 14프로",
+        "iphone 14 pro"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 14 플러스",
+      "en": "iPhone 14 Plus",
+      "line": "아이폰",
+      "gen": "14",
+      "variant": "플러스",
+      "release": "2022-10",
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "미드나이트",
+          "en": "Midnight",
+          "aliases": [
+            "미드나잇",
+            "미드나이트 블랙",
+            "미드나잇 블랙",
+            "미드나이트블랙",
+            "블랙",
+            "검정",
+            "검정색",
+            "midnight"
+          ]
+        },
+        {
+          "name": "스타라이트",
+          "en": "Starlight",
+          "aliases": [
+            "스타라이트 화이트",
+            "스타라이트화이트",
+            "화이트",
+            "흰색",
+            "starlight"
+          ]
+        },
+        {
+          "name": "(PRODUCT)RED",
+          "en": "(PRODUCT)RED",
+          "aliases": [
+            "레드",
+            "빨강",
+            "빨간색",
+            "프로덕트레드",
+            "프로덕트 레드",
+            "PRODUCT(RED)",
+            "product red",
+            "productred",
+            "red",
+            "(product)red"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "파랑",
+            "파란색",
+            "하늘색",
+            "blue"
+          ]
+        },
+        {
+          "name": "퍼플",
+          "en": "Purple",
+          "aliases": [
+            "보라",
+            "보라색",
+            "purple"
+          ]
+        },
+        {
+          "name": "옐로",
+          "en": "Yellow",
+          "aliases": [
+            "옐로우",
+            "노랑",
+            "노란색",
+            "yellow"
+          ]
+        }
+      ],
+      "aliases": [
+        "14플러스",
+        "14 플러스",
+        "14+",
+        "14 +",
+        "14 plus",
+        "14plus",
+        "아이폰14플러스",
+        "아이폰14 플러스",
+        "아이폰14+",
+        "아이폰 14+",
+        "14플",
+        "iphone 14 plus",
+        "iphone 14+"
+      ],
+      "verified": true,
+      "note": "옐로는 2023-03 추가."
+    },
+    {
+      "name": "아이폰 14",
+      "en": "iPhone 14",
+      "line": "아이폰",
+      "gen": "14",
+      "variant": "",
+      "release": "2022-09",
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "미드나이트",
+          "en": "Midnight",
+          "aliases": [
+            "미드나잇",
+            "미드나이트 블랙",
+            "미드나잇 블랙",
+            "미드나이트블랙",
+            "블랙",
+            "검정",
+            "검정색",
+            "midnight"
+          ]
+        },
+        {
+          "name": "스타라이트",
+          "en": "Starlight",
+          "aliases": [
+            "스타라이트 화이트",
+            "스타라이트화이트",
+            "화이트",
+            "흰색",
+            "starlight"
+          ]
+        },
+        {
+          "name": "(PRODUCT)RED",
+          "en": "(PRODUCT)RED",
+          "aliases": [
+            "레드",
+            "빨강",
+            "빨간색",
+            "프로덕트레드",
+            "프로덕트 레드",
+            "PRODUCT(RED)",
+            "product red",
+            "productred",
+            "red",
+            "(product)red"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "파랑",
+            "파란색",
+            "하늘색",
+            "blue"
+          ]
+        },
+        {
+          "name": "퍼플",
+          "en": "Purple",
+          "aliases": [
+            "보라",
+            "보라색",
+            "purple"
+          ]
+        },
+        {
+          "name": "옐로",
+          "en": "Yellow",
+          "aliases": [
+            "옐로우",
+            "노랑",
+            "노란색",
+            "yellow"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰14",
+        "iphone 14",
+        "iphone14",
+        "아이폰14 일반",
+        "아이폰 14 일반",
+        "14일반",
+        "14 일반",
+        "아이폰14 기본",
+        "아이폰 14 기본형",
+        "아이폰14기본형"
+      ],
+      "verified": true,
+      "note": "옐로는 2023-03 추가."
+    },
+    {
+      "name": "아이폰 SE 3세대",
+      "en": "iPhone SE (3rd generation)",
+      "line": "아이폰",
+      "gen": "SE",
+      "variant": "3세대",
+      "release": "2022-03",
+      "storage": [
+        "64GB",
+        "128GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "(PRODUCT)RED",
+          "en": "(PRODUCT)RED",
+          "aliases": [
+            "레드",
+            "빨강",
+            "빨간색",
+            "프로덕트레드",
+            "프로덕트 레드",
+            "PRODUCT(RED)",
+            "product red",
+            "productred",
+            "red",
+            "(product)red"
+          ]
+        },
+        {
+          "name": "스타라이트",
+          "en": "Starlight",
+          "aliases": [
+            "스타라이트 화이트",
+            "스타라이트화이트",
+            "화이트",
+            "흰색",
+            "실버",
+            "starlight"
+          ]
+        },
+        {
+          "name": "미드나이트",
+          "en": "Midnight",
+          "aliases": [
+            "미드나잇",
+            "미드나이트 블랙",
+            "미드나잇 블랙",
+            "미드나이트블랙",
+            "블랙",
+            "검정",
+            "스그",
+            "스페이스 그레이",
+            "스페이스그레이",
+            "midnight"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰 SE3",
+        "아이폰SE3",
+        "se3",
+        "se 3",
+        "se3세대",
+        "se 3세대",
+        "아이폰 SE 3",
+        "아이폰se 3세대",
+        "아이폰 se3세대",
+        "iphone se 3",
+        "iphone se3",
+        "iphone se 3rd",
+        "iphone se 2022",
+        "se 2022",
+        "se2022"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 13 프로 맥스",
+      "en": "iPhone 13 Pro Max",
+      "line": "아이폰",
+      "gen": "13",
+      "variant": "프로 맥스",
+      "release": "2021-09",
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "그래파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그라파이트",
+            "그래파이트 블랙",
+            "블랙",
+            "그레이",
+            "스페이스그레이",
+            "스페이스 그레이",
+            "graphite"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "샴페인 골드",
+            "샴페인골드",
+            "gold"
+          ]
+        },
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "흰색",
+            "silver"
+          ]
+        },
+        {
+          "name": "시에라 블루",
+          "en": "Sierra Blue",
+          "aliases": [
+            "시에라블루",
+            "시에라",
+            "블루",
+            "하늘색",
+            "sierra blue"
+          ]
+        },
+        {
+          "name": "알파인 그린",
+          "en": "Alpine Green",
+          "aliases": [
+            "알파인그린",
+            "알파인",
+            "그린",
+            "alpine green"
+          ]
+        }
+      ],
+      "aliases": [
+        "13프맥",
+        "13 프맥",
+        "13프로맥스",
+        "13 프로맥스",
+        "13 프로 맥스",
+        "13 promax",
+        "13 pro max",
+        "13promax",
+        "13pm",
+        "13 pm",
+        "아이폰13프로맥스",
+        "아이폰13 프로맥스",
+        "아이폰 13 프로맥스",
+        "아이폰13프맥",
+        "아이폰13 프맥",
+        "아이폰 13 프맥",
+        "iphone 13 pro max"
+      ],
+      "verified": true,
+      "note": "알파인 그린은 2022-03 추가."
+    },
+    {
+      "name": "아이폰 13 프로",
+      "en": "iPhone 13 Pro",
+      "line": "아이폰",
+      "gen": "13",
+      "variant": "프로",
+      "release": "2021-09",
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "colors": [
+        {
+          "name": "그래파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그라파이트",
+            "그래파이트 블랙",
+            "블랙",
+            "그레이",
+            "스페이스그레이",
+            "스페이스 그레이",
+            "graphite"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "샴페인 골드",
+            "샴페인골드",
+            "gold"
+          ]
+        },
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "흰색",
+            "silver"
+          ]
+        },
+        {
+          "name": "시에라 블루",
+          "en": "Sierra Blue",
+          "aliases": [
+            "시에라블루",
+            "시에라",
+            "블루",
+            "하늘색",
+            "sierra blue"
+          ]
+        },
+        {
+          "name": "알파인 그린",
+          "en": "Alpine Green",
+          "aliases": [
+            "알파인그린",
+            "알파인",
+            "그린",
+            "alpine green"
+          ]
+        }
+      ],
+      "aliases": [
+        "13프로",
+        "13 프로",
+        "13 pro",
+        "13pro",
+        "아이폰13프로",
+        "아이폰13 프로",
+        "아이폰 13프로",
+        "iphone 13 pro"
+      ],
+      "verified": true,
+      "note": "알파인 그린은 2022-03 추가."
+    },
+    {
+      "name": "아이폰 13",
+      "en": "iPhone 13",
+      "line": "아이폰",
+      "gen": "13",
+      "variant": "",
+      "release": "2021-09",
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "(PRODUCT)RED",
+          "en": "(PRODUCT)RED",
+          "aliases": [
+            "레드",
+            "빨강",
+            "빨간색",
+            "프로덕트레드",
+            "프로덕트 레드",
+            "PRODUCT(RED)",
+            "product red",
+            "productred",
+            "red",
+            "(product)red"
+          ]
+        },
+        {
+          "name": "스타라이트",
+          "en": "Starlight",
+          "aliases": [
+            "스타라이트 화이트",
+            "스타라이트화이트",
+            "화이트",
+            "흰색",
+            "실버",
+            "starlight"
+          ]
+        },
+        {
+          "name": "미드나이트",
+          "en": "Midnight",
+          "aliases": [
+            "미드나잇",
+            "미드나이트 블랙",
+            "미드나잇 블랙",
+            "미드나이트블랙",
+            "블랙",
+            "검정",
+            "검정색",
+            "네이비",
+            "다크 네이비",
+            "midnight"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "파랑",
+            "파란색",
+            "blue"
+          ]
+        },
+        {
+          "name": "핑크",
+          "en": "Pink",
+          "aliases": [
+            "분홍",
+            "분홍색",
+            "pink"
+          ]
+        },
+        {
+          "name": "그린",
+          "en": "Green",
+          "aliases": [
+            "초록",
+            "초록색",
+            "녹색",
+            "green"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰13",
+        "iphone 13",
+        "iphone13",
+        "아이폰13 일반",
+        "아이폰 13 일반",
+        "13일반",
+        "13 일반",
+        "아이폰13 기본",
+        "아이폰 13 기본형",
+        "아이폰13기본형"
+      ],
+      "verified": true,
+      "note": "그린은 2022-03 추가."
+    },
+    {
+      "name": "아이폰 13 미니",
+      "en": "iPhone 13 mini",
+      "line": "아이폰",
+      "gen": "13",
+      "variant": "미니",
+      "release": "2021-09",
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "(PRODUCT)RED",
+          "en": "(PRODUCT)RED",
+          "aliases": [
+            "레드",
+            "빨강",
+            "빨간색",
+            "프로덕트레드",
+            "프로덕트 레드",
+            "PRODUCT(RED)",
+            "product red",
+            "productred",
+            "red",
+            "(product)red"
+          ]
+        },
+        {
+          "name": "스타라이트",
+          "en": "Starlight",
+          "aliases": [
+            "스타라이트 화이트",
+            "스타라이트화이트",
+            "화이트",
+            "흰색",
+            "실버",
+            "starlight"
+          ]
+        },
+        {
+          "name": "미드나이트",
+          "en": "Midnight",
+          "aliases": [
+            "미드나잇",
+            "미드나이트 블랙",
+            "미드나잇 블랙",
+            "미드나이트블랙",
+            "블랙",
+            "검정",
+            "검정색",
+            "네이비",
+            "다크 네이비",
+            "midnight"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "파랑",
+            "파란색",
+            "blue"
+          ]
+        },
+        {
+          "name": "핑크",
+          "en": "Pink",
+          "aliases": [
+            "분홍",
+            "분홍색",
+            "pink"
+          ]
+        },
+        {
+          "name": "그린",
+          "en": "Green",
+          "aliases": [
+            "초록",
+            "초록색",
+            "녹색",
+            "green"
+          ]
+        }
+      ],
+      "aliases": [
+        "13미니",
+        "13 미니",
+        "13 mini",
+        "13mini",
+        "아이폰13미니",
+        "아이폰13 미니",
+        "아이폰 미니 13",
+        "아이폰미니13",
+        "미니13",
+        "iphone 13 mini"
+      ],
+      "verified": true,
+      "note": "그린은 2022-03 추가."
+    },
+    {
+      "name": "아이폰 12 프로 맥스",
+      "en": "iPhone 12 Pro Max",
+      "line": "아이폰",
+      "gen": "12",
+      "variant": "프로 맥스",
+      "release": "2020-11",
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "흰색",
+            "silver"
+          ]
+        },
+        {
+          "name": "그래파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그라파이트",
+            "그래파이트 블랙",
+            "블랙",
+            "그레이",
+            "graphite"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "gold"
+          ]
+        },
+        {
+          "name": "퍼시픽 블루",
+          "en": "Pacific Blue",
+          "aliases": [
+            "퍼시픽블루",
+            "퍼시픽",
+            "블루",
+            "네이비",
+            "pacific blue"
+          ]
+        }
+      ],
+      "aliases": [
+        "12프맥",
+        "12 프맥",
+        "12프로맥스",
+        "12 프로맥스",
+        "12 프로 맥스",
+        "12 promax",
+        "12 pro max",
+        "12promax",
+        "12pm",
+        "12 pm",
+        "아이폰12프로맥스",
+        "아이폰12 프로맥스",
+        "아이폰 12 프로맥스",
+        "아이폰12프맥",
+        "아이폰12 프맥",
+        "아이폰 12 프맥",
+        "iphone 12 pro max"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 12 프로",
+      "en": "iPhone 12 Pro",
+      "line": "아이폰",
+      "gen": "12",
+      "variant": "프로",
+      "release": "2020-10",
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "흰색",
+            "silver"
+          ]
+        },
+        {
+          "name": "그래파이트",
+          "en": "Graphite",
+          "aliases": [
+            "그라파이트",
+            "그래파이트 블랙",
+            "블랙",
+            "그레이",
+            "graphite"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "gold"
+          ]
+        },
+        {
+          "name": "퍼시픽 블루",
+          "en": "Pacific Blue",
+          "aliases": [
+            "퍼시픽블루",
+            "퍼시픽",
+            "블루",
+            "네이비",
+            "pacific blue"
+          ]
+        }
+      ],
+      "aliases": [
+        "12프로",
+        "12 프로",
+        "12 pro",
+        "12pro",
+        "아이폰12프로",
+        "아이폰12 프로",
+        "아이폰 12프로",
+        "iphone 12 pro"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 12",
+      "en": "iPhone 12",
+      "line": "아이폰",
+      "gen": "12",
+      "variant": "",
+      "release": "2020-10",
+      "storage": [
+        "64GB",
+        "128GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "하얀색",
+            "화이트색",
+            "실버",
+            "white"
+          ]
+        },
+        {
+          "name": "(PRODUCT)RED",
+          "en": "(PRODUCT)RED",
+          "aliases": [
+            "레드",
+            "빨강",
+            "빨간색",
+            "프로덕트레드",
+            "프로덕트 레드",
+            "PRODUCT(RED)",
+            "product red",
+            "productred",
+            "red",
+            "(product)red"
+          ]
+        },
+        {
+          "name": "그린",
+          "en": "Green",
+          "aliases": [
+            "초록",
+            "초록색",
+            "녹색",
+            "민트",
+            "민트색",
+            "green"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "파랑",
+            "파란색",
+            "네이비",
+            "미드나이트 블루",
+            "blue"
+          ]
+        },
+        {
+          "name": "퍼플",
+          "en": "Purple",
+          "aliases": [
+            "보라",
+            "보라색",
+            "purple"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰12",
+        "iphone 12",
+        "iphone12",
+        "아이폰12 일반",
+        "아이폰 12 일반",
+        "12일반",
+        "12 일반",
+        "아이폰12 기본",
+        "아이폰 12 기본형",
+        "아이폰12기본형"
+      ],
+      "verified": true,
+      "note": "퍼플은 2021-04 추가."
+    },
+    {
+      "name": "아이폰 12 미니",
+      "en": "iPhone 12 mini",
+      "line": "아이폰",
+      "gen": "12",
+      "variant": "미니",
+      "release": "2020-11",
+      "storage": [
+        "64GB",
+        "128GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "하얀색",
+            "화이트색",
+            "실버",
+            "white"
+          ]
+        },
+        {
+          "name": "(PRODUCT)RED",
+          "en": "(PRODUCT)RED",
+          "aliases": [
+            "레드",
+            "빨강",
+            "빨간색",
+            "프로덕트레드",
+            "프로덕트 레드",
+            "PRODUCT(RED)",
+            "product red",
+            "productred",
+            "red",
+            "(product)red"
+          ]
+        },
+        {
+          "name": "그린",
+          "en": "Green",
+          "aliases": [
+            "초록",
+            "초록색",
+            "녹색",
+            "민트",
+            "민트색",
+            "green"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "파랑",
+            "파란색",
+            "네이비",
+            "미드나이트 블루",
+            "blue"
+          ]
+        },
+        {
+          "name": "퍼플",
+          "en": "Purple",
+          "aliases": [
+            "보라",
+            "보라색",
+            "purple"
+          ]
+        }
+      ],
+      "aliases": [
+        "12미니",
+        "12 미니",
+        "12 mini",
+        "12mini",
+        "아이폰12미니",
+        "아이폰12 미니",
+        "아이폰 미니 12",
+        "아이폰미니12",
+        "미니12",
+        "iphone 12 mini"
+      ],
+      "verified": true,
+      "note": "퍼플은 2021-04 추가."
+    },
+    {
+      "name": "아이폰 SE 2세대",
+      "en": "iPhone SE (2nd generation)",
+      "line": "아이폰",
+      "gen": "SE",
+      "variant": "2세대",
+      "release": "2020-04",
+      "storage": [
+        "64GB",
+        "128GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "하얀색",
+            "화이트색",
+            "실버",
+            "오프화이트",
+            "white"
+          ]
+        },
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "스페이스 그레이",
+            "스페이스그레이",
+            "black"
+          ]
+        },
+        {
+          "name": "(PRODUCT)RED",
+          "en": "(PRODUCT)RED",
+          "aliases": [
+            "레드",
+            "빨강",
+            "빨간색",
+            "프로덕트레드",
+            "프로덕트 레드",
+            "PRODUCT(RED)",
+            "product red",
+            "productred",
+            "red",
+            "(product)red"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰 SE2",
+        "아이폰SE2",
+        "se2",
+        "se 2",
+        "se2세대",
+        "se 2세대",
+        "아이폰 SE 2",
+        "아이폰se 2세대",
+        "아이폰 se2세대",
+        "iphone se 2",
+        "iphone se2",
+        "iphone se 2nd",
+        "iphone se 2020",
+        "se 2020",
+        "se2020"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 11 프로 맥스",
+      "en": "iPhone 11 Pro Max",
+      "line": "아이폰",
+      "gen": "11",
+      "variant": "프로 맥스",
+      "release": "2019-09",
+      "storage": [
+        "64GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "silver"
+          ]
+        },
+        {
+          "name": "스페이스 그레이",
+          "en": "Space Gray",
+          "aliases": [
+            "스페이스그레이",
+            "스그",
+            "스페이스 그래이",
+            "스페이스그래이",
+            "스페이스그레이스",
+            "그레이",
+            "회색",
+            "space grey",
+            "spacegray",
+            "블랙",
+            "space gray"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "gold"
+          ]
+        },
+        {
+          "name": "미드나이트 그린",
+          "en": "Midnight Green",
+          "aliases": [
+            "미드나이트그린",
+            "미드나잇 그린",
+            "미드나잇그린",
+            "그린",
+            "딥그린",
+            "미드나이트",
+            "midnight green"
+          ]
+        }
+      ],
+      "aliases": [
+        "11프맥",
+        "11 프맥",
+        "11프로맥스",
+        "11 프로맥스",
+        "11 프로 맥스",
+        "11 promax",
+        "11 pro max",
+        "11promax",
+        "11pm",
+        "11 pm",
+        "아이폰11프로맥스",
+        "아이폰11 프로맥스",
+        "아이폰 11 프로맥스",
+        "아이폰11프맥",
+        "아이폰11 프맥",
+        "아이폰 11 프맥",
+        "iphone 11 pro max"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 11 프로",
+      "en": "iPhone 11 Pro",
+      "line": "아이폰",
+      "gen": "11",
+      "variant": "프로",
+      "release": "2019-09",
+      "storage": [
+        "64GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "silver"
+          ]
+        },
+        {
+          "name": "스페이스 그레이",
+          "en": "Space Gray",
+          "aliases": [
+            "스페이스그레이",
+            "스그",
+            "스페이스 그래이",
+            "스페이스그래이",
+            "스페이스그레이스",
+            "그레이",
+            "회색",
+            "space grey",
+            "spacegray",
+            "블랙",
+            "space gray"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "gold"
+          ]
+        },
+        {
+          "name": "미드나이트 그린",
+          "en": "Midnight Green",
+          "aliases": [
+            "미드나이트그린",
+            "미드나잇 그린",
+            "미드나잇그린",
+            "그린",
+            "딥그린",
+            "미드나이트",
+            "midnight green"
+          ]
+        }
+      ],
+      "aliases": [
+        "11프로",
+        "11 프로",
+        "11 pro",
+        "11pro",
+        "아이폰11프로",
+        "아이폰11 프로",
+        "아이폰 11프로",
+        "iphone 11 pro"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 11",
+      "en": "iPhone 11",
+      "line": "아이폰",
+      "gen": "11",
+      "variant": "",
+      "release": "2019-09",
+      "storage": [
+        "64GB",
+        "128GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "퍼플",
+          "en": "Purple",
+          "aliases": [
+            "보라",
+            "보라색",
+            "purple"
+          ]
+        },
+        {
+          "name": "그린",
+          "en": "Green",
+          "aliases": [
+            "초록",
+            "초록색",
+            "녹색",
+            "green"
+          ]
+        },
+        {
+          "name": "옐로",
+          "en": "Yellow",
+          "aliases": [
+            "옐로우",
+            "노랑",
+            "노란색",
+            "yellow"
+          ]
+        },
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "하얀색",
+            "화이트색",
+            "white"
+          ]
+        },
+        {
+          "name": "(PRODUCT)RED",
+          "en": "(PRODUCT)RED",
+          "aliases": [
+            "레드",
+            "빨강",
+            "빨간색",
+            "프로덕트레드",
+            "프로덕트 레드",
+            "PRODUCT(RED)",
+            "product red",
+            "productred",
+            "red",
+            "(product)red"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰11",
+        "iphone 11",
+        "iphone11",
+        "아이폰11 일반",
+        "아이폰 11 일반",
+        "11일반",
+        "11 일반",
+        "아이폰11 기본",
+        "아이폰 11 기본형",
+        "아이폰11기본형"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 XS 맥스",
+      "en": "iPhone XS Max",
+      "line": "아이폰",
+      "gen": "XS",
+      "variant": "맥스",
+      "release": "2018-09",
+      "storage": [
+        "64GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "흰색",
+            "silver"
+          ]
+        },
+        {
+          "name": "스페이스 그레이",
+          "en": "Space Gray",
+          "aliases": [
+            "스페이스그레이",
+            "스그",
+            "스페이스 그래이",
+            "스페이스그래이",
+            "스페이스그레이스",
+            "그레이",
+            "회색",
+            "space grey",
+            "spacegray",
+            "블랙",
+            "space gray"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "로즈골드",
+            "gold"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰xs맥스",
+        "아이폰xs 맥스",
+        "아이폰 xs맥스",
+        "xs맥스",
+        "xs 맥스",
+        "xs max",
+        "xsmax",
+        "xs맥",
+        "텐에스맥스",
+        "텐에스 맥스",
+        "아이폰 텐에스 맥스",
+        "아이폰텐에스맥스",
+        "iphone xs max"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 XS",
+      "en": "iPhone XS",
+      "line": "아이폰",
+      "gen": "XS",
+      "variant": "",
+      "release": "2018-09",
+      "storage": [
+        "64GB",
+        "256GB",
+        "512GB"
+      ],
+      "colors": [
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "흰색",
+            "silver"
+          ]
+        },
+        {
+          "name": "스페이스 그레이",
+          "en": "Space Gray",
+          "aliases": [
+            "스페이스그레이",
+            "스그",
+            "스페이스 그래이",
+            "스페이스그래이",
+            "스페이스그레이스",
+            "그레이",
+            "회색",
+            "space grey",
+            "spacegray",
+            "블랙",
+            "space gray"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "로즈골드",
+            "gold"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰xs",
+        "xs",
+        "텐에스",
+        "아이폰 텐에스",
+        "아이폰텐에스",
+        "아이폰 엑스에스",
+        "iphone xs"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 XR",
+      "en": "iPhone XR",
+      "line": "아이폰",
+      "gen": "XR",
+      "variant": "",
+      "release": "2018-10",
+      "storage": [
+        "64GB",
+        "128GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "하얀색",
+            "화이트색",
+            "white"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "파랑",
+            "파란색",
+            "blue"
+          ]
+        },
+        {
+          "name": "옐로",
+          "en": "Yellow",
+          "aliases": [
+            "옐로우",
+            "노랑",
+            "노란색",
+            "yellow"
+          ]
+        },
+        {
+          "name": "코럴",
+          "en": "Coral",
+          "aliases": [
+            "코랄",
+            "산호색",
+            "coral"
+          ]
+        },
+        {
+          "name": "(PRODUCT)RED",
+          "en": "(PRODUCT)RED",
+          "aliases": [
+            "레드",
+            "빨강",
+            "빨간색",
+            "프로덕트레드",
+            "프로덕트 레드",
+            "PRODUCT(RED)",
+            "product red",
+            "productred",
+            "red",
+            "(product)red"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰xr",
+        "xr",
+        "텐알",
+        "아이폰 텐알",
+        "아이폰텐알",
+        "아이폰 엑스알",
+        "iphone xr"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 X",
+      "en": "iPhone X",
+      "line": "아이폰",
+      "gen": "X",
+      "variant": "",
+      "release": "2017-11",
+      "storage": [
+        "64GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "흰색",
+            "실버 화이트",
+            "silver"
+          ]
+        },
+        {
+          "name": "스페이스 그레이",
+          "en": "Space Gray",
+          "aliases": [
+            "스페이스그레이",
+            "스그",
+            "스페이스 그래이",
+            "스페이스그래이",
+            "스페이스그레이스",
+            "그레이",
+            "회색",
+            "space grey",
+            "spacegray",
+            "블랙",
+            "space gray"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰x",
+        "아이폰텐",
+        "아이폰 텐",
+        "아이폰10",
+        "아이폰 10",
+        "아이폰 엑스",
+        "iphone x",
+        "iphonex"
+      ],
+      "verified": true,
+      "note": "ko-kr 108044 용량 표기 '64GB, GB, 256GB'는 오타; 실제 64GB/256GB."
+    },
+    {
+      "name": "아이폰 8 플러스",
+      "en": "iPhone 8 Plus",
+      "line": "아이폰",
+      "gen": "8",
+      "variant": "플러스",
+      "release": "2017-09",
+      "storage": [
+        "64GB",
+        "128GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "로즈골드",
+            "핑크골드",
+            "gold"
+          ]
+        },
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "흰색",
+            "silver"
+          ]
+        },
+        {
+          "name": "스페이스 그레이",
+          "en": "Space Gray",
+          "aliases": [
+            "스페이스그레이",
+            "스그",
+            "스페이스 그래이",
+            "스페이스그래이",
+            "스페이스그레이스",
+            "그레이",
+            "회색",
+            "space grey",
+            "spacegray",
+            "블랙",
+            "검정",
+            "space gray"
+          ]
+        },
+        {
+          "name": "(PRODUCT)RED",
+          "en": "(PRODUCT)RED",
+          "aliases": [
+            "레드",
+            "빨강",
+            "빨간색",
+            "프로덕트레드",
+            "프로덕트 레드",
+            "PRODUCT(RED)",
+            "product red",
+            "productred",
+            "red",
+            "(product)red"
+          ]
+        }
+      ],
+      "aliases": [
+        "8플러스",
+        "8 플러스",
+        "8+",
+        "8 +",
+        "8 plus",
+        "8plus",
+        "아이폰8플러스",
+        "아이폰8 플러스",
+        "아이폰8+",
+        "아이폰 8+",
+        "8플",
+        "iphone 8 plus",
+        "iphone 8+"
+      ],
+      "verified": true,
+      "note": "(PRODUCT)RED는 2018-04 추가. 출시 당시 용량 64/256GB, 128GB는 2019 추가."
+    },
+    {
+      "name": "아이폰 8",
+      "en": "iPhone 8",
+      "line": "아이폰",
+      "gen": "8",
+      "variant": "",
+      "release": "2017-09",
+      "storage": [
+        "64GB",
+        "128GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "로즈골드",
+            "핑크골드",
+            "gold"
+          ]
+        },
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "흰색",
+            "silver"
+          ]
+        },
+        {
+          "name": "스페이스 그레이",
+          "en": "Space Gray",
+          "aliases": [
+            "스페이스그레이",
+            "스그",
+            "스페이스 그래이",
+            "스페이스그래이",
+            "스페이스그레이스",
+            "그레이",
+            "회색",
+            "space grey",
+            "spacegray",
+            "블랙",
+            "검정",
+            "space gray"
+          ]
+        },
+        {
+          "name": "(PRODUCT)RED",
+          "en": "(PRODUCT)RED",
+          "aliases": [
+            "레드",
+            "빨강",
+            "빨간색",
+            "프로덕트레드",
+            "프로덕트 레드",
+            "PRODUCT(RED)",
+            "product red",
+            "productred",
+            "red",
+            "(product)red"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰8",
+        "iphone 8",
+        "iphone8",
+        "아이폰8 일반",
+        "아이폰 8 일반",
+        "8일반",
+        "8 일반",
+        "아이폰8 기본",
+        "아이폰 8 기본형",
+        "아이폰8기본형"
+      ],
+      "verified": true,
+      "note": "(PRODUCT)RED는 2018-04 추가. 출시 당시 용량 64/256GB, 128GB는 2019 추가."
+    },
+    {
+      "name": "아이폰 7 플러스",
+      "en": "iPhone 7 Plus",
+      "line": "아이폰",
+      "gen": "7",
+      "variant": "플러스",
+      "release": "2016-09",
+      "storage": [
+        "32GB",
+        "128GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "매트블랙",
+            "매트 블랙",
+            "무광 블랙",
+            "무광블랙",
+            "매트",
+            "black"
+          ]
+        },
+        {
+          "name": "제트 블랙",
+          "en": "Jet Black",
+          "aliases": [
+            "제트블랙",
+            "제트",
+            "유광 블랙",
+            "유광블랙",
+            "jet black"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "gold"
+          ]
+        },
+        {
+          "name": "로즈 골드",
+          "en": "Rose Gold",
+          "aliases": [
+            "로즈골드",
+            "로골",
+            "핑크골드",
+            "핑크 골드",
+            "rosegold",
+            "핑크",
+            "rose gold"
+          ]
+        },
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "silver"
+          ]
+        },
+        {
+          "name": "(PRODUCT)RED",
+          "en": "(PRODUCT)RED",
+          "aliases": [
+            "레드",
+            "빨강",
+            "빨간색",
+            "프로덕트레드",
+            "프로덕트 레드",
+            "PRODUCT(RED)",
+            "product red",
+            "productred",
+            "red",
+            "(product)red"
+          ]
+        }
+      ],
+      "aliases": [
+        "7플러스",
+        "7 플러스",
+        "7+",
+        "7 +",
+        "7 plus",
+        "7plus",
+        "아이폰7플러스",
+        "아이폰7 플러스",
+        "아이폰7+",
+        "아이폰 7+",
+        "7플",
+        "iphone 7 plus",
+        "iphone 7+"
+      ],
+      "verified": true,
+      "note": "'블랙'은 무광(매트) 블랙. (PRODUCT)RED는 2017-03 추가."
+    },
+    {
+      "name": "아이폰 7",
+      "en": "iPhone 7",
+      "line": "아이폰",
+      "gen": "7",
+      "variant": "",
+      "release": "2016-09",
+      "storage": [
+        "32GB",
+        "128GB",
+        "256GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "매트블랙",
+            "매트 블랙",
+            "무광 블랙",
+            "무광블랙",
+            "매트",
+            "black"
+          ]
+        },
+        {
+          "name": "제트 블랙",
+          "en": "Jet Black",
+          "aliases": [
+            "제트블랙",
+            "제트",
+            "유광 블랙",
+            "유광블랙",
+            "jet black"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "gold"
+          ]
+        },
+        {
+          "name": "로즈 골드",
+          "en": "Rose Gold",
+          "aliases": [
+            "로즈골드",
+            "로골",
+            "핑크골드",
+            "핑크 골드",
+            "rosegold",
+            "핑크",
+            "rose gold"
+          ]
+        },
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "silver"
+          ]
+        },
+        {
+          "name": "(PRODUCT)RED",
+          "en": "(PRODUCT)RED",
+          "aliases": [
+            "레드",
+            "빨강",
+            "빨간색",
+            "프로덕트레드",
+            "프로덕트 레드",
+            "PRODUCT(RED)",
+            "product red",
+            "productred",
+            "red",
+            "(product)red"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰7",
+        "iphone 7",
+        "iphone7",
+        "아이폰7 일반",
+        "아이폰 7 일반",
+        "7일반",
+        "7 일반",
+        "아이폰7 기본",
+        "아이폰 7 기본형",
+        "아이폰7기본형"
+      ],
+      "verified": true,
+      "note": "'블랙'은 무광(매트) 블랙. (PRODUCT)RED는 2017-03 추가."
+    },
+    {
+      "name": "아이폰 SE",
+      "en": "iPhone SE (1st generation)",
+      "line": "아이폰",
+      "gen": "SE",
+      "variant": "",
+      "release": "2016-03",
+      "storage": [
+        "16GB",
+        "32GB",
+        "64GB",
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "스페이스 그레이",
+          "en": "Space Gray",
+          "aliases": [
+            "스페이스그레이",
+            "스그",
+            "스페이스 그래이",
+            "스페이스그래이",
+            "스페이스그레이스",
+            "그레이",
+            "회색",
+            "space grey",
+            "spacegray",
+            "블랙",
+            "space gray"
+          ]
+        },
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "silver"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "gold"
+          ]
+        },
+        {
+          "name": "로즈 골드",
+          "en": "Rose Gold",
+          "aliases": [
+            "로즈골드",
+            "로골",
+            "핑크골드",
+            "핑크 골드",
+            "rosegold",
+            "rose gold"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰 SE 1세대",
+        "아이폰SE 1세대",
+        "아이폰se1",
+        "아이폰 SE1",
+        "아이폰 SE 1",
+        "se1",
+        "se 1",
+        "se1세대",
+        "se 1세대",
+        "아이폰 SE 초기형",
+        "iphone se 1",
+        "iphone se 1st",
+        "iphone se 2016",
+        "se 2016"
+      ],
+      "verified": true,
+      "note": "1세대(2016). 'SE' 단독 표기는 2·3세대일 수도 있어 문맥 확인 필요. 출시 당시 16/64GB, 2017-03 32/128GB로 변경."
+    },
+    {
+      "name": "아이폰 6S 플러스",
+      "en": "iPhone 6S Plus",
+      "line": "아이폰",
+      "gen": "6S",
+      "variant": "플러스",
+      "release": "2015-09",
+      "storage": [
+        "16GB",
+        "32GB",
+        "64GB",
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "스페이스 그레이",
+          "en": "Space Gray",
+          "aliases": [
+            "스페이스그레이",
+            "스그",
+            "스페이스 그래이",
+            "스페이스그래이",
+            "스페이스그레이스",
+            "그레이",
+            "회색",
+            "space grey",
+            "spacegray",
+            "블랙",
+            "space gray"
+          ]
+        },
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "silver"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "샴페인골드",
+            "샴페인 골드",
+            "gold"
+          ]
+        },
+        {
+          "name": "로즈 골드",
+          "en": "Rose Gold",
+          "aliases": [
+            "로즈골드",
+            "로골",
+            "핑크골드",
+            "핑크 골드",
+            "rosegold",
+            "rose gold"
+          ]
+        }
+      ],
+      "aliases": [
+        "6S플러스",
+        "6S 플러스",
+        "6S+",
+        "6S +",
+        "6s plus",
+        "6splus",
+        "아이폰6S플러스",
+        "아이폰6S 플러스",
+        "아이폰6S+",
+        "아이폰 6S+",
+        "6S플",
+        "iphone 6s plus",
+        "iphone 6s+",
+        "6에스플러스",
+        "6에스 플러스"
+      ],
+      "verified": true,
+      "note": "출시 당시 16/64/128GB, 2016-09 32/128GB로 변경."
+    },
+    {
+      "name": "아이폰 6S",
+      "en": "iPhone 6S",
+      "line": "아이폰",
+      "gen": "6S",
+      "variant": "",
+      "release": "2015-09",
+      "storage": [
+        "16GB",
+        "32GB",
+        "64GB",
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "스페이스 그레이",
+          "en": "Space Gray",
+          "aliases": [
+            "스페이스그레이",
+            "스그",
+            "스페이스 그래이",
+            "스페이스그래이",
+            "스페이스그레이스",
+            "그레이",
+            "회색",
+            "space grey",
+            "spacegray",
+            "블랙",
+            "space gray"
+          ]
+        },
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "silver"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "샴페인골드",
+            "샴페인 골드",
+            "gold"
+          ]
+        },
+        {
+          "name": "로즈 골드",
+          "en": "Rose Gold",
+          "aliases": [
+            "로즈골드",
+            "로골",
+            "핑크골드",
+            "핑크 골드",
+            "rosegold",
+            "rose gold"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰6S",
+        "iphone 6s",
+        "iphone6s",
+        "아이폰6S 일반",
+        "아이폰 6S 일반",
+        "6S일반",
+        "6S 일반",
+        "아이폰6S 기본",
+        "아이폰 6S 기본형",
+        "아이폰6S기본형",
+        "6s",
+        "6에스",
+        "아이폰 6에스",
+        "아이폰6에스"
+      ],
+      "verified": true,
+      "note": "출시 당시 16/64/128GB, 2016-09 32/128GB로 변경."
+    },
+    {
+      "name": "아이폰 6 플러스",
+      "en": "iPhone 6 Plus",
+      "line": "아이폰",
+      "gen": "6",
+      "variant": "플러스",
+      "release": "2014-09",
+      "storage": [
+        "16GB",
+        "64GB",
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "스페이스 그레이",
+          "en": "Space Gray",
+          "aliases": [
+            "스페이스그레이",
+            "스그",
+            "스페이스 그래이",
+            "스페이스그래이",
+            "스페이스그레이스",
+            "그레이",
+            "회색",
+            "space grey",
+            "spacegray",
+            "블랙",
+            "space gray"
+          ]
+        },
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "silver"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "gold"
+          ]
+        }
+      ],
+      "aliases": [
+        "6플러스",
+        "6 플러스",
+        "6+",
+        "6 +",
+        "6 plus",
+        "6plus",
+        "아이폰6플러스",
+        "아이폰6 플러스",
+        "아이폰6+",
+        "아이폰 6+",
+        "6플",
+        "iphone 6 plus",
+        "iphone 6+"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 6",
+      "en": "iPhone 6",
+      "line": "아이폰",
+      "gen": "6",
+      "variant": "",
+      "release": "2014-09",
+      "storage": [
+        "16GB",
+        "32GB",
+        "64GB",
+        "128GB"
+      ],
+      "colors": [
+        {
+          "name": "스페이스 그레이",
+          "en": "Space Gray",
+          "aliases": [
+            "스페이스그레이",
+            "스그",
+            "스페이스 그래이",
+            "스페이스그래이",
+            "스페이스그레이스",
+            "그레이",
+            "회색",
+            "space grey",
+            "spacegray",
+            "블랙",
+            "space gray"
+          ]
+        },
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "silver"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "gold"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰6",
+        "iphone 6",
+        "iphone6",
+        "아이폰6 일반",
+        "아이폰 6 일반",
+        "6일반",
+        "6 일반",
+        "아이폰6 기본",
+        "아이폰 6 기본형",
+        "아이폰6기본형"
+      ],
+      "verified": true,
+      "note": "32GB는 2017년 일부 시장 추가 모델."
+    },
+    {
+      "name": "아이폰 5S",
+      "en": "iPhone 5S",
+      "line": "아이폰",
+      "gen": "5S",
+      "variant": "",
+      "release": "2013-09",
+      "storage": [
+        "16GB",
+        "32GB",
+        "64GB"
+      ],
+      "colors": [
+        {
+          "name": "스페이스 그레이",
+          "en": "Space Gray",
+          "aliases": [
+            "스페이스그레이",
+            "스그",
+            "스페이스 그래이",
+            "스페이스그래이",
+            "스페이스그레이스",
+            "그레이",
+            "회색",
+            "space grey",
+            "spacegray",
+            "블랙",
+            "space gray"
+          ]
+        },
+        {
+          "name": "실버",
+          "en": "Silver",
+          "aliases": [
+            "은색",
+            "화이트",
+            "silver"
+          ]
+        },
+        {
+          "name": "골드",
+          "en": "Gold",
+          "aliases": [
+            "금색",
+            "gold"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰5S",
+        "iphone 5s",
+        "iphone5s",
+        "아이폰5S 일반",
+        "아이폰 5S 일반",
+        "5S일반",
+        "5S 일반",
+        "아이폰5S 기본",
+        "아이폰 5S 기본형",
+        "아이폰5S기본형",
+        "5s",
+        "아이폰 5에스",
+        "아이폰5에스"
+      ],
+      "verified": true,
+      "note": ""
+    },
+    {
+      "name": "아이폰 5C",
+      "en": "iPhone 5C",
+      "line": "아이폰",
+      "gen": "5C",
+      "variant": "",
+      "release": "2013-09",
+      "storage": [
+        "8GB",
+        "16GB",
+        "32GB"
+      ],
+      "colors": [
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "하얀색",
+            "화이트색",
+            "white"
+          ]
+        },
+        {
+          "name": "블루",
+          "en": "Blue",
+          "aliases": [
+            "파랑",
+            "파란색",
+            "blue"
+          ]
+        },
+        {
+          "name": "핑크",
+          "en": "Pink",
+          "aliases": [
+            "분홍",
+            "분홍색",
+            "pink"
+          ]
+        },
+        {
+          "name": "그린",
+          "en": "Green",
+          "aliases": [
+            "초록",
+            "초록색",
+            "녹색",
+            "green"
+          ]
+        },
+        {
+          "name": "옐로우",
+          "en": "Yellow",
+          "aliases": [
+            "옐로",
+            "노랑",
+            "노란색",
+            "yellow"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰5C",
+        "iphone 5c",
+        "iphone5c",
+        "아이폰5C 일반",
+        "아이폰 5C 일반",
+        "5C일반",
+        "5C 일반",
+        "아이폰5C 기본",
+        "아이폰 5C 기본형",
+        "아이폰5C기본형",
+        "5c",
+        "아이폰 5씨",
+        "아이폰5씨"
+      ],
+      "verified": true,
+      "note": "ko-kr 108044 표기는 '옐로우'(신형 모델은 '옐로'). 8GB는 2014 추가."
+    },
+    {
+      "name": "아이폰 5",
+      "en": "iPhone 5",
+      "line": "아이폰",
+      "gen": "5",
+      "variant": "",
+      "release": "2012-09",
+      "storage": [
+        "16GB",
+        "32GB",
+        "64GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "하얀색",
+            "화이트색",
+            "white"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰5",
+        "iphone 5",
+        "iphone5",
+        "아이폰5 일반",
+        "아이폰 5 일반",
+        "5일반",
+        "5 일반",
+        "아이폰5 기본",
+        "아이폰 5 기본형",
+        "아이폰5기본형"
+      ],
+      "verified": true,
+      "note": "공식 영문 색상명은 Black & Slate / White & Silver."
+    },
+    {
+      "name": "아이폰 4S",
+      "en": "iPhone 4S",
+      "line": "아이폰",
+      "gen": "4S",
+      "variant": "",
+      "release": "2011-10",
+      "storage": [
+        "8GB",
+        "16GB",
+        "32GB",
+        "64GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "하얀색",
+            "화이트색",
+            "white"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰4S",
+        "iphone 4s",
+        "iphone4s",
+        "아이폰4S 일반",
+        "아이폰 4S 일반",
+        "4S일반",
+        "4S 일반",
+        "아이폰4S 기본",
+        "아이폰 4S 기본형",
+        "아이폰4S기본형",
+        "4s",
+        "아이폰 4에스"
+      ],
+      "verified": true,
+      "note": "8GB는 2013 추가."
+    },
+    {
+      "name": "아이폰 4",
+      "en": "iPhone 4",
+      "line": "아이폰",
+      "gen": "4",
+      "variant": "",
+      "release": "2010-06",
+      "storage": [
+        "8GB",
+        "16GB",
+        "32GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "하얀색",
+            "화이트색",
+            "white"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰4",
+        "iphone 4",
+        "iphone4",
+        "아이폰4 일반",
+        "아이폰 4 일반",
+        "4일반",
+        "4 일반",
+        "아이폰4 기본",
+        "아이폰 4 기본형",
+        "아이폰4기본형"
+      ],
+      "verified": true,
+      "note": "화이트는 2011-04 출시."
+    },
+    {
+      "name": "아이폰 3GS",
+      "en": "iPhone 3GS",
+      "line": "아이폰",
+      "gen": "3GS",
+      "variant": "",
+      "release": "2009-06",
+      "storage": [
+        "8GB",
+        "16GB",
+        "32GB"
+      ],
+      "colors": [
+        {
+          "name": "블랙",
+          "en": "Black",
+          "aliases": [
+            "검정",
+            "검정색",
+            "검은색",
+            "까만색",
+            "블랙색",
+            "black"
+          ]
+        },
+        {
+          "name": "화이트",
+          "en": "White",
+          "aliases": [
+            "흰색",
+            "하얀색",
+            "화이트색",
+            "white"
+          ]
+        }
+      ],
+      "aliases": [
+        "아이폰3GS",
+        "iphone 3gs",
+        "iphone3gs",
+        "아이폰3GS 일반",
+        "아이폰 3GS 일반",
+        "3GS일반",
+        "3GS 일반",
+        "아이폰3GS 기본",
+        "아이폰 3GS 기본형",
+        "아이폰3GS기본형",
+        "3gs"
+      ],
+      "verified": true,
+      "note": ""
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+# 학습·평가 (scripts/). 검증한 버전. torch 는 CUDA 에 맞는 빌드를 설치한다.
+torch==2.13.0
+transformers==5.17.0
+peft==0.21.2
+accelerate==1.15.0

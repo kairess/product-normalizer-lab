@@ -1,0 +1,17 @@
+# 가상환경·캐시
+.venv*/
+__pycache__/
+node_modules/
+
+# 수집 게시글이 들어 있는 데이터·예측과, 큰 산출물 (README "데이터" 참고)
+/data/
+/preds/
+/out/
+
+# 외부 도구와 빌드 산출물 (llama.cpp, wllama 빌드)
+/tools/
+
+# 최종 결과에 쓰이지 않은 실험 코드·로그 (로컬 보관)
+/_archive/
+
+/res_*.json

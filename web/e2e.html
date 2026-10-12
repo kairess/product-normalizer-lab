@@ -1,0 +1,45 @@
+<!doctype html><meta charset="utf-8"><title>normalizer e2e</title>
+<!--
+  브라우저 전체 경로(wllama + JS 정규화기)로 평가셋을 돌린다. 저장소 루트를 web/serve.py 로 띄운 뒤 web/e2e.mjs 가 연다.
+  쿼리: model=GGUF 경로(이 페이지 기준) n=건수 start=시작 gpu=1(WebGPU) compat=force(호환 빌드 강제)
+-->
+<script type="module">
+const q = new URLSearchParams(location.search);
+const WLLAMA = '../tools/wllama-build/wllama';  // web/wllama/build.sh 의 산출물
+window.status = 'loading';
+try {
+  const { Wllama } = await import(`${WLLAMA}/esm/index.js`);
+  const { Catalog, Normalizer, LOAD_PARAMS } = await import('./normalizer/index.js');
+  const datas = await Promise.all(['catalog_apple.json', 'catalog_samsung.json'].map((f) => fetch(`../normalizer/data/${f}`).then((r) => r.json())));
+  const wl = new Wllama({ default: `${WLLAMA}/esm/wasm/wllama.wasm` }, { suppressNativeLog: true });
+  const compat = { wasm: `${WLLAMA}/compat/wasm/wllama.wasm`, worker: `${WLLAMA}/compat/wasm/wllama.js` };
+  wl.setCompat(compat);
+  if (q.get('compat') === 'force') {  // Chrome 에서 Safari 용 호환 빌드를 시험하려고 강제로 켠다
+    const orig = wl.getWorkerResources.bind(wl);
+    wl.getWorkerResources = () => ({ ...orig(), wasmPath: new URL(compat.wasm, location.href).href, jsPath: new URL(compat.worker, location.href).href, compat: true });
+  }
+  const model = q.get('model') || '../out/q08_final_lora/model-q4_k_m.gguf';
+  await wl.loadModelFromUrl(new URL(model, location.href).href, { ...LOAD_PARAMS, n_gpu_layers: q.get('gpu') === '1' ? 999 : 0 });
+  const nz = new Normalizer(wl, new Catalog(datas));
+  window.info = { compat: wl.proxy?.resources?.compat ?? null, multithread: wl.isMultithread(), threads: wl.getNumThreads() };
+  console.error('INFO', JSON.stringify(window.info));
+  const start = +(q.get('start') || 0);
+  const jsonl = await (await fetch('../data/eval1k_input.jsonl')).text();
+  const rows = jsonl.split('\n').filter((l) => l.trim()).map((l) => JSON.parse(l)).slice(start, start + +(q.get('n') || 1000));
+  const results = [];
+  for (const r of rows) {
+    const t = performance.now();
+    try {
+      results.push({ uid: r.uid, spec: await nz.normalize(r.title, r.body), ms: Math.round(performance.now() - t) });
+    } catch (e) {
+      results.push({ uid: r.uid, err: String(e).slice(0, 300) });
+      console.error('ITEM_ERR', r.uid, String(e).slice(0, 200));
+    }
+    if (results.length % 50 === 0) console.error('PROGRESS', results.length);
+  }
+  window.result = { info: window.info, results };
+  window.status = 'done';
+} catch (e) {
+  window.status = 'error: ' + (e.stack || e);
+}
+</script>

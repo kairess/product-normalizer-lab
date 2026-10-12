@@ -1,0 +1,56 @@
+diff --git a/cpp/glue.hpp b/cpp/glue.hpp
+index 9b338ce..380467f 100644
+--- a/cpp/glue.hpp
++++ b/cpp/glue.hpp
+@@ -542,6 +542,7 @@ struct glue_msg_load_req
+   GLUE_FIELD_NULLABLE(bool, ctx_shift)
+   GLUE_FIELD_NULLABLE(bool, cache_idle_slots)
+   GLUE_FIELD_NULLABLE(int, n_cache_reuse)
++  GLUE_FIELD_NULLABLE(int, cache_ram_mib)
+   GLUE_FIELD_NULLABLE(arr_str, lora_paths)
+   GLUE_FIELD_NULLABLE(arr_float, lora_scales)
+   GLUE_FIELD_NULLABLE(bool, lora_init_without_apply)
+diff --git a/cpp/wllama-context.h b/cpp/wllama-context.h
+index a112f59..f4a5102 100644
+--- a/cpp/wllama-context.h
++++ b/cpp/wllama-context.h
+@@ -530,6 +530,8 @@ struct wllama_context
+       params.cache_idle_slots = req.cache_idle_slots.value;
+     if (req.n_cache_reuse.not_null())
+       params.n_cache_reuse = req.n_cache_reuse.value;
++    if (req.cache_ram_mib.not_null())
++      params.cache_ram_mib = req.cache_ram_mib.value;
+ 
+     // lora
+     if (req.lora_paths.not_null())
+diff --git a/src/types/types.ts b/src/types/types.ts
+index de08636..8d6bce9 100644
+--- a/src/types/types.ts
++++ b/src/types/types.ts
+@@ -59,6 +59,12 @@ export interface LoadModelParams {
+   ctx_shift?: boolean;
+   cache_idle_slots?: boolean;
+   n_cache_reuse?: number;
++  /** max prompt cache size in MiB (-1 = no limit, 0 = disable). Each cached prompt keeps a full model state; for hybrid/recurrent models this is tens of MB per prompt */
++  cache_ram_mib?: number;
++  /** max number of context checkpoints per slot (hybrid/recurrent/SWA models) */
++  n_ctx_checkpoints?: number;
++  /** minimum spacing between context checkpoints in tokens */
++  checkpoint_min_step?: number;
+   lora_adapters?: { path: string; scale?: number }[];
+   lora_init_without_apply?: boolean;
+   spec_draft_model?: string;
+diff --git a/src/wllama.ts b/src/wllama.ts
+index 6ecbb68..c4c247e 100644
+--- a/src/wllama.ts
++++ b/src/wllama.ts
+@@ -567,6 +567,9 @@ export class Wllama {
+       ctx_shift: params.ctx_shift,
+       cache_idle_slots: params.cache_idle_slots,
+       n_cache_reuse: params.n_cache_reuse,
++      cache_ram_mib: params.cache_ram_mib,
++      n_ctx_checkpoints: params.n_ctx_checkpoints,
++      checkpoint_min_step: params.checkpoint_min_step,
+       lora_paths: params.lora_adapters?.map((a) => a.path),
+       lora_scales: params.lora_adapters?.map((a) => a.scale ?? 1.0),
+       lora_init_without_apply: params.lora_init_without_apply,
