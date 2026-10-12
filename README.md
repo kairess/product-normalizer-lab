@@ -2,6 +2,7 @@
 
 당근·번개장터·중고나라의 아이폰/갤럭시 매물 글을 정식 제품명·용량·색상·상태로 정규화한다. 이 작업을 **브라우저 안에서** 도는 0.8B 모델로 한다.
 
+- **체험:** [kairess.github.io/product-normalizer-lab](https://kairess.github.io/product-normalizer-lab/). 브라우저에서 모델이 바로 돈다
 - **모델 (GGUF Q4_K_M, 529MB):** [Hugging Face · kairess/used-phone-normalizer-0.8b-gguf](https://huggingface.co/kairess/used-phone-normalizer-0.8b-gguf)
 - **코드:** 이 저장소. 학습, 평가, 근거 검사, 카탈로그, JS 정규화기, 패치한 wllama 빌드가 들어 있다
 
@@ -49,6 +50,7 @@ scripts/             표본 추출 → 라벨 검사·재판정 묶음 → 학�
 web/
   normalizer/        JS 정규화기 (브라우저 추론). Python 판과 결과가 같다
   wllama/            wllama 패치와 빌드 스크립트
+  demo/              체험 페이지 (GitHub Pages 용 정적 사이트)
   e2e.html, e2e.mjs  브라우저 전체 경로로 평가셋 돌리기 (serve.py 로 로컬 서버)
 docs/                REPORT.md (실험 기록), LABELING_GUIDE.md (라벨 스키마·기준)
 ```
@@ -83,7 +85,7 @@ uv venv .venv-train && uv pip install --python .venv-train -r requirements.txt
 # llama.cpp: GGUF 변환용 소스(tools/llama.cpp)와 릴리스 바이너리 b11491(tools/llama-bin/llama-b11491)
 
 scripts/run_final.sh                                     # 학습 → out/q08_final_lora/model-q4_k_m.gguf → 채점
-# 학습 대신 공개 모델을 받으려면 (Hugging Face 에서 접근 승인 후)
+# 학습 대신 공개 모델을 받으려면
 hf download kairess/used-phone-normalizer-0.8b-gguf used-phone-normalizer-q4_k_m.gguf --local-dir out/hf-model
 .venv-train/bin/python scripts/score.py q08_final_lora_q4   # preds/{이름}_g.jsonl 채점 (규칙·Haiku와 함께)
 .venv-train/bin/python scripts/js_parity.py              # Python·JS 정규화기 대조 (다른 결과 0건이어야 함)
@@ -98,6 +100,15 @@ python3 web/serve.py &                                   # 저장소 루트를 C
 node web/e2e.mjs "n=1000" res_web.json                   # compat=force 를 붙이면 Safari용 호환 빌드를 시험
 # 받은 모델로 돌리려면: node web/e2e.mjs "n=1000&model=../out/hf-model/used-phone-normalizer-q4_k_m.gguf" res_web.json
 .venv-train/bin/python scripts/web_preds.py res_web.json q08_final_lora_web && .venv-train/bin/python scripts/score.py q08_final_lora_web
+```
+
+체험 페이지(`web/demo/`)는 정적 사이트로 만들어 GitHub Pages의 `gh-pages` 브랜치에 올린다. 모델은 Hugging Face에서 받는다.
+
+```bash
+web/demo/build.sh --local                                # → out/site (모델은 out/q08_final_lora 에서 링크)
+python3 web/serve.py 8780 --root out/site --host 0.0.0.0 # 같은 네트워크의 다른 기기에서 http://<IP>:8780
+node web/demo/check.mjs                                  # 예시 10개를 페이지 경로로 돌려 미리 저장한 출력과 비교
+web/demo/deploy.sh                                       # Hugging Face 모델로 다시 만들어 gh-pages 에 올린다
 ```
 
 앱에서는 다음처럼 쓴다. `LOAD_PARAMS`에 `cache_ram_mib: 0`이 들어 있다. 이 옵션은 패치한 wllama로만 동작하므로, CDN의 공식 빌드를 쓰지 말고 호환 빌드까지 직접 호스팅한다.
